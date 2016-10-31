@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-09 11:38+0000\n"
+"PO-Revision-Date: 2015-11-09 11:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Intranet_Mon_Profil_Partenaire.php:54
+msgid "Mon compte"
+msgstr "A minha conta"
+
+#: Intranet_Mon_Profil_Partenaire.php:54
+msgid "Professionnel"
+msgstr "Profissional"
+
+#: Intranet_Mon_Profil_Partenaire.php:73
+msgid ""
+"Votre présentation est prise en compte. Les affiliés NosRezo peuvent la "
+"consulter dans l'annuaire."
+msgstr ""
+"A sua apresentação foi guardada. Pode ser consultada no directório pelos "
+"afiliados NosRezo."
+
+#: Intranet_Mon_Profil_Partenaire.php:81
+msgid "Le service <b>RECHERCHE IMMOBILIÈRE</b> est ajouté à vos compétences"
+msgstr ""
+"O serviço <b>PROCURA IMOBILIÁRIA</b> foi adicionado às suas competências"
+
+#: Intranet_Mon_Profil_Partenaire.php:82
+msgid "Le service <b>RECHERCHE IMMOBILIÈRE</b> est retiré de vos compétences"
+msgstr ""
+"O serviço <b>PROCURA IMOBILIÁRIA</b> foi removido das suas competências"
+
+#: Intranet_Mon_Profil_Partenaire.php:90
+msgid "Le service <b>RECRUTEMENT IMMOBILIER</b> est ajouté à vos compétences"
+msgstr ""
+"O serviço <b>RECRUTAMENTO IMOBILIÁRIO</b> foi adicionado às suas competências"
+
+#: Intranet_Mon_Profil_Partenaire.php:91
+msgid "Le service <b>RECRUTEMENT IMMOBILIER</b> est retiré de vos compétences"
+msgstr ""
+"O serviço <b>RECRUTAMENTO IMOBILIÁRIO</b> foi removido das suas competências"
+
+#: Intranet_Mon_Profil_Partenaire.php:137
+msgid ""
+"Upload effectué avec succès : Pensez à rafraichir votre cache pour afficher "
+"la photo sur votre page !"
+msgstr ""
+"Carregamento efectuado com sucesso: lembre-se de actualizar a página para "
+"ver a foto!"
+
+#: Intranet_Mon_Profil_Partenaire.php:149
+msgid "Echec de l'upload !"
+msgstr "O carregamento falhou!"
+
+#: Intranet_Mon_Profil_Partenaire.php:218
+msgid "Mes données"
+msgstr "Os meus dados"
+
+#: Intranet_Mon_Profil_Partenaire.php:222
+msgid "MON MÉTIER"
+msgstr "A MINHA PROFISSÃO"
+
+#: Intranet_Mon_Profil_Partenaire.php:227
+msgid "MA PHOTO DE PROFIL"
+msgstr "A MINHA FOTO DE PERFIL"
+
+#: Intranet_Mon_Profil_Partenaire.php:232
+msgid "MES COMPÉTENCES"
+msgstr "AS MINHAS COMPETÊNCIAS"
+
+#: Intranet_Mon_Profil_Partenaire.php:238
+msgid "LANGUES PARLÉES"
+msgstr "IDIOMAS"
+
+#: Intranet_Mon_Profil_Partenaire.php:255
+msgid "Mon Entreprise est "
+msgstr "Minha empresa está "
+
+#: Intranet_Mon_Profil_Partenaire.php:259
+msgid "Me contacter au "
+msgstr "Contacte-me em "
+
+#: Intranet_Mon_Profil_Partenaire.php:265
+msgid "Mon secteur est de "
+msgstr "Meu setor é de "
+
+#: Intranet_Mon_Profil_Partenaire.php:265
+msgid "autour de "
+msgstr "ao redor"
+
+#: Intranet_Mon_Profil_Partenaire.php:288
+msgid ""
+"Présentez vous ici. Cette présentation sera visible dans l'annuaire par tous "
+"les Affiliés NosRezo"
+msgstr ""
+"Apresente-se aqui. Esta apresentação será visível no directório para todos "
+"os Afiliados NosRezo"
+
+#: Intranet_Mon_Profil_Partenaire.php:294
+msgid "VALIDER VOTRE PRÉSENTATION"
+msgstr "VALIDAR A SUA APRESENTAÇÃO"
+
+#: Intranet_Mon_Profil_Partenaire.php:310
+msgid ""
+"Nous souhaitons vous mettre en avant sur notre site public. Afin d'avoir "
+"plus de visibilité par l'ensemble des affiliés NosRezo, pensez à télécharger "
+"votre photo de profil."
+msgstr ""
+"Queremos destacá-lo na nossa página pública. De forma a ter mais "
+"visibilidade para todos os afiliados NosRezo, carregue a sua foto de prefil."
+
+#: Intranet_Mon_Profil_Partenaire.php:313
+msgid ""
+"Votre photo doit être de préférence carré et ne doit pas être supérieur à 1 "
+"M."
+msgstr ""
+"A sua foto deve ser quadrada de preferência e não deve ser superior a 1 MB."
+
+#: Intranet_Mon_Profil_Partenaire.php:323
+msgid "CHARGER VOTRE PHOTO"
+msgstr "CARREGAR A SUA FOTO"
+
+#: Intranet_Mon_Profil_Partenaire.php:418
+msgid "Je souhaite recevoir des recommandations dans les domaines suivants"
+msgstr "Quero receber recomendações nas seguintes áreas"
+
+#: Intranet_Mon_Profil_Partenaire.php:427
+msgid "Transactions immobilières"
+msgstr "Transações imobiliárias"
+
+#: Intranet_Mon_Profil_Partenaire.php:430
+msgid "Oui"
+msgstr "Sim"
+
+#: Intranet_Mon_Profil_Partenaire.php:447
+msgid "Recherche immobilière"
+msgstr "Procura imobiliária"
+
+#: Intranet_Mon_Profil_Partenaire.php:475
+msgid "Pré-requis Recrutement Immobilier"
+msgstr "Pré-requisito Recrutamento Imobiliário"
+
+#: Intranet_Mon_Profil_Partenaire.php:477
+msgid "Être Manager IAD France"
+msgstr "Ser Gestor IAD Portugal"
+
+#: Intranet_Mon_Profil_Partenaire.php:478
+msgid "Avoir des places disponibles sur son 1er niveau"
+msgstr "Ter lugares disponíveis no 1º nível"
+
+#: Intranet_Mon_Profil_Partenaire.php:479
+msgid "Avoir validé le pacte des Managers"
+msgstr "Ter validado o pacto dos Gestores"
+
+#: Intranet_Mon_Profil_Partenaire.php:483
+msgid "Être disponible"
+msgstr "Estar disponível"
+
+#: Intranet_Mon_Profil_Partenaire.php:484
+msgid "Pour assurer l'intégration du filleul"
+msgstr "Para garantir a integração do aprendiz"
+
+#: Intranet_Mon_Profil_Partenaire.php:494
+msgid "Engagements Recrutement immobilier"
+msgstr "Compromissos Recrutamento Imobiliário"
+
+#: Intranet_Mon_Profil_Partenaire.php:496
+msgid "Reverser 500 € HT à NR à la 1ère vente"
+msgstr "Pagar 500€ (excluindo taxas) ao NosRezo na 1ª venda"
+
+#: Intranet_Mon_Profil_Partenaire.php:497
+msgid "La commission est reversée aux affiliés en cas de vente"
+msgstr "A comissão é paga ao afiliados em caso de venda"
+
+#: Intranet_Mon_Profil_Partenaire.php:498
+msgid "Uniquement la 1ière vente"
+msgstr "Unicamente na 1ª venda"
+
+#: Intranet_Mon_Profil_Partenaire.php:502
+msgid "Mettre à jour son intranet"
+msgstr "Actualizar intranet"
+
+#: Intranet_Mon_Profil_Partenaire.php:503
+msgid ""
+"En cas de multiples relances, NosRezo se réserve le droit de bloquer votre "
+"compte"
+msgstr ""
+"No caso de vários aviso, o NosRezo reserva-se o direito de bloquear a sua "
+"conta"
+
+#: Intranet_Mon_Profil_Partenaire.php:512
+msgid "Recrutement immobilier"
+msgstr "Recrutamento imobiliário"
+
+#: Intranet_Mon_Profil_Partenaire.php:577
+msgid "Tous droits réservés"
+msgstr "Todos os direitos reservados"

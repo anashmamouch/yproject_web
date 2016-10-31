@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-06 10:39+0000\n"
+"PO-Revision-Date: 2015-11-06 10:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Intranet_Simulation.php:65
+msgid "Simulateur"
+msgstr "Simulador"
+
+#: Intranet_Simulation.php:74
+msgid "Chaque affilié se constitue un réseau de"
+msgstr "Cada afiliado constitui uma rede de"
+
+#: Intranet_Simulation.php:78 Intranet_Simulation.php:79
+msgid "affilié"
+msgstr "afiliado"
+
+#: Intranet_Simulation.php:80 Intranet_Simulation.php:81
+#: Intranet_Simulation.php:82 Intranet_Simulation.php:83
+msgid "affiliés"
+msgstr "afiliados"
+
+#: Intranet_Simulation.php:116
+msgid "Chaque affilié réalise 1 recommandation"
+msgstr "Cada afiliado efectua 1 recomendação"
+
+#: Intranet_Simulation.php:120 Intranet_Simulation.php:121
+#: Intranet_Simulation.php:122
+msgid "Vente Appartement"
+msgstr "Venda de Apartamento"
+
+#: Intranet_Simulation.php:120 Intranet_Simulation.php:121
+#: Intranet_Simulation.php:122 Intranet_Simulation.php:128
+#: Intranet_Simulation.php:129 Intranet_Simulation.php:130
+msgid "Valeur"
+msgstr "Valor"
+
+#: Intranet_Simulation.php:124 Intranet_Simulation.php:125
+#: Intranet_Simulation.php:126
+msgid "Travaux rénovation"
+msgstr "Trabalhos de renovação"
+
+#: Intranet_Simulation.php:124 Intranet_Simulation.php:125
+#: Intranet_Simulation.php:126
+msgid "Devis"
+msgstr "Orçamento"
+
+#: Intranet_Simulation.php:128 Intranet_Simulation.php:129
+#: Intranet_Simulation.php:130
+msgid "Financement de prêt"
+msgstr "Empréstimo financeiro"
+
+#: Intranet_Simulation.php:132
+msgid "Recrutement Immobilier"
+msgstr "Recrutamento imobiliário"
+
+#: Intranet_Simulation.php:132
+msgid "France"
+msgstr "França"
+
+#: Intranet_Simulation.php:140
+msgid "Affiliés NosRezo actifs"
+msgstr "Afiliados NosRezo activos"
+
+#: Intranet_Simulation.php:144 Intranet_Simulation.php:145
+#: Intranet_Simulation.php:146
+msgid "de votre développement est actif"
+msgstr "do seu desenvolvimento está activo"
+
+#: Intranet_Simulation.php:168
+msgid "AFFILIÉS PAR NIVEAU"
+msgstr "AFILIADOS POR NÍVEL"
+
+#: Intranet_Simulation.php:169 Intranet_Simulation.php:236
+msgid "POTENTIEL GAIN BRUT"
+msgstr "POTENCIAL LUCRO BRUTO"
+
+#: Intranet_Simulation.php:235
+msgid "DÉTAILS DES CALCULS"
+msgstr "DETALHES DE CÁLCULO"

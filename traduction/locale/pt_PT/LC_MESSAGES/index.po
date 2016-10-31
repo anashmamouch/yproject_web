@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-09-13 13:01+0000\n"
+"PO-Revision-Date: 2016-09-13 13:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: index2.php\n"
+
+#: index2.php:22
+msgid "L'application qui vous rémunère en rendant service"
+msgstr "A aplicação que o remunera por prestar serviço"
+
+#: index2.php:47 index2.php:156
+msgid "Inscription"
+msgstr "Inscrição"
+
+#: index2.php:68
+msgid "L'application qui <br/> vous rémunère<br/>pour rendre service"
+msgstr "A aplicação que <br/> o remunera<br/> por prestar serviço"
+
+#: index2.php:71
+msgid "C'est quoi NosRezo ?"
+msgstr "O que é a NosRezo?"
+
+#: index2.php:102
+msgid "Téléchargez l'application"
+msgstr "Descarregue a aplicação"
+
+#: index2.php:104
+msgid "Disponible dans l’App Store"
+msgstr "Disponível em  App Store"
+
+#: index2.php:107
+msgid "Disponible dans Google Play"
+msgstr "Disponível em Google Play"
+
+#: index2.php:143 index2.php:145 index2.php:150
+msgid "Identifiant ou adresse email"
+msgstr "ID ou e-mail"
+
+#: index2.php:148
+msgid "Mot de passe"
+msgstr "Palavra-passe"
+
+#: index2.php:152
+msgid "Connexion"
+msgstr "Connexion"
+
+#: index2.php:154
+msgid "Identifiant ou mot de passe oublié ?"
+msgstr "Esqueceu-se do utilizador ou da palavra-passe?"
+
+#: index2.php:156
+msgid "Pas encore inscrit ?"
+msgstr "Não está registado?"
+
+#: index2.php:165
+msgid "Mot de passe oublié ?"
+msgstr "Palavra chave ?"
+
+#: index2.php:166
+msgid "Entrez votre adresse email ci-dessous pour recevoir votre mot de passe."
+msgstr "Indique o seu email abaixo para receber a sua palavra chave."
+
+#: index2.php:170
+msgid "Email affilié ou email partenaire"
+msgstr "Email afiliado e email parceiro"
+
+#: index2.php:174
+msgid "Retour"
+msgstr "Voltar"
+
+#: index2.php:175
+msgid "Recevoir"
+msgstr "Receber"
+
+#: index2.php:217
+msgid "Mentions légales"
+msgstr "Aviso legal"
+
+#: index2.php:222
+msgid "Contact"
+msgstr "Contacto"
+
+#: index2.php:246
+msgid "Tous droits réservés"
+msgstr "Todos os direitos reservados"

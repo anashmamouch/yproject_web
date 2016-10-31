@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-04 18:07+0000\n"
+"PO-Revision-Date: 2015-11-06 09:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Intranet_Nouvelle_recommandation.php:55
+msgid "Merci de saisir tous les champs ci-dessous"
+msgstr "Por favor preencha todos os campos abaixo"
+
+#: Intranet_Nouvelle_recommandation.php:56
+msgid "Prise en compte de votre recommandation"
+msgstr "Tendo em consideração a sua recomendação"
+
+#: Intranet_Nouvelle_recommandation.php:61
+msgid "Mise en relation pour un besoin"
+msgstr "Estabelecer ligação para uma necessidade"
+
+#: Intranet_Nouvelle_recommandation.php:123
+msgid "Toutes catégories"
+msgstr "Todas as categorias"
+
+#: Intranet_Nouvelle_recommandation.php:155
+msgid "TOUS LES POINTS SUIVANTS DOIVENT ÊTRE VALIDÉS"
+msgstr "TODOS OS PONTOS SEGUINTES DEVEM SER VALIDADOS"
+
+#: Intranet_Nouvelle_recommandation.php:156
+msgid "Votre contact acquéreur"
+msgstr "O seu contacto comprador"
+
+#: Intranet_Nouvelle_recommandation.php:157
+msgid "A validé son financement"
+msgstr "Validou o seu financiamento"
+
+#: Intranet_Nouvelle_recommandation.php:157
+msgid ""
+"Si le financement n'est pas encore validé, recommandez nos partenaires !"
+msgstr ""
+"Se o financiamento ainda não foi validado então recomende os nossos "
+"parceiros!"
+
+#: Intranet_Nouvelle_recommandation.php:158
+msgid "Accepte de mandater un chasseur immobilier"
+msgstr "Aceita o mandato de um agente imobiliário"
+
+#: Intranet_Nouvelle_recommandation.php:158
+msgid "La signature du mandat est obligatoire !"
+msgstr "A assinatura do mandato é obrigatória!"
+
+#: Intranet_Nouvelle_recommandation.php:159
+msgid "Il  n'a pas le temps de rechercher par lui même"
+msgstr "Ele não tem tempo para efectuar a pesquisa ele próprio"
+
+#: Intranet_Nouvelle_recommandation.php:159
+msgid ""
+"Si votre contact connaît tous les biens du marché, il sera difficile de lui "
+"en trouver de nouveaux"
+msgstr ""
+"Se o seu contacto conhece todos os imóveis do mercado, será difícil lhe "
+"apresentar novos"
+
+#: Intranet_Nouvelle_recommandation.php:160
+msgid "Il n'a pas besoin de vendre son bien au préalable"
+msgstr "Não precisa de vender a sua propriedade em antecedência"
+
+#: Intranet_Nouvelle_recommandation.php:160
+msgid "Si la vente n'est pas réalisé, recommandez nos partrenaires !"
+msgstr "Se a venda não foi realizada então recomende os nossos parceiros!"
+
+#: Intranet_Nouvelle_recommandation.php:179
+msgid "Code postal ou ville de la recommandation"
+msgstr "Código postal ou localidade da recomendação"
+
+#: Intranet_Nouvelle_recommandation.php:298
+msgid "Laissez NosRezo choisir pour vous le meilleur formateur sur le secteur"
+msgstr "Deixe NosRezo escolher por si o melhor formador do mercado"
+
+#: Intranet_Nouvelle_recommandation.php:299
+msgid "Laissez l'algorithme choisir pour vous le meilleur partenaire"
+msgstr "Deixe o algoritmo escolher por si o melhor parceiro"
+
+#: Intranet_Nouvelle_recommandation.php:313
+msgid "à"
+msgstr "à"
+
+#: Intranet_Nouvelle_recommandation.php:313
+msgid "Avec"
+msgstr "Com"
+
+#: Intranet_Nouvelle_recommandation.php:313
+msgid "points"
+msgstr "pontos"
+
+#: Intranet_Nouvelle_recommandation.php:313
+msgid "Points Algo"
+msgstr "Pontos Algo"
+
+#: Intranet_Nouvelle_recommandation.php:313
+msgid "Points distance"
+msgstr "Pontos distância"
+
+#: Intranet_Nouvelle_recommandation.php:313
+msgid "ID Partenaire"
+msgstr "ID Parceiro"
+
+#: Intranet_Nouvelle_recommandation.php:324
+msgid "Choisir un partenaire"
+msgstr "Escolher um parceiro"
+
+#: Intranet_Nouvelle_recommandation.php:339
+msgid ""
+"Exemple commentaire : Ma cousine qui travaille dans l'éducation nationale "
+"vient d'être mutée à Marseille. Cela fait 3 mois que son projet stagne. Je "
+"lui ai dit que j'allais lui trouver le meilleur professionnel du secteur. La "
+"contacter après 18h. Merci de votre aide."
+msgstr ""
+"Exemplo de um comentário: A minha prima que trabalha para a educação "
+"nacional acaba de ser transferida para Lisboa. Já há 3 meses que o seu "
+"projeto está estagnado, e eu propus-lhe ajudá-la a encontrar o melhor "
+"profissional do sector. Contactar depois das 18h. "
+
+#: Intranet_Nouvelle_recommandation.php:340
+msgid ""
+"Exemple commentaire : Mon collègue souhaite acheter un appartement en "
+"investissement locatif sur Paris. Je lui ai conseillé un de nos partenaires. "
+"Il souhaite être contacté pour une simulation de financement."
+msgstr ""
+"Exemplo de um comentário: o meu colega quer comprar um apartamento em Paris "
+"para investir em aluguer. Aconselhei-lhe um dos nossos parceiros. Ele deve "
+"ser contactado para uma simulação de financiamento."
+
+#: Intranet_Nouvelle_recommandation.php:341
+msgid ""
+"Exemple commentaire : Mon ami souhaite s'orienter vers les métiers de "
+"l'immobilier et souhaiterais en savoir plus sur votre structure. Il vit "
+"actuellement à Bordeaux. Je lui ai dit que vous alliez le contacter de ma "
+"part. "
+msgstr ""
+"Exemplo de comentário: o meu amigo quer conhecer o negócio imobiliário e "
+"quer saber mais sobre a vossa estrutura. Ele vive actualmente em Lisboa. "
+"Disse que o iriam contactar."
+
+#: Intranet_Nouvelle_recommandation.php:342
+msgid ""
+"Exemple commentaire : Mon voisin a besoin de refaire entièrement la cuisine "
+"de son appartement. Il aimerait avoir un devis. Je lui ai dit qu'il allait "
+"être contacté par un très bon professionnel."
+msgstr ""
+"Exemplo de comentário: o meu vizinho necessita de refazer completamente a "
+"cozinha do seu apartamento. Ele gostaria de receber um orçamento. Disse-se "
+"que seria contactado por um óptimo profissional."
+
+#: Intranet_Nouvelle_recommandation.php:349
+msgid "Nom du contact"
+msgstr "Apelido do contacto"
+
+#: Intranet_Nouvelle_recommandation.php:359
+msgid "Prénom du contact"
+msgstr "Nome próprio do contacto"
+
+#: Intranet_Nouvelle_recommandation.php:393
+msgid "Adresse"
+msgstr "Morada"
+
+#: Intranet_Nouvelle_recommandation.php:401
+msgid "N° Mobile"
+msgstr "N° de telemóvel"
+
+#: Intranet_Nouvelle_recommandation.php:417
+msgid "J'accepte et applique les règles de recommandation"
+msgstr " Aceito e aplico as regras de recomendação"
+
+#: Intranet_Nouvelle_recommandation.php:426
+msgid "Je souhaite <b>NE PAS</b> être rémunéré sur ce dossier"
+msgstr "Desejo <b>não</b> ser remunerado neste dossier"
+
+#: Intranet_Nouvelle_recommandation.php:429
+msgid "Je souhaite reverser ma rémunération à mon Association"
+msgstr "Eu desejo transferir a remuneração para a minha Associação"
+
+#: Intranet_Nouvelle_recommandation.php:436
+msgid "RECOMMANDER"
+msgstr "RECOMENDAR"
+
+#: Intranet_Nouvelle_recommandation.php:437
+msgid "EFFACER"
+msgstr "APAGAR"
+
+#: Intranet_Nouvelle_recommandation.php:471
+msgid "Tous droits réservés"
+msgstr "Todos os direitos reservados"
+
+#: Intranet_Nouvelle_recommandation.php:619
+msgid "Votre recommandation est bien prise en compte"
+msgstr "A sua recomendação foi efectuada com sucesso"
+
+#: Intranet_Nouvelle_recommandation.php:623
+msgid ""
+"Prescription non prise en compte : merci de vérifier tous vos champs ou de "
+"contacter le support à"
+msgstr ""
+"Recomendação não efectuada! Por favor verifique todos os campos ou contacte "
+"o suporte através de"

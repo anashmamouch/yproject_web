@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-09-27 10:57+0200\n"
+"PO-Revision-Date: 2016-09-27 10:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: signup.php\n"
+
+#: signup.php:98
+msgid "Merci de saisir tous les champs ci-dessous"
+msgstr "Deve preencher todos os campos"
+
+#: signup.php:99
+msgid "Bienvenue chez NosRezo"
+msgstr "Benvindo a NosRezo"
+
+#: signup.php:99
+msgid ""
+"Vous venez de recevoir vos codes par mail : Pensez à regarder dans les spams."
+msgstr "Códigos enviados por email: pense em verificar nos spams"
+
+#: signup.php:99
+msgid "N'oubliez pas que n'avez que 5 invitations"
+msgstr "Não se esqueça que tem apenas 5 convites"
+
+#: signup.php:102
+msgid "Inscription."
+msgstr "Inscrição."
+
+#: signup.php:103
+msgid "Uniquement sur invitation."
+msgstr "Por convite unicamente"
+
+#: signup.php:118
+msgid "Monsieur"
+msgstr "Senhor"
+
+#: signup.php:125
+msgid "Madame"
+msgstr "Senhora"
+
+#: signup.php:130
+msgid "Oups ! Vous êtes déjà chez nous."
+msgstr "Oups! Já pertence ao grupo."
+
+#: signup.php:130
+msgid "Faites une demande de mot de passe!"
+msgstr "Faça um petido de palavra pass !"
+
+#: signup.php:131
+msgid "Oups ! Votre parrain n'a plus de place disponible."
+msgstr "Oups! O seu padrinho já não tem lugares disponíveis."
+
+#: signup.php:131
+msgid "Pas de panique, appelez-le et tout va rentrer dans l'ordre!"
+msgstr "Sem stress, entre em contato com ele e tudo ficará resolvido."
+
+#: signup.php:133
+msgid "Nom"
+msgstr "Nome"
+
+#: signup.php:136
+msgid "Votre nom"
+msgstr "O seu apelido"
+
+#: signup.php:144
+msgid "Prénom"
+msgstr "Apelido"
+
+#: signup.php:146
+msgid "Votre prénom"
+msgstr "O seu nome"
+
+#: signup.php:151
+msgid "Merci de saisir un numéro de téléphone correct."
+msgstr "Deve colocar um número de telefone correto."
+
+#: signup.php:151
+msgid "Exemple: 0608508812"
+msgstr "Exemplo: 00351965638970"
+
+#: signup.php:153
+msgid "Numéro"
+msgstr "Número"
+
+#: signup.php:155
+msgid "Votre N° de téléphone"
+msgstr "O seu n° de telefone "
+
+#: signup.php:160
+msgid "Merci de saisir 2 mails identiques!"
+msgstr "Deve colocar 2 emails idênticos"
+
+#: signup.php:162 signup.php:169
+msgid "Email"
+msgstr "Email"
+
+#: signup.php:164
+msgid "Votre email"
+msgstr "O seu email"
+
+#: signup.php:171
+msgid "Confirmer votre email"
+msgstr "Confirmação email"
+
+#: signup.php:176
+msgid "Merci de saisir un Code Postal correct."
+msgstr "Deve colocar o código postal correto."
+
+#: signup.php:176
+msgid "Exemples"
+msgstr "Exemplos"
+
+#: signup.php:178
+msgid "Code Postal"
+msgstr "Código Postal "
+
+#: signup.php:180
+msgid "Code postal"
+msgstr "Código Postal "
+
+#: signup.php:185
+msgid "Ville"
+msgstr "Cidade"
+
+#: signup.php:187
+msgid "Votre ville"
+msgstr "A sua cidade"
+
+#: signup.php:192
+msgid "Merci de saisir une date de naissance qui nous parle!"
+msgstr "Deve colocar uma data de nascimento correta."
+
+#: signup.php:192
+msgid "Exemples: 15/07/1979, ..."
+msgstr "Exemplos: 15/07/1979"
+
+#: signup.php:193
+msgid "Désolé mais tu dois avoir plus de 18 ans."
+msgstr "Peço desculpa mas deve ter mais de 18 anos."
+
+#: signup.php:193
+msgid "Attention : nous allons vérifier!"
+msgstr "Atenção: nós vamos verificar."
+
+#: signup.php:195
+msgid "Date de naissance"
+msgstr "Data de nascimento "
+
+#: signup.php:197
+msgid "Date de naissance JJ/MM/AAAA"
+msgstr "Data de nascimento DD/MM/AAAA"
+
+#: signup.php:202
+msgid "Merci de saisir un ID parrain valide"
+msgstr "Deve colocar a ID correta do agente"
+
+#: signup.php:202
+msgid "Exemples: 6512, 47, ..."
+msgstr "Exemplos: 6512, 47,...."
+
+#: signup.php:203
+msgid "Oups ! Aucun Affilié ne correspond à votre parrain"
+msgstr "Oups! Nenhum filiado corresponde ao seu agente"
+
+#: signup.php:203
+msgid "Exemples de nom: DURAND, Marc, Sophie, ..."
+msgstr "Exemplos de nomes: DURAND, Marc, Sophie, ..."
+
+#: signup.php:203
+msgid "N'hésitez pas à appeler votre parrain!"
+msgstr "Não hesite em telefonar ao seu agente!"
+
+#: signup.php:206
+msgid "Identifiant du parrain"
+msgstr "Identificação do agente"
+
+#: signup.php:208
+msgid "ID de votre parrain"
+msgstr "ID do seu agente"
+
+#: signup.php:213
+msgid "Nom du parrain"
+msgstr "Nome agente"
+
+#: signup.php:215
+msgid "Nom ou prénom de votre parrain"
+msgstr "Nome ou apelido do seu agente"
+
+#: signup.php:215
+msgid "Pas besoin de respecter les majuscules ou minuscules"
+msgstr "Não é necessário respeitar as maiúsculas ou minúsculas"
+
+#: signup.php:222
+msgid "Vous n'avez pas de parrain NosRezo"
+msgstr ""
+
+#: signup.php:229
+msgid ""
+"Merci d'accepter les conditions suivantes si vous souhaitez nous rejoindre"
+msgstr "Deve aceitar as seguintes condiçōes se deseja juntar-se a nós"
+
+#: signup.php:232
+msgid "Vous acceptez les"
+msgstr "Aceite as"
+
+#: signup.php:232
+msgid "Conditions générales d'inscription"
+msgstr "Condições gerais de inscrição"
+
+#: signup.php:238
+msgid "Vous certifiez avoir plus de 18 ans"
+msgstr "Certifico-me ter mais de 18 anos"
+
+#: signup.php:244
+msgid "Retour"
+msgstr "Voltar "
+
+#: signup.php:245
+msgid "Devenir membre"
+msgstr "Inscrição "
+
+#: signup.php:260
+msgid "Réseau privé de partage d'affaires."
+msgstr "Rede privada de partilha de negócios"
+
+#: signup.php:482
+msgid ""
+"Inscription non disponible merci de contacter le support à contact@nosrezo."
+"com"
+msgstr ""
+"Inscrição não disponível, contate o suporte atravez de contact@nosrezo.com"
+
+#~ msgid "Inscription"
+#~ msgstr "Inscrição"
+
+#~ msgid "Merci de saisir un numéro de téléphone correct"
+#~ msgstr "Numero de telefone (móvel ou fixo) (+351) "

@@ -1,0 +1,5805 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-07-13 14:38+0000\n"
+"PO-Revision-Date: 2016-07-20 08:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: APPLI\n"
+"X-Poedit-SearchPathExcluded-1: APPLI2\n"
+"X-Poedit-SearchPathExcluded-2: APPLI3\n"
+"X-Poedit-SearchPathExcluded-3: assets\n"
+"X-Poedit-SearchPathExcluded-4: TEMPLATE_ADMIN\n"
+"X-Poedit-SearchPathExcluded-5: scripts/theCallR\n"
+"X-Poedit-SearchPathExcluded-6: scripts_old\n"
+
+#: Intranet_Accueil.php:35
+msgid "il vous reste <b>seulement "
+msgstr "você está apenas a "
+
+#: Intranet_Accueil.php:36
+msgid "vous n'avez plus d'invitations !"
+msgstr "você não tém mais convites"
+
+#: Intranet_Accueil.php:53
+msgid "Tous Les Lundis à 21h"
+msgstr "Todas as segundas-feiras às 21h"
+
+#: Intranet_Accueil.php:53
+msgid "WEBINAR pour maitriser NosRezo"
+msgstr "WEBINAR para dominar NosRezo"
+
+#: Intranet_Accueil.php:61 NosRezo12345678918.php:33 login.php:79
+msgid "Bonjour"
+msgstr "Olá"
+
+#: Intranet_Accueil.php:66 NosRezo12345678918.php:38
+msgid "Bienvenue"
+msgstr "Bemvindo"
+
+#: Intranet_Accueil.php:66 NosRezo12345678918.php:38
+msgid "dans votre espace NosRezo,"
+msgstr "no seu espaço Nosrezo,"
+
+#: Intranet_Accueil.php:68 NosRezo12345678918.php:39
+msgid "Pour toute question suivi qualité"
+msgstr "Para qualquer questão contacte"
+
+#: Intranet_Accueil.php:68 Intranet_Documents.php:259
+#: Intranet_Dossiers_Equipe.php:68 Intranet_partenaire_2.php:41
+#: NosRezo12345678918.php:39 scripts/tableau_prescription.php:20
+msgid "ou"
+msgstr "ou"
+
+#: Intranet_Accueil.php:109
+msgid "À la UNE"
+msgstr "Em destaque"
+
+#: Intranet_Accueil.php:109 Intranet_Mon_Profil_parrainage.php:179
+#: Intranet_Mon_Profil_parrainage.php:182
+msgid "sur"
+msgstr "sobre"
+
+#: Intranet_Accueil.php:127
+msgid "Comment ça marche ?"
+msgstr "Como funciona ?"
+
+#: Intranet_Accueil.php:136 index.php:193
+msgid "Présentation du concept NosRezo"
+msgstr "Apresentação do conceito Nosrezo"
+
+#: Intranet_Accueil.php:166
+msgid "Comment mettre en relation ?"
+msgstr "Como vincular?"
+
+#: Intranet_Accueil.php:172 Intranet_Accueil.php:202
+msgid "Comment en parler ?"
+msgstr "Como apresentar?"
+
+#: Intranet_Accueil.php:175 Intranet_Accueil.php:205 Intranet_Documents.php:69
+msgid "Les 2 phrases-clés"
+msgstr "As 2 frases chaves"
+
+#: Intranet_Accueil.php:180
+msgid "Un de vos contacts à besoin d'un professionnel pour un devis gratuit ?"
+msgstr ""
+"Um dos seus contactos precisa de um profissional para um orçamento grátis?"
+
+#: Intranet_Accueil.php:183
+msgid "Mettre en relation"
+msgstr "Por em contacto"
+
+#: Intranet_Accueil.php:196
+msgid "Comment inviter un ami sur NosRezo ?"
+msgstr "Como convidar um amigo a inscrever-se em NosRezo?"
+
+#: Intranet_Accueil.php:210
+msgid "Soit vous lui envoyez une invitation :"
+msgstr "Ou lhe envia um convite :"
+
+#: Intranet_Accueil.php:217
+msgid "Soit vous êtes avec lui pour l'inscrire :"
+msgstr "ou está com ele para o inscrever"
+
+#: Intranet_Accueil.php:220
+msgid "Inscription en direct"
+msgstr "Inscrição online"
+
+#: Intranet_Accueil.php:233
+msgid "Assister à une présentation ?"
+msgstr "Assistir a uma apresentação?"
+
+#: Intranet_Accueil.php:238
+msgid "Des présentations en ligne sont réalisées tous les lundis :"
+msgstr "Apresentações online são realizadas todas as segundas feiras"
+
+#: Intranet_Accueil.php:239
+msgid "Présentation du concept"
+msgstr "Apresentação do conceito"
+
+#: Intranet_Accueil.php:240
+msgid "Présentation du fonctionnement "
+msgstr "Apresentação do funcionamento"
+
+#: Intranet_Accueil.php:241
+msgid "Questions / Réponses"
+msgstr "Perguntas/Respostas"
+
+#: Intranet_Accueil.php:242 Intranet_Accueil.php:251
+msgid "Cliquez ici pour le calendrier des webinars"
+msgstr "Clique aqui para o calendário das \"webinars\""
+
+#: Intranet_Accueil.php:250
+msgid "Pour les conseilers IAD France:"
+msgstr "Pour les conseilers IAD France:"
+
+#: Intranet_Accueil.php:264
+msgid "Pourquoi recommander nos partenaires ?"
+msgstr "Porque de aconselhar um colaborador ?"
+
+#: Intranet_Accueil.php:270 Intranet_Accueil.php:287 Intranet_Accueil.php:304
+msgid "Cliquez sur cette infographie"
+msgstr "Clique sobre esta infográfica"
+
+#: Intranet_Accueil.php:281
+msgid "139 occasions par an de faire appel à NosRezo"
+msgstr "139 ocasiões por ano para recorrer a Nosrezo"
+
+#: Intranet_Accueil.php:298
+msgid "Comment gagner de l'argent ?"
+msgstr "Como ganhar dinheiro ?"
+
+#: Intranet_Accueil.php:321
+msgid "les chiffres"
+msgstr "os números"
+
+#: Intranet_Accueil.php:329 Intranet_Extra_FAQ.php:52
+#: Intranet_classement_3.php:37 Intranet_ma_remuneration.php:274
+msgid "AFFILIÉS"
+msgstr "FILIADOS"
+
+#: Intranet_Accueil.php:331
+msgid "Total affiliés NosRezo"
+msgstr "Total de afilhados NosRezo"
+
+#: Intranet_Accueil.php:339
+msgid "PARTENAIRES VALIDÉS"
+msgstr "PARCEIROS VALIDADOS"
+
+#: Intranet_Accueil.php:341
+msgid "Total Partenaires NosRezo"
+msgstr "Total de Parceiros NosRezo"
+
+#: Intranet_Accueil.php:349
+msgid "COMMISSION MOYENNE"
+msgstr "Comissão média"
+
+#: Intranet_Accueil.php:351
+msgid "Moyenne brute reversée"
+msgstr "Média ilíquida paga"
+
+#: Intranet_Accueil.php:392
+msgid "En ce moment"
+msgstr "Actualmente"
+
+#: Intranet_Accueil.php:392
+msgid "chez NosRezo"
+msgstr "em NosRezo"
+
+#: Intranet_Accueil.php:474
+msgid "Nouvel affilié NosRezo"
+msgstr "Novo afiliado NosRezo"
+
+#: Intranet_Accueil.php:478
+msgid "Un nouvel affilié vient de nous rejoindre sur la ville de "
+msgstr "Um novo afiliado juntou-se a nós na cidade de"
+
+#: Intranet_Accueil.php:482
+msgid "Nouvelle affiliée NosRezo"
+msgstr "Nova afiliada NosRezo"
+
+#: Intranet_Accueil.php:485
+msgid "Une nouvelle affiliée vient de nous rejoindre sur la ville de "
+msgstr "Uma nova afiliada juntou-se a nos na cidade de"
+
+#: Intranet_Accueil.php:491
+msgid "Nouveau partenaire chez NosRezo"
+msgstr "Novo Parceiro na NosRezo"
+
+#: Intranet_Accueil.php:493
+msgid "Un nouveau partenaire vient de nous rejoindre sur la ville de  "
+msgstr "Um novo Parceiro juntou-se a nós da cidade de  "
+
+#: Intranet_Accueil.php:498
+msgid "Nouvelle recommandation chez NosRezo "
+msgstr "Nova recomendação na NosRezo"
+
+#: Intranet_Accueil.php:500
+msgid "Une nouvelle recommandation sur la ville de  "
+msgstr "Uma nova recomendação na cidade de"
+
+#: Intranet_Accueil.php:505
+msgid "Présentation du concept NosRezo  "
+msgstr "Apresentação do conceito NosRezo"
+
+#: Intranet_Accueil.php:507
+msgid "Prochaine présentation"
+msgstr "Próxima apresentação"
+
+#: Intranet_Accueil.php:507
+msgid "Lien webinar"
+msgstr "Link Webinar"
+
+#: Intranet_Accueil.php:513
+msgid "Actualités NosRezo depuis Facebook"
+msgstr "Actualidades NosRezo através do Facebook"
+
+#: Intranet_Accueil.php:521
+msgid "Un partenaire vient de mettre à jour son CV"
+msgstr ""
+
+#: Intranet_Accueil.php:524
+msgid ""
+"souhaite se présenter et vient d'ajouter une nouvelle <br/> expérience "
+"professionnelle sur la ville de  "
+msgstr ""
+
+#: Intranet_Accueil.php:530
+msgid "Un affilié recommande un partenaire"
+msgstr ""
+
+#: Intranet_Accueil.php:549
+msgid "Posté à"
+msgstr "Postada in"
+
+#: Intranet_Contrat_VDI.php:34
+msgid "Mon Contrat"
+msgstr "O meu contrato"
+
+#: Intranet_Contrat_VDI.php:34
+msgid "VDI de rémunération à signer"
+msgstr "VDI de remuneração a assinar"
+
+#: Intranet_Contrat_VDI.php:62
+msgid "Vous avez signé le contrat NosRezo"
+msgstr "Assinou o contrato NosRezo"
+
+#: Intranet_Contrat_VDI.php:66
+msgid "Vous n'avez pas encore signé le contrat NosRezo en bas de cette page !"
+msgstr "Ainda não assinou o contrato NosRezo na parte inferior desta página!"
+
+#: Intranet_Contrat_VDI.php:70
+msgid "Vous venez de signer le contrat NosRezo !"
+msgstr "Acabou de assinar o contrato NosRezo!"
+
+#: Intranet_Contrat_VDI.php:92
+msgid "Faisons simple"
+msgstr "Façamos de forma simples"
+
+#: Intranet_Contrat_VDI.php:93
+msgid "NosRezo s'occupe de tout"
+msgstr "NosRezo trata de tudo"
+
+#: Intranet_Contrat_VDI.php:102 Intranet_Contrat_VDI.php:111
+msgid "Contrat VDI"
+msgstr "Contrato de VDI"
+
+#: Intranet_Contrat_VDI.php:102
+msgid "Préambule"
+msgstr "Preâmbulo"
+
+#: Intranet_Contrat_VDI.php:104
+msgid ""
+"L’ « Affilié » est une personne inscrite sur le site NosRezo, ayant accepté "
+"les conditions générales d’inscription à la communauté NosRezo. Le statut "
+"d’« Apporteur » s’acquiert à la réussite de mises en relations entre les "
+"clients et nos partenaires aboutissant à une commission unique ou cumulée "
+"supérieure à 200 €. Comme indiqué dans les conditions générales, le présent "
+"contrat de VDI doit être signé élctroniquement par l’Affilié afin que ce "
+"dernier soit rémunéré et qu’il puisse bénéficier du statut d’Apporteur."
+msgstr ""
+"O afiliado é uma pessoa inscrita no site NosRezo, que aceitou as condições "
+"gerais d'inscrição na comunidade NosRezo. O estatuto de \"promotor\" é "
+"adquirido no sucesso do estabelecimento de contacto entre os clientes e os "
+"parceiros, resultando numa comissão única ou cumulativa superior a 200€. "
+"Conforme indicado na condições gerais, o presente contrato de VDI deve ser "
+"assinado electronicamente pelo afiliado de modo a que o mesmo seja "
+"remunerado et para que possa beneficiar do estatuto de promotor."
+
+#: Intranet_Contrat_VDI.php:107
+msgid ""
+"Tout « Apporteur » ayant effectué une demande d’agrément à NosRezo en "
+"qualité de VDI (Vendeur à Domicile Indépendant non Immatriculé) qui n'aura "
+"pas, dans un délai d'un mois à compter de la date de signature du présent "
+"contrat, communiqué à NosRezo son numéro d'immatriculation à la sécurité "
+"sociale, ne pourra bénéficier du statut d’Apporteur."
+msgstr ""
+"Todo o \"promotor\" que fez um pedido de adesão à NosRezo na qualidade de "
+"VDI (Vendedor ao Domicílio Independente)"
+
+#: Intranet_Contrat_VDI.php:112
+msgid "L’apporteur est une personne physique majeure."
+msgstr "O promotor é uma pessoa singular de maior idade"
+
+#: Intranet_Contrat_VDI.php:113
+msgid ""
+"Ni l’affilié ni l’apporteur ne sont tenus ni de réaliser un investissement "
+"minimum, ni d'acquérir un stock minimum de produits."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:114
+msgid ""
+"Le présent contrat constitue dès la signature éléctronique un contrat de "
+"courtage liant l’apporteur à NosRezo."
+msgstr ""
+"O presente contrato representa logo após a sua assinatura electrónica um "
+"contrato de mediação que liga o promotor a NosRezo."
+
+#: Intranet_Contrat_VDI.php:115
+msgid ""
+"Dans ce cadre d’activité, l’apporteur n’aura qu’un rôle d’ « indicateur "
+"d’affaire » et à ce titre il s'engage à respecter le code du bon sens, "
+"consultable dans le module intranet NosRezo dédié à cet effet."
+msgstr ""
+"Neste enquadramento da atividade, o promotor apenas terá um papel de "
+"\"recomendador de negócio\" e como tal, compromete-se a respectar o cógido "
+"de bom senso, disponível para consulta no módulo NosRezo dedicado a esse "
+"efeito."
+
+#: Intranet_Contrat_VDI.php:116
+msgid ""
+"L’Apporteur ne peut profiter d'une activité promotionnelle de NosRezo venant "
+"concurrencer les Produits ou Services de NosRezo. L’Apporteur se réfère "
+"exclusivement aux prestataires de la société NosRezo pour les produits et "
+"services que cette dernière lui aura confié à la recommandation, et "
+"s'abstient de tout acte de concurrence déloyale tant à l'encontre de la "
+"Société NosRezo que de ses autres Apporteurs."
+msgstr ""
+"O Promotor não pode beneficiar da atividade promocional NosRezo que façam "
+"concorrência aos produtos e serviços NosRezo. O promotor refere-se "
+"exclusivamente aos prestadores de empresa NosRezo para produtos e serviços "
+"que esta última lhe terá confiada para a recomendação e devem abster-se de "
+"qualquer acto de concorrência desleal tanto para com a Sociedade NosRezo "
+"como para com outros promotores."
+
+#: Intranet_Contrat_VDI.php:117
+msgid ""
+"L’Apporteur s'engage à ne pas vendre, présenter ou exposer les services, "
+"produits, matériels et documents commerciaux de NosRezo dans les lieux "
+"publics sans l'accord préalable et écrit de NosRezo. De même, l’Apporteur "
+"présente les services sous leur présentation d'origine et dans le respect de "
+"la réglementation en vigueur. Pendant le cours du présent contrat et à "
+"l’issue de celui-ci, pendant une période de deux ans, l’Apporteur s’interdit "
+"de débaucher, faire débaucher ou détourner les Affiliés et partenaires sous "
+"contrat avec NosRezo."
+msgstr ""
+"O promotor compromete-se a não vender, apresentar ou expor os serviços, "
+"produtos e documentos comerciais da NosRezo nos locais públicos sem o acordo "
+"prévio e por escrito da NosRezo. No entanto, o promotor apresenta os "
+"serviços sob forma de apresentação de origem e respeitando a regulamentação "
+"em vigor. No decorrer do presente contrato e até a sua vigência, durante o "
+"periodo de 2 anos, o promotor compromete-se a não rescindir, fazer rescindir "
+"ou desviar os afilhados e parceiros com contrato com a NosRezo."
+
+#: Intranet_Contrat_VDI.php:118
+msgid ""
+"L’Apporteur ne peut utiliser les noms, logos et marques de NosRezo qu'aux "
+"fins de son activité de mise en relation de NosRezo. En tout état de cause, "
+"si un Apporteur souhaite utiliser quelque matériel d'aide à la vente non "
+"fourni par NosRezo, tels qu'enseignes, panneaux, publicité, prospectus, "
+"papier à en-tête, cartes de visite, livres, cassettes, films ou autres "
+"supports tant écrits, que vidéo, audio ou électronique (Internet), "
+"comportant un nom, logo ou marque de NosRezo, ou plus généralement laissant "
+"à penser qu'il est produit par NosRezo ou avec son autorisation, un tel "
+"matériel doit être soumis à l'autorisation préalable et écrite de NosRezo."
+msgstr ""
+"O promotor só pode utilizar os nomes, logotipos e marcas da NosRezo para "
+"fins da sua actividade de recomendação de negócio. No entanto, se um "
+"promotor quiser utilizar algum material de apoio a venda não fornecido pela "
+"NosRezo, tais como cartazes, paineis, publicidade, flyers, papel timbrado, "
+"cartões de visita, livros, filmes ou outros suportes, tanto escritos como "
+"video, audio ou electrónico (internet), com a menção de um nome, logotipo ou "
+"marca NosRezo, ou de uma forma geral que supõe que é produzido pela NosRezo "
+"e com a sua autorização, tal material deverá ser submetido a autorização "
+"prévia e escrita da NosRezo."
+
+#: Intranet_Contrat_VDI.php:119
+msgid ""
+"L’Apporteur a pris connaissance des documents administratifs et "
+"réglementaires des procédures de démarrage en ligne sur l’espace « Documents "
+"» de NosRezo. Il s'engage à conduire son activité conformément à ces "
+"documents ainsi qu'à toutes procédures et méthodes de commercialisation "
+"préconisées par NosRezo dans le respect de la réglementation en vigueur et "
+"selon le « Code du bon sens » de l’entreprise."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:120
+msgid ""
+"L’Apporteur fondant ses rapports avec ses clients sur le respect des règles "
+"les plus formelles d'intégrité et de franchise, s'engage à respecter le Code "
+"de la vente directe aux particuliers. NosRezo, qui s’efforce d’inscrire son "
+"réseau dans une démarche de qualité constante, a mis au point une charte et "
+"un code du bon sens interne, auxquels chaque Apporteur à l’obligation "
+"d’adhérer. L’Affilié s’est engagé de même à respecter le Code du bon sens "
+"mis en place par le groupe dont il pourra se procurer un exemplaire auprès "
+"de son « Parrain NosRezo» ou sur l’Espace du Site Internet prévu à cet effet."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:121
+msgid ""
+"NosRezo peut, moyennant un préavis raisonnable, changer, amender ou modifier "
+"le présent contrat et notamment ses procédures et méthodes de "
+"commercialisation, et ce, dans le souci d'assurer une commercialisation "
+"optimale des services NosRezo ou de s'adapter aux lois et changements de "
+"conjoncture économique. L'absence de contestation de la part de l’Apporteur "
+"dans un délai de quinze jours ainsi que la passation de tout contrat de "
+"vente de produits agrées NosRezo après avoir été informé desdits "
+"changements, amendements ou modifications, implique son acceptation desdits "
+"changements, amendements ou modifications. En conséquence, l’Apporteur "
+"s'engage à développer son activité en accord avec les dits changements, "
+"amendements ou modifications."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:122
+msgid ""
+"L’apporteur ainsi que NosRezo peuvent résilier le présent contrat de plein "
+"droit à tout moment et sans préavis par lettre recommandée avec avis de "
+"réception adressée à l’autre partie."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:124
+msgid "LA RÉMUNERATION BRUT SUR TRANSACTION IMMOBILIÈRE"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:124
+#, php-format
+msgid ""
+"des efforts de mise en relation développés par l’Apporteur dans le cadre de "
+"son activité de recommandation d’un acquéreur ou un vendeur lui sera versée "
+"sur la base de 60% de la valeur de 12% des honoraires Hors Taxes perçues par "
+"nos partenaires."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:125
+msgid "LA RÉMUNERATION BRUT SUR LES OPERATIONS DE TRAVAUX"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:125
+#, php-format
+msgid ""
+"des efforts de mise en relation développés par l’Apporteur dans le cadre de "
+"son activité de recommandation d’un client lui sera versée sur la base de "
+"60% de la valeur de 5% du montant total Hors Taxes des travaux."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:126
+msgid "LA RÉMUNERATION BRUT SUR LES FINANCEMENTS BANCAIRES"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:126
+#, php-format
+msgid ""
+"des efforts de mise en relation développés par l’Apporteur dans le cadre de "
+"son activité d’indication d’un client lui sera versée sur la base de 0,12 "
+"% du montant total financé plafonné à 375€ de rémunération Brut par "
+"indication d’affaire validée."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:127
+msgid "LA RÉMUNERATION BRUT SUR LA PRESCRIPTION DE TALENTS"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:127
+#, php-format
+msgid ""
+"des efforts de mise en relation par l’Apporteur à l’entreprise partenaire "
+"dans le cadre de son activité de recommandation d’un nouveau collaborateur "
+"lui sera versée sur la base de 60% du montant de la prime de succès "
+"accordée. La prime de succès est versée à NosRezo une fois la 1ère vente du "
+"nouveau collaborateur actée et payée."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:128 Intranet_Contrat_VDI.php:139
+msgid ""
+"Le Taux de TVA appliqué à l’ensemble de nos services est uniformisé à 20%."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:129
+msgid "En tant que parrain, un filleul de 1er Niveau génère de :"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:130
+msgid "LA RÉMUNERATION BRUT SUR LA TRANSACTION IMMOBILIÈRE"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:130
+#, php-format
+msgid ""
+"des efforts de mise en relation développés par l’Apporteur filleul de 1er "
+"Niveau dans le cadre de son activité de recommandation d’un acquéreur ou un "
+"vendeur lui sera versée sur la base de 9% de la valeur de 12% des honoraires "
+"Hors Taxes perçues par notre Partenaire."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:131 Intranet_Contrat_VDI.php:136
+msgid "LA REMUNERATION BRUT SUR LES OPERATIONS DE TRAVAUX"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:131
+#, php-format
+msgid ""
+"des efforts de mise en relation développés par l’Apporteur filleul de 1er "
+"Niveau dans le cadre de son activité de recommandation d’un client lui sera "
+"versée sur la base de 9% de la valeur de 5% du montant total Hors Taxes des "
+"travaux. "
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:132 Intranet_Contrat_VDI.php:137
+msgid "LA REMUNERATION BRUT SUR LES FINANCEMENTS BANCAIRES"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:132
+#, php-format
+msgid ""
+"des efforts de mise en relation développés par l’Apporteur filleul de 1er "
+"Niveau dans le cadre de son activité d’indication d’un client lui sera "
+"versée sur la base de 0,018 % du montant total financé plafonné à 56€ de "
+"rémunération Brut par indication d’affaire validée. "
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:133 Intranet_Contrat_VDI.php:138
+msgid "LA REMUNERATION BRUT SUR LA PRESCRIPTION DE TALENTS"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:133
+#, php-format
+msgid ""
+"des efforts de mise en relation par l’Apporteur filleul de 1er Niveau à "
+"l’entreprise partenaire dans le cadre de son activité de recommandation d’un "
+"nouveau collaborateur lui sera versée sur la base de 9% du montant de la "
+"prime de succès accordée. La prime de succès est versée à NosRezo une fois "
+"la 1ère vente du collaborateur réalisée. "
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:134
+msgid ""
+"En tant que parrain, un filleul de 2ème, 3ème, 4ème, 5ème et 6ème niveau "
+"génère :"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:135
+msgid "LA REMUNERATION BRUT SUR LA TRANSACTION IMMOBILIÈRE"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:135
+#, php-format
+msgid ""
+"des efforts de mise en relation développés par l’Apporteur filleul de 2ème, "
+"3ème, 4ème, 5ème et 6ème niveau dans le cadre de son activité de "
+"recommandation d’un acquéreur ou un vendeur lui sera versée sur la base de "
+"3% de la valeur de 12% des honoraires Hors Taxes perçues par notre "
+"partenaire."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:136
+#, php-format
+msgid ""
+"des efforts de mise en relation développés par l’Apporteur filleul de 2ème, "
+"3ème, 4ème, 5ème et 6ème niveau dans le cadre de son activité de "
+"recommandation d’un client lui sera versée sur la base de 3% de la valeur de "
+"5% du montant total Hors Taxes des travaux. "
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:137
+#, php-format
+msgid ""
+"des efforts de mise en relation développés par l’Apporteur filleul de 2ème, "
+"3ème, 4ème, 5ème et 6ème niveau dans le cadre de son activité d’indication "
+"d’un client lui sera versée sur la base de 0,006 % du montant total financé "
+"plafonné à 18€ de rémunération Brut par indication d’affaire validée."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:138
+#, php-format
+msgid ""
+"des efforts de mise en relation par l’Apporteur filleul de 2ème, 3ème, 4ème, "
+"5ème et 6ème niveau à l’entreprise partenaire dans le cadre de son activité "
+"de recommandation d’un nouveau collaborateur lui sera versée sur la base de "
+"3% du montant de la prime de succès accordée. La prime de succès est versée "
+"à NosRezo une fois la 1ère vente du collaborateur réalisée."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:140
+msgid ""
+"LES RECURRENCES (revenu lié à la production de votre organisation) sont "
+"capitalisées. Elles sont débloquées à condition d’avoir au moins une "
+"commission personnelle payée dans son suivi des mises en relations pour une "
+"commission NosRezo et que le montant total des commissions à encaisser soit "
+"au moins de 200€ (le choix du montant de 200€ a été calculé pour optimiser "
+"votre rémunération net en fonction des charges fiscales supportées par "
+"NosRezo)."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:141
+msgid ""
+"Les récurrences liées au chiffre d’affaire généré par les 5ème et 6ème "
+"niveau sont payées sous forme de prime annuelle de fin d’année. Pour obtenir "
+"cette prime il est nécessaire d’avoir généré un chiffre d’affaire personnel "
+"NosRezo minimum de 500€ par ses propres affaires apportées (soit 300€ de "
+"rémunération personnelle)."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:142
+msgid ""
+"LES RECURRENCES (revenu lié uniquement à la production de votre "
+"organisation) récompensent des missions différentes selon chaque niveau de "
+"profondeur :"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:143 Intranet_Contrat_VDI.php:144
+#: Intranet_Contrat_VDI.php:145 Intranet_Contrat_VDI.php:146
+#: Intranet_Contrat_VDI.php:147 Intranet_Contrat_VDI.php:148
+msgid "Niveau"
+msgstr "Nível"
+
+#: Intranet_Contrat_VDI.php:143
+msgid "Conseils de filleuls directs "
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:144
+msgid "Formateur d’équipe"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:145
+msgid "Management d’équipe"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:146
+msgid "Développeur de réseau"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:147
+msgid "Organisateur d’évènements"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:148
+msgid "Animateur de réseau"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:149
+msgid "Règles de parrainage"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:150
+msgid ""
+"NosRezo bloquera informatiquement le droit à parrainages dans chaque pays où "
+"la proportion 1 affilié pour 65 habitants sera atteinte. Les affiliés "
+"pourront continuer à faire croitre leur organisation sur d’autres pays à "
+"partir du moment où ces dits pays seront déclarés comme étant « ouverts » "
+"par NosRezo. "
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:151
+msgid ""
+"NosRezo bloquera informatiquement le droit à parrainages dans chaque "
+"départements où la proportion 1 affilié pour 65 habitants sera atteinte. Les "
+"affiliés pourront continuer à faire croitre leur organisation sur d’autres "
+"départements à partir du moment où ces dits départements seront déclarés "
+"comme étant « ouverts » par NosRezo."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:152
+msgid ""
+"Les nouveaux parrainages peuvent momentanément être interrompus si NosRezo "
+"estime que le rapport Affiliés/Partenaires est déséquilibré et a une "
+"incidence sur la qualité des prestations. Une fois les nouveaux partenariats "
+"permettant de rééquilibrer l’offre et la demande de services signés, les "
+"droits aux parrainages seront réactivés"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:153
+msgid ""
+"L’Apporteur d’affaires comprend et convient que : Le succès d’un Apporteur "
+"dépend seulement de ses efforts individuels et aucun gain, profit ou succès "
+"commercial ne lui ont été ni ne lui sont promis ou garantis. Les apporteurs "
+"perçoivent des revenus uniquement sur la base de mises en relation "
+"aboutissant à une vente. Aucune rémunération n’est obtenue pour la promotion "
+"de l’opportunité NosRezo ou l’inscription de nouveaux affiliés"
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:154
+#, php-format
+msgid ""
+"La rémunération de l’Apporteur lui sera réglée trimestriellement (dans les "
+"10 jours suivants la fin du trimestre civil) par NosRezo qui procèdera "
+"préalablement aux règlements de l’ensemble des charges sociales et "
+"patronales pour le compte de l’Apporteur qui en tant que VDI non inscrit au "
+"registre du commerce est « assimilé salarié au regard du droit social ». Les "
+"cotisations sociales seront calculées sur la base des cotisations ou "
+"assiettes forfaitaires telles que définies par la loi et seront reversées "
+"trimestriellement, par NosRezo, aux différents centres et différentes "
+"caisses de cotisations obligatoires. La valeur et le montant des frais de "
+"virement ou frais d’envoi postaux relatifs aux règlements de l’Apporteur "
+"ainsi que les frais de gestions comptables (établissement des bulletins de "
+"précompte, etc.) seront pris en charge par l’Apporteur et déduits de sa "
+"rémunération. L’Apporteur recevra de fait une rémunération nette (déduite "
+"des Charges sociales, et frais de gestion) sur la base de 60% de la valeur "
+"BRUT annoncée après application du coefficient valeur défini aux articles 12 "
+"et 13 et déduction des frais de gestion."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:155
+msgid ""
+"L’Apporteur s’engage à déclarer les revenus de son activité de VDI dans la "
+"case des Bénéfices Non Commerciaux (BNC) de sa déclaration annuelle des "
+"revenus établie auprès du centre des impôts dont il dépend. L’apporteur "
+"reconnaît que sa rémunération est basée sur les résultats (ventes) de son "
+"activité de prospecteur et d’apport d’affaires et non pas sur l’animation de "
+"personnes qu'il aurait présenté à la société NosRezo, ni sur le nombre "
+"d'heures travaillées ou sur un facteur chance (conformément à la circulaire "
+"DDS/AAF/A1 94/82 du 18 novembre 1994 et suivants)."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:156
+msgid ""
+"L’Apporteur exerce son activité de mise en relation des services des "
+"partenaires NosRezo auprès des consommateurs finaux en qualité d’indépendant "
+"sous le statut de Vendeur à Domicile Indépendant (VDI). L’Apporteur organise "
+"librement et en toute indépendance son activité de recommandation, sans "
+"aucun lien de subordination à l'égard de NosRezo qui n'est pas son employeur "
+"et ne saurait donc en assurer les obligations. L’Apporteur fera son affaire "
+"personnelle de son inscription auprès du Registre du Commerce s'il y a lieu "
+"(situation rare car il faut 3 ans d’activité et avec un chiffre d’affaire "
+"élevé, cf. article 22) et en fonction de la loi 94-637 du 25 juillet 1994 et "
+"communiquera son numéro d'inscription le plus rapidement possible à NosRezo. "
+"L’Apporteur s'engage à respecter toutes lois et réglementations "
+"commerciales, sociales et fiscales et notamment les art. L121 et suivants du "
+"Code de la Consommation relatifs au démarchage et à la vente à domicile, la "
+"loi 93-121 du 27 janvier 1993 concernant les cotisations sociales des "
+"travailleurs indépendants, non inscrits à un Registre du Commerce, exerçant "
+"une activité de vente et service à domicile."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:157
+#, php-format
+msgid ""
+"L’arrêté du 21 mai 2001 prévoit que les vendeurs indépendants ayant exercé "
+"leur activité durant trois années civiles complètes et consécutives et dont "
+"la rémunération brute annuelle procurée par cette activité pour chacune de "
+"ces trois années est supérieure à 50 % du plafond de la Sécurité Sociale, "
+"soit 18 186 € pour l’année, sont tenus de s’inscrire au Registre du Commerce "
+"(RCS) ou au Registre Spécial des Agents Commerciaux (RCAS). Il est alors "
+"considéré comme commerçant ou agent commercial à part entière et doit "
+"s’immatriculer à compter du 1er janvier qui suit ces 3 années. La circulaire "
+"ministérielle du 22 juin 2001 précise que le V.D.I qui désire exercer son "
+"activité à titre professionnel et permanent est dans l’obligation de "
+"s’inscrire spontanément à l’un de ces registres."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:158
+msgid ""
+"L’Apporteur accepte l’évolution de la nature des services proposés au sein "
+"de NosRezo, que ce soit des ajouts ou des suppressions de services."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:159
+msgid ""
+"Le présent contrat est conclu sur des bases strictement personnelles et ne "
+"peut être cédé ou transféré à quiconque sans l'accord préalable écrit de "
+"NosRezo. "
+msgstr ""
+"O presente contrato assenta sobre bases estritamente pessoais e não pode ser "
+"cedido ou transferido a quem quer que seja sem acordo prévio escrito da "
+"NosRezo. "
+
+#: Intranet_Contrat_VDI.php:160
+msgid ""
+"Le présent contrat est soumis au droit français. Tout litige relatif à son "
+"exécution relève de la compétence exclusive des tribunaux du siège social de "
+"NosRezo, EVRY en ESSONNE."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:161
+msgid ""
+"Le présent contrat est conclu pour une durée de 1 an, renouvelable par "
+"tacite reconduction. Il prendra immédiatement fin à l’instant où l’Apporteur "
+"aura dépassé les plafonds de revenus annuels définis par l’arrêté du 21 mai "
+"2001 et dont les modalités sont reprises à l’article 20 du présent contrat."
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:177
+msgid "J'accepte les conditions de rémunérations ci-dessus ! "
+msgstr ""
+
+#: Intranet_Contrat_VDI.php:185
+msgid "SIGNER ÉLÉCTRONIQUEMENT LE CONTRAT DE RÉMUNÉRATION"
+msgstr "ASSINAR ELÉCTRONICAMENTE O CONTRATO DE REMUNERAÇÃO"
+
+#: Intranet_Documents.php:34
+msgid "Mon espace NosRezo"
+msgstr "O meu espaço NosRezo"
+
+#: Intranet_Documents.php:34 scripts/bandeau_left_intranet.php:281
+#: scripts/bandeau_left_intranet.php:550
+msgid "Documents"
+msgstr "Documentos"
+
+#: Intranet_Documents.php:54
+msgid "Charte graphique"
+msgstr ""
+
+#: Intranet_Documents.php:84
+msgid "La méthode d'une bonne intégration"
+msgstr "O método para uma boa integraçao"
+
+#: Intranet_Documents.php:100
+msgid "Étapes de recommandation"
+msgstr "Etapas da recomendaçao"
+
+#: Intranet_Documents.php:113
+msgid "Commandez vos cartes de visite en ligne"
+msgstr "Encomende os seus cartoes de visita online"
+
+#: Intranet_Documents.php:126
+msgid "Commandez vos flyers prescripteurs"
+msgstr "Encomende os seus flyers prescritores"
+
+#: Intranet_Documents.php:141
+msgid "Conditions d'inscription"
+msgstr "Condiçoes de inscriçao"
+
+#: Intranet_Documents.php:156
+msgid "Code du Bon Sens NosRezo"
+msgstr "Codigo do Bom Senso NosRezo"
+
+#: Intranet_Documents.php:172
+msgid "Code de Recommandation Partenaires"
+msgstr "Codigo de Recomendaçao Parceiros"
+
+#: Intranet_Documents.php:187
+msgid "Rémunération Nette perçue par Affilié"
+msgstr "Remuneraçao limpa recebida por Afiliado"
+
+#: Intranet_Documents.php:203
+msgid "Contrat VDI à signer"
+msgstr "Contrato VDI para assinar"
+
+#: Intranet_Documents.php:218
+msgid "Contrat Partenaires Travaux"
+msgstr "Contrato Parceiros Obras"
+
+#: Intranet_Documents.php:234
+msgid "Liste chaude et Matrice"
+msgstr "Lista Quente e Matriz"
+
+#: Intranet_Documents.php:249
+msgid "Mentions légales"
+msgstr "Mençoes legais"
+
+#: Intranet_Documents.php:259 Intranet_Dossiers_Equipe.php:68
+#: Intranet_partenaire_2.php:41 scripts/tableau_prescription.php:20
+msgid "POUR TOUTE QUESTION SUIVI QUALITÉ"
+msgstr "PARA QUAISQUER PERGUNTAS SOBRE QUALIDADE"
+
+#: Intranet_Documents.php:261
+msgid "ADRESSE"
+msgstr "MORADA"
+
+#: Intranet_Dossiers.php:33 Intranet_Nouvelle_recommandation_suivi.php:33
+msgid "Actions"
+msgstr "Acções"
+
+#: Intranet_Dossiers.php:33 Intranet_partenaire_2.php:34
+msgid "Suivi de vos dossiers"
+msgstr "Seguir os seus dossiers"
+
+#: Intranet_Dossiers_Equipe.php:175 scripts/tableau_prescription.php:186
+msgid "LES"
+msgstr "AS"
+
+#: Intranet_Dossiers_Equipe.php:175 scripts/tableau_prescription.php:186
+msgid "DIFFÉRENTES ÉTAPES DE LA RECOMMANDATION"
+msgstr "DIFERENTES ETAPAS DA RECOMENDAÇÃO"
+
+#: Intranet_Extra_FAQ.php:34
+msgid "Foire aux questions"
+msgstr "Feira das questoes FAQ"
+
+#: Intranet_Extra_FAQ.php:58
+msgid "RÉMUNÉRATION"
+msgstr "REMUNERAçãO"
+
+#: Intranet_Extra_FAQ.php:87
+msgid "Chez NosRezo, comment trouvons-nous les meilleurs professionnels ?"
+msgstr "Na NosRezo, como encontrar os melhores profissionais ?"
+
+#: Intranet_Extra_FAQ.php:92
+msgid ""
+"Uniquement par le bouche à oreilles, nous nous appuyons sur un réseau de "
+"plusieurs milliers de conseillers immobiliers qui connaissent les meilleurs "
+"artisans et courtiers de leur secteur. Ensuite ils sont soumis à notre "
+"processus de sélection et de notation."
+msgstr ""
+"Unicamente pelo boca a orelhas, nos nos apoiamos sobre uma rede de varios "
+"milhares de mediadores imobiliario que conhecem os melhores artesaos e "
+"correctores no propio sector em que actua. Em seguida eles estao submetidos "
+"ao nosso processo de selecçao e de anotaçao."
+
+#: Intranet_Extra_FAQ.php:101
+msgid "Comment sélectionnons nous les professionnels ?"
+msgstr "Como é que selecionamos os profissionais ?"
+
+#: Intranet_Extra_FAQ.php:106
+msgid ""
+"Les affiliés nous les ont proposé en faisant fonctionner leur bouche à "
+"oreilles ce qui constitue une première sélection."
+msgstr ""
+"Os afiliados nos os apresentaram ao fazer funcionar o boca a orelhas o que "
+"constitui uma primeira selaçao."
+
+#: Intranet_Extra_FAQ.php:107
+msgid ""
+"Ensuite nous demandons leur Kbis, vérifions leurs assurances et décennales "
+"si besoin et les testons sur une 1ère mission en les mettant en concurrence "
+"avec un autre partenaire déjà noté par les affilés."
+msgstr ""
+"Em seguida nos lhes pedimos as suas contas de resultado e NIPC, para que "
+"possamos verificar os seus seguros e alvaras se necessario e também os "
+"testamos numa 1a missao, mettendo-os em concorrência com um outro parceiro "
+"que ja possui uma pontuaçao efectuada pelos afiliados."
+
+#: Intranet_Extra_FAQ.php:108
+msgid "En dessous d’une note de 7 sur 10, ils sont déréférencés."
+msgstr "Abaixo duma nota de 7 sobre 10, eles saiem do referenciamento."
+
+#: Intranet_Extra_FAQ.php:119
+msgid ""
+"Pourquoi le petit artisan qui travail bien a t'il besoin de NosRezo alors "
+"que son agenda est déjà plein ?"
+msgstr ""
+"Porque é que o pequeno artesao que trabalho bem necessita da NosRezo bem que "
+"a sua agenda jà se encontra cheia ?"
+
+#: Intranet_Extra_FAQ.php:126
+msgid "Le succès du petit artisan est basé sur le bouche à oreille."
+msgstr "O sucesso do pequeno artesao està baseado no boca a orelhas."
+
+#: Intranet_Extra_FAQ.php:127
+msgid ""
+"NosRezo est un accélérateur de bouche à oreilles qui permet donc aux petits "
+"artisans souhaitant se développer de pouvoir enfin le réaliser !"
+msgstr ""
+"A NosRezo é um accelarador de boca a orelhas que permite aos pequenos "
+"artesaos desejando desenvolver-se de o poder enfim o realizar."
+
+#: Intranet_Extra_FAQ.php:128
+#, php-format
+msgid ""
+"100% des bons professionnels ne seront pas chez NosRezo nous le savons mais "
+"nous leur proposons enfin une solution de developpement et de visibilité "
+"pour leur activité."
+msgstr ""
+"100% dos bons profissionais nao se encontrarao na NosRezo nos o sabemos mas "
+"nos lhes propomos enfim uma soluçao de desenvolvimento e de visibilidade "
+"para a actividade deles."
+
+#: Intranet_Extra_FAQ.php:138
+msgid ""
+"Le développement est-il prévu partout en France ou uniquement sur les "
+"grosses villes ?"
+msgstr ""
+"O desencolvimento està previsto por todo Portugal ou unicamente nas grandes "
+"cidades ?"
+
+#: Intranet_Extra_FAQ.php:145
+msgid ""
+"Le développement NosRezo se fait partout en France avec une converture "
+"nationale qui augmente de jours en jours."
+msgstr ""
+"O desenvolvimento NosRezo està a acontecer por todo Portugal com uma "
+"cobertura nacional que està a aumentar de dia para dia."
+
+#: Intranet_Extra_FAQ.php:157
+msgid ""
+"Je connais un professionnel sans connaître ses compétences, puis je le "
+"proposer ?"
+msgstr ""
+"Eu conheço um profissional sem bem o conhecer as suas competências, serà que "
+"posso o propor ?"
+
+#: Intranet_Extra_FAQ.php:164
+msgid ""
+"NON, si vous n’avez pas constaté par vous même la qualité de son travail et "
+"de sa réactivité, ne le proposez pas, il sera refusé avant même de passer la "
+"phase de test."
+msgstr ""
+"NAO, se você nao constatou por si propio a qulaidade do trabalho dele e da "
+"sua reactividade, nao o proponha, ele serà rejeitado antes mesmo de passar "
+"pela fase test."
+
+#: Intranet_Extra_FAQ.php:174
+msgid ""
+"Pourquoi suis-je limité à 10 affiliés sur mon 1er Niveau alors que dans les "
+"conditions d’inscription il y a une limitation à 5 ?"
+msgstr ""
+"Porque é que estou limitado a 10 afiliados sobre o meu 1° Nivel bem que nas "
+"condiçoes de inscriçao ha so uma limitaçao a 5 ?"
+
+#: Intranet_Extra_FAQ.php:181
+msgid ""
+"Pour favoriser votre expansion rapide pour nos premiers utilisateurs, par la "
+"suite nous appliquerons la règle des 5 affiliés maximum pour tous les "
+"nouveaux affiliés."
+msgstr ""
+"Para favorecer a sua expansao rapida para os nossos primeiros utilizadores, "
+"a seguir nos aplicaremos a regra de 5 afiliados no maximo para todos os "
+"novos afiliados."
+
+#: Intranet_Extra_FAQ.php:183
+msgid "Pourquoi limiter ?"
+msgstr "Porque limitar ?"
+
+#: Intranet_Extra_FAQ.php:184
+msgid ""
+"NosRezo est un réseau privé qui souhaite concentrer son développement sur la "
+"qualité et non la quantité : choisissez bien vos affiliés !"
+msgstr ""
+"A NosRezo é uma rede privada que deseja concentrar o seu desenvolvimento "
+"sobre a qualidade e nao sobre a quantidade: Escolham muito bem os vossos "
+"afiliados !"
+
+#: Intranet_Extra_FAQ.php:194
+msgid "Un partenaire peut il être affilié sur mon 1er Niveau ?"
+msgstr "Um parceiro pode encontrar-se afiliado sobre o meu 1° Nivel ?"
+
+#: Intranet_Extra_FAQ.php:201
+msgid ""
+"Lorsque vous proposez un professionnel, ce dernier est automatiquement "
+"enregistré en tant qu'affilié même sans être accepté en tant que partenaire."
+msgstr ""
+"Quando vocês propoe um profissional, este ultimo é automaticamente registado "
+"como afiliado mesmo sem que seja aceite como parceiro."
+
+#: Intranet_Extra_FAQ.php:202
+msgid "Il peut donc directement bénéficier des avantages affiliés."
+msgstr "Ele pode logo directamente beneficiar das vantagens dos afiliados. "
+
+#: Intranet_Extra_FAQ.php:212
+msgid ""
+"J’ai envoyé une invitation automatique par Email et la personne n’a rien "
+"reçu, Pourquoi ?"
+msgstr ""
+"Eu enviei um convite automatico por E-mail e a pessoa nao o recebeu. Porquê ?"
+
+#: Intranet_Extra_FAQ.php:219
+msgid ""
+"Faites vérifier, il est certainement dans les Spams. Sinon utilisez "
+"l’inscription en Live via le site public, il faut juste vous souvenir de "
+"votre ID."
+msgstr ""
+"Proceda à verificaçao, encontra-se de certeza nos Spams. Senao utilize a "
+"inscricçao Live via o site publico, so lhe é necessario lembra-se do seu ID."
+
+#: Intranet_Extra_FAQ.php:223 Intranet_invitez_vos_amis.php:123
+#, php-format
+msgid ""
+"Savez-vous que 11% des adresses mails saisies sont incorrectes ? Un "
+"conseil : Vérifiez à 2 fois avant d'envoyer vos invitations."
+msgstr ""
+"Sabia que 11% dos email escritos estão incorrectos? Um conselho: Verifique 2 "
+"vezes antes de enviar os convites."
+
+#: Intranet_Extra_FAQ.php:233
+msgid "Un de mes affiliés ne retrouve pas ses codes, comment faire ?"
+msgstr "Um dos meus afiliados nao encontraos seus codigos, como proceder ?"
+
+#: Intranet_Extra_FAQ.php:240
+msgid ""
+"Dites lui d’aller sur www.nosrezo.com, de cliquer sur Login et de cliquer "
+"sur « mot de passe oublié » \n"
+"\t\t\t\t\t\t\t\t\t   afin d'en recevoir un nouveau par mail."
+msgstr ""
+"Diga-lhe para ir ao site www.nosrezo.com, fazer clic no Login e clicar sobre "
+"\"codigo secreto\"  \n"
+"\t\t\t\t\t\t\t\t\t   afim de receber um novo codigo secreto por email."
+
+#: Intranet_Extra_FAQ.php:242
+msgid "En dernier recours, envoyez un mail à"
+msgstr "Em ultimo recurso, queira enviar um mail para:"
+
+#: Intranet_Extra_FAQ.php:252
+msgid "Puis-je affilier une association ?"
+msgstr "Posso afiliar uma associaçao ?"
+
+#: Intranet_Extra_FAQ.php:259
+msgid ""
+"Oui, c'est d'ailleurs une excellente idée ! Les commissions générées "
+"reviennent ainsi au club, à l'association, ..."
+msgstr ""
+"Sim, até é uma excelente ideia ! As comissoes geridas retornam dessa forma "
+"au clube, à associaçao,…"
+
+#: Intranet_Extra_FAQ.php:261
+msgid "Comment faire"
+msgstr "Como proceder ?"
+
+#: Intranet_Extra_FAQ.php:262
+msgid ""
+"Enregistrer l'association comme un affilié en précisant dans le prénom le "
+"mot 'Association'"
+msgstr ""
+"Registrar a associaçao como um afiliado e indicar no nome a palavra "
+"\"Associaçao\""
+
+#: Intranet_Extra_FAQ.php:263
+msgid "Envoyer un email à contact@nosrezo.com avec un justificatif"
+msgstr "Enviar um email para a contact@nosrezo.com com um justificativo."
+
+#: Intranet_Extra_FAQ.php:264
+msgid ""
+"Vous aurez la possibilité de recruter à l'infini vos membres et vous ne "
+"serez pas limité !"
+msgstr ""
+"Você terà a possibilidae de recrutar até o infinito os seus membros e você "
+"nao serà limitado !"
+
+#: Intranet_Extra_FAQ.php:266
+msgid ""
+"A noter que nous adaptons votre rémunération en fonction de votre statut "
+"social (Association TVA , Hors TVA, ...)"
+msgstr ""
+"Recordar, que nos adaptaremos a remuneraçao em funçao do estatuto social "
+"(Associaçao, C/Iva, S/Iva, … )"
+
+#: Intranet_Extra_FAQ.php:276
+msgid "Comment évitons-nous les travaux non déclarés ?"
+msgstr "Como é que nos evitamos as obras nao declaradas ?"
+
+#: Intranet_Extra_FAQ.php:283
+msgid ""
+"Nous avons l’affilié entre le client et le partenaire qui est au courant de "
+"l’évolution du chantier et qui compte bien recevoir sa rémunération."
+msgstr ""
+"Nos temos o afiliado entre o cliente e o parceiro que està ao corrente da "
+"evoluaçao da obra e que conta bem receber a sua propia remuneraçao."
+
+#: Intranet_Extra_FAQ.php:285
+msgid ""
+"Nos partenaires se projettent dans l’avenir et ne prennent pas le risque "
+"d’une désactivation définitive."
+msgstr ""
+"O nossos parceiros projetando-se bem no futuro e nao correndo o risco duma "
+"desactivaçao definitiva."
+
+#: Intranet_Extra_FAQ.php:296
+msgid "Quels sont les 4 domaines d’activité de NosRezo ?"
+msgstr "Quais sao as 4 areas de actuaçao da NosRezo ?"
+
+#: Intranet_Extra_FAQ.php:303 Intranet_immobilier.php:33
+#: scripts/bandeau_left_intranet.php:185
+msgid "Immobilier"
+msgstr "Imóveis"
+
+#: Intranet_Extra_FAQ.php:303
+msgid "mise en vente de biens"
+msgstr "por a venda bens"
+
+#: Intranet_Extra_FAQ.php:304 Intranet_travaux.php:34
+#: scripts/bandeau_left_intranet.php:175
+msgid "Travaux"
+msgstr "Construção"
+
+#: Intranet_Extra_FAQ.php:304
+msgid "tous types de travaux"
+msgstr "todo o tipo de obras"
+
+#: Intranet_Extra_FAQ.php:305
+msgid "Financements"
+msgstr "Financiamentos"
+
+#: Intranet_Extra_FAQ.php:305
+msgid "prêt immobilier"
+msgstr "empréstimos imobilarios"
+
+#: Intranet_Extra_FAQ.php:306 scripts/bandeau_left_intranet.php:190
+msgid "Recrutement"
+msgstr "Recrutamento"
+
+#: Intranet_Extra_FAQ.php:306
+msgid "Agent/Manager immobilier partout en France"
+msgstr "Agente/Manager mediaçao imobiliaria por todo Portugal"
+
+#: Intranet_Extra_FAQ.php:310
+msgid ""
+"Nous entendons déjà la question pour les autres services, et la réponse est :"
+msgstr "Nos ja contamos com a questao para os outros serviços, e a resposta é:"
+
+#: Intranet_Extra_FAQ.php:311
+msgid "Oui, d'autres services arriveront très prochainement !"
+msgstr "Sim, outros serviços encontrarao-se disponiveis muito brevemente !"
+
+#: Intranet_Extra_FAQ.php:322
+msgid "Quelles sont les recommandations les plus rémunératrices ?"
+msgstr "Quais sao as recomendaçoes que remuneram mais ?"
+
+#: Intranet_Extra_FAQ.php:329
+msgid "La vente de biens immobiliers partout en France."
+msgstr "A venda de bens imobiliarios por todo Portugal."
+
+#: Intranet_Extra_FAQ.php:330
+msgid ""
+"En effet la moyenne des commissions d'agences en France est d'environ 8000€ "
+"TTC alors qu'une prestation d'un plombier est d'environ 150 € TTC."
+msgstr ""
+"Com efeito a média das comissoes d'agência em Portugal é de cerca de 5000€ C/"
+"Iva em comparaçao com uma prestaçao dum canalizador (picheleiro) é de cerca "
+"de 80€ C/Iva."
+
+#: Intranet_Extra_FAQ.php:340
+msgid "Peut on avoir des Affiliés NosRezo partout en France ?"
+msgstr "Podemos ter Afiliados NosRezo por todo Portugal ?"
+
+#: Intranet_Extra_FAQ.php:347
+msgid "J'hésite à répondre à cette question : Oui bien sûr !"
+msgstr "Hesito em responder a esta pergunta: Mas claro que Sim !"
+
+#: Intranet_Extra_FAQ.php:357
+msgid "Comment bien présenter NosRezo à mes affiliés ?"
+msgstr "Como fazer uma boa apresentaçao da NosRezo aos meus afiliados ?"
+
+#: Intranet_Extra_FAQ.php:364
+msgid ""
+"En les invitant aux Conférences en ligne / Webinars tous les Lundi, cliquez "
+"sur le lien de votre page d’accueil NosRezo et vous aurez les prochaines "
+"dates."
+msgstr ""
+"Convidando-os as conferências online / Webinar todas as Segundas-feiras, "
+"clicando no link da pagina de atendimento NosRezo e você terà conhecimento "
+"das proximas datas."
+
+#: Intranet_Extra_FAQ.php:374
+msgid ""
+"Si le professionnel reverse une commission, mon devis est donc plus élevé ?"
+msgstr ""
+"Se o profissional reverte uma comissao, entao o meu orçamento é mais caro ?"
+
+#: Intranet_Extra_FAQ.php:381
+#, php-format
+msgid ""
+"Les PME consacrent environ 11% de leur chiffre d’affaires en prospection/"
+"publicité/référencement - Source : Marketing Sherpa 2009."
+msgstr ""
+"As pequenas e médias empresas investem cerca de 11% do volume de negocios "
+"delas em prospeçao/publicidade/referenciamento - Fonte: Marketing Sherpa "
+"2009."
+
+#: Intranet_Extra_FAQ.php:382
+msgid ""
+"Avec NosRezo ils n’en auront plus besoin et pourrons donc économiser cette "
+"publicité à la fois couteuse et polluante."
+msgstr ""
+"Com a NosRezo, elas nao terao mais a necessidade disso e vao economizar essa "
+"publicidade que é carissima e poluente."
+
+#: Intranet_Extra_FAQ.php:383
+msgid ""
+"Le devis se doit d'être très compétitif car n'oubliez pas que les "
+"partenaires sont également notés sur ce critère."
+msgstr ""
+"O orçamento deve-se de ser competitivo porque nao esqueçam-se que os "
+"parceiros também recebem uma pontuaçao sobre esse critério."
+
+#: Intranet_Extra_FAQ.php:394
+msgid "Quel est le bon processus pour affilier un contact ?"
+msgstr "Qual é o bom procedimento para afiliar um contacto ?"
+
+#: Intranet_Extra_FAQ.php:401
+msgid ""
+"Susciter l’intérêt en expliquant  pourquoi tout le monde est gagnant avec "
+"NosRezo, montrer la vidéo sur la chaîne NosRezo youtube."
+msgstr ""
+"Suscitar o interesse ao explicar porque é que toda a gente passa a ganhar "
+"com a NosRezo, apresentar-lhes o video que encontra-se no canal NosRezo da "
+"Youtube."
+
+#: Intranet_Extra_FAQ.php:402
+msgid ""
+"Expliquer que sans notre invitation il est impossible de s’inscrire sur ce "
+"site privé. Expliquer qu’il ne nous reste qu’un nombre de places limitées, "
+"donc que nous attendons de sa part qu’il utilise à son tour toutes ses "
+"invitations."
+msgstr ""
+"Explicar que sem o nosso convite, é impossivel inscrever-se neste site "
+"privado. Explicar que so possuimos um numero restrito de lugares, por isso "
+"nos contamos com essa pessoa para que ela utilize por sua vez todos os seus "
+"convites."
+
+#: Intranet_Extra_FAQ.php:403
+msgid "Inviter à la conférence en ligne / Webinar du Lundi."
+msgstr "Convidar para assitir à conferência Onlie / Webinar da Segunda-feira."
+
+#: Intranet_Extra_FAQ.php:404
+msgid ""
+"Appeler une semaine plus tard, si l’affilié n’a invité personne, lui "
+"proposer de se désinscrire par simple Email à contact@nosrezo.com car nous "
+"avons des personnes en attente et que chaque place est précieuse."
+msgstr ""
+"Ligar-lhe uma semana depois, se o afiliado entretanto ainda nao convidou "
+"ninguem, propor-lhe que proceda a sua desinscriçao via um simples Email para "
+"contact@nosrezo.com porque nos temos pessoas que estao a espera para ser "
+"inscritas e que cada inscriçao é preciosa."
+
+#: Intranet_Extra_FAQ.php:415
+msgid "Comment nous contacter ?"
+msgstr "Como nos contactar ?"
+
+#: Intranet_Extra_FAQ.php:422
+msgid "Soit par mail à l'adresse contact@nosrezo.com"
+msgstr "Ou por Email para contact@nosrezo.com"
+
+#: Intranet_Extra_FAQ.php:423
+msgid "Soit par téléphone au"
+msgstr "Ou pelo telefone para"
+
+#: Intranet_Extra_FAQ.php:423
+msgid "Numéro Français sans surcoût"
+msgstr "Numero português sem custos acrescentados."
+
+#: Intranet_Extra_FAQ.php:424
+msgid "Soit à l'adresse suivante"
+msgstr "Ou seja para o seguinte endereço"
+
+#: Intranet_Extra_FAQ.php:451
+msgid "Où trouver le système de rémunération ?"
+msgstr "Aonde encontrar o sistema de remuneraçao ?"
+
+#: Intranet_Extra_FAQ.php:458
+msgid "Page d'Accueil"
+msgstr "Pagina de Atendimento"
+
+#: Intranet_Extra_FAQ.php:458
+msgid "Comment gagner de l’argent"
+msgstr "Como ganhar dinheiro"
+
+#: Intranet_Extra_FAQ.php:459
+msgid "Page Informations"
+msgstr "Pagina informaçoes"
+
+#: Intranet_Extra_FAQ.php:459
+msgid "Métier"
+msgstr "Oficio"
+
+#: Intranet_Extra_FAQ.php:461
+msgid ""
+"Il y a aussi le Simulateur avec le détail des calculs présentés par exemples."
+msgstr ""
+"Existe também um Simulador com o pormenor dos calculos apresentados com "
+"exemplos."
+
+#: Intranet_Extra_FAQ.php:475
+msgid "Où puis-je trouver la matrice de rémunération ?"
+msgstr "Aonde posso encontrar a Matriz da remuneraçao ?"
+
+#: Intranet_Extra_FAQ.php:482
+msgid ""
+"Dans l’onglet « Documents » partie 'rémunération nette perçue par les "
+"affiliés'"
+msgstr ""
+"No item \"Documentos\" parte \"Remuneraçao limpa recebida pelos afiliados\""
+
+#: Intranet_Extra_FAQ.php:495
+msgid "Comment ça marche d'un point de vue administratif ?"
+msgstr "Como é que funciona do ponto de vista administrativo ?"
+
+#: Intranet_Extra_FAQ.php:503
+msgid ""
+"NosRezo s’occupe des déclarations et des charges, vous recevez un montant "
+"Net."
+msgstr ""
+"A NosRezo encarrega-se das declaraçoes e dos encargos, você so recebe um "
+"valor Limpo."
+
+#: Intranet_Extra_FAQ.php:504
+msgid ""
+"Afin de pouvoir vous rémunérer vous devrez retourner à NosRezo le contrat "
+"d'affilié signé."
+msgstr ""
+"Afim de poder o(a) remunerar você deverà reenviar para a NosRezo o contrato "
+"afiliado assinado."
+
+#: Intranet_Extra_FAQ.php:516
+msgid "Faut il déclarer les revenus percus par NosRezo ?"
+msgstr "Devemos declarar os vencimentos que recebemos da NosRezo ?"
+
+#: Intranet_Extra_FAQ.php:523
+msgid ""
+"Oui en fin d’année dans la case BNC de votre relevé d'imposition sur le "
+"revenu, mais elle sera certainement déjà pré-remplie."
+msgstr ""
+"Sim no final do ano na declaraçao IRS correspondente aos rendimentos, como "
+"recibo verde, mas certamente que a sua declaraçao jà se encontrar "
+"préviamente preenchida pelos nossos serviços."
+
+#: Intranet_Extra_FAQ.php:524
+msgid ""
+"N'oubliez pas, si vous payez un peu d'impôt, c'est que vous avez encaissé "
+"des commissions bien supérieur !"
+msgstr ""
+"Nao esqueça, que se jà paga alguns impostos, que você recebeu rendimentos "
+"correspondendo a comissoes bem superiores !"
+
+#: Intranet_Extra_FAQ.php:536
+msgid "Y-a t'il des charges à payer ?"
+msgstr "Ha encargos para pagar ?"
+
+#: Intranet_Extra_FAQ.php:543
+msgid ""
+"Non, vous touchez une rémunération Nette avant impôt sur le revenu, NosRezo "
+"s’occupe en amont du règlement des charges auprès des différents organismes."
+msgstr ""
+"Nao, você recebe a sua remuneraçao Limpa antes do IRS (Imposto Rendimentos "
+"Sigulares), a NosRezo encarrega-se préviamente do pagamento junto dos varios "
+"orgaos sociais."
+
+#: Intranet_Extra_FAQ.php:555
+msgid "Quand/Comment sommes nous payés ?"
+msgstr "Quando/Como somos pagos ?"
+
+#: Intranet_Extra_FAQ.php:562 Intranet_Extra_FAQ.php:592
+msgid "Afin d'être payé par NosRezo, vous devez"
+msgstr "Afim de serem pagos pela NosRezo, vocês devem"
+
+#: Intranet_Extra_FAQ.php:563
+msgid ""
+"Envoyer votre contrat NosRezo téléchargeable dans votre intranet (onglet "
+"'informations', rubrique 'documents', thème 'contrat VDI à signer')"
+msgstr ""
+"Enviar o seu contrato NosRezo telecarregado na vossa intranet (item "
+"\"informaçoes\", rubrica \"documentos\", tema \"Contrato VDI para assinar\")"
+
+#: Intranet_Extra_FAQ.php:564
+msgid "Noter la ou les prestations des partenaitres de vos recommandations"
+msgstr ""
+"Atribuir uma pontuaçao a ou as prestaçoes dos parceiros das vossas "
+"recomendaçoes"
+
+#: Intranet_Extra_FAQ.php:565 Intranet_Extra_FAQ.php:595
+msgid "Cliquez sur le boutton de demande de paiement"
+msgstr "Clic na tecla pedido de pagamento"
+
+#: Intranet_Extra_FAQ.php:567
+msgid ""
+"A noter que le bouton est visible, une fois que vous avez des commisions à "
+"encaisser !"
+msgstr ""
+"Saiba que a tecla encontra-se visivel, so quando você possui comissoes para "
+"receber !"
+
+#: Intranet_Extra_FAQ.php:571
+msgid "Comment"
+msgstr "Como"
+
+#: Intranet_Extra_FAQ.php:572
+msgid "NosRezo vous fait un virement bancaire directement sur votre compte"
+msgstr ""
+"A NosRezo procede a uma transferência bancaria directamente para a sua conta"
+
+#: Intranet_Extra_FAQ.php:573
+msgid "Pensez à renseigner vos informations dans l'onglet \"Mon profil\""
+msgstr "Pense em acrescentar as suas informaçoes no item 'Meu perfil\""
+
+#: Intranet_Extra_FAQ.php:586
+msgid "Sous quel statut suis-je rémunéré?"
+msgstr "Sob qual estatuto recebo a minha remuneraçao ?"
+
+#: Intranet_Extra_FAQ.php:593
+msgid "Envoyer votre contrat NosRezo téléchargeable dans votre intranet"
+msgstr "Enviar o seu contrato NosRezo telecarregavel no seu intranet"
+
+#: Intranet_Extra_FAQ.php:594
+msgid "Noter la ou les prestations des partenaires de vos recommandations"
+msgstr ""
+"Atribuir uma pontuaçao a ou as prestaçoes dos parceiros das vossas "
+"recomendaçoes"
+
+#: Intranet_Extra_FAQ.php:599
+msgid ""
+"Le statut légal de rémunération est le statut VDI qui sera entièrement géré "
+"par NosRezo."
+msgstr ""
+"O estatuto legal de remuneraçao é o estatuto VDI que serà integralmente "
+"gerido pela NosRezo."
+
+#: Intranet_Extra_FAQ.php:613
+msgid ""
+"Dans quelle case lors de la déclaration d'impôt, je dois noter mes revenus ?"
+msgstr ""
+
+#: Intranet_Extra_FAQ.php:620
+msgid "Tout dépend de votre statut"
+msgstr ""
+
+#: Intranet_Extra_FAQ.php:621
+msgid ""
+"Si votre statut est VDI : le montant est déjà indiqué dans la ligne revenus "
+"d’activité connus 1AJ."
+msgstr ""
+
+#: Intranet_Extra_FAQ.php:622
+msgid ""
+"Si vous êtes auto-entrepreneur, il faut le mettre avec le chiffre d’affaires "
+"auto-entrepreneur "
+msgstr ""
+
+#: Intranet_Extra_FAQ.php:623
+msgid ""
+"Si vous êtes une entreprise individuelle, EIRL ou société, cela doit être "
+"indiqué dans la déclaration de résultat en chiffre d’affaires "
+"exceptionnels.  "
+msgstr ""
+
+#: Intranet_Extra_FAQ.php:625
+msgid " "
+msgstr ""
+
+#: Intranet_Extra_FAQ.php:646
+msgid ""
+"Est ce que je garde le contrôle sur les recommandation de mes prescripteurs "
+"NosRezo ?"
+msgstr ""
+"Serà que tenho a possibilidade de guardar o contrôle sobre as recomendaçoes "
+"dos meus prescritores NosRezo ?"
+
+#: Intranet_Extra_FAQ.php:652
+msgid ""
+"Toutes les recommandations immobilières de mon 1er et de mon 2nd niveau de "
+"prescripteur NosRezo me sont mécaniquement attribuées sur mon secteur"
+msgstr ""
+"Todas as recomendaçoes imobiliarias do meu 1° Nivel e do meu 2° Nivel de "
+"prescritor NosRezo me sao mecanicamente atribuidos sobre o meu sector."
+
+#: Intranet_Extra_FAQ.php:664
+msgid "Qu’est-ce que le pot commun ?"
+msgstr "O que é o pote comum ?"
+
+#: Intranet_Extra_FAQ.php:670
+msgid ""
+"Le pot commun représente l’ensemble des recommandations des niveaux 3 à 6 "
+"plus toutes celles de vos 2 premiers niveaux hors de votre secteur."
+msgstr ""
+"O pote comum representa o conjunto das recomendaçoes dos niveis 3 até 6 mais "
+"todas aquelas dos vossos 2 primeiros niveis fora do vosso sector."
+
+#: Intranet_Extra_FAQ.php:682
+msgid "Comment fonctionne l’algorithme d'attribution des recommandations ?"
+msgstr "Como funciona o algoritmo de atribuiçao das recomendaçoes ?"
+
+#: Intranet_Extra_FAQ.php:689
+msgid "C’est un calcul simple, qui prend en compte :"
+msgstr "E um calculo simples, que têm em conta :"
+
+#: Intranet_Extra_FAQ.php:690
+msgid "Votre secteur"
+msgstr "O seu sector"
+
+#: Intranet_Extra_FAQ.php:691
+msgid ""
+"Vos performances en terme de compromis de ventes signés (mises à jour toutes "
+"les nuits)"
+msgstr ""
+"As suas performances em termo de compromissos de venda assinados "
+"(actualizado todas as noites)"
+
+#: Intranet_Extra_FAQ.php:692
+msgid "Vos notations NosRezo"
+msgstr "O suas pontuaçoes NosRezo"
+
+#: Intranet_Extra_FAQ.php:693
+msgid ""
+"Votre contribution au pot commun NosRezo grâce au nombre d’affiliés dans "
+"votre organisation."
+msgstr ""
+"A sua contribuiçao ao pote comum NosRezo graças au numero de afiliados na "
+"sua organizaçao."
+
+#: Intranet_Extra_FAQ.php:703
+msgid "Les Conseillers IAD qui débutent sont pénalisés ?"
+msgstr "Os conselheiros IAD que iniciam encontram-se penalizados ?"
+
+#: Intranet_Extra_FAQ.php:710
+msgid ""
+"Un conseiller débutant se servira de NosRezo pour recevoir des "
+"recommandations de ses 2 premiers niveaux d’affiliés."
+msgstr ""
+"Um conselheiro novato utilizarà a NosRezo para receber as recomendaçoes dos "
+"seus 2 primeiros niveis de afiliados."
+
+#: Intranet_Extra_FAQ.php:711
+msgid ""
+"De plus une partie de l’algorithme déduit le temps de formation et applique "
+"un Ratio."
+msgstr ""
+"Para mais uma parte do algoritmo deduz o tempo de formaçao e aplica um Racio."
+
+#: Intranet_Extra_FAQ.php:712
+msgid ""
+"Autrement dit dès sa 1ère vente il a aussi ses chances de recevoir des "
+"recommandations du pot commun."
+msgstr ""
+"Dito de uma outra forma, logo apos a sua 1a venda, ele também possui as "
+"mesmas sortes de receber as recomendaçoes do pote comum"
+
+#: Intranet_Extra_FAQ.php:723
+msgid "Comment je rémunère NosRezo sur les dossiers que je reçois ?"
+msgstr "Como é que eu remunero a NosRezo sobre os dossiês que eu recebo ?"
+
+#: Intranet_Extra_FAQ.php:730
+msgid ""
+"Simplement en indiquant NosRezo en recommandation au moment d’enregistrer "
+"votre E-mandat."
+msgstr ""
+"Simplesmente ao indicar NosRezo em recomendaçao no momento de registar o "
+"vosso E-Contrato."
+
+#: Intranet_Extra_FAQ.php:731
+msgid ""
+"NosRezo réceptionne les 12% qui sont réutilisés pour rémunérer le "
+"prescripteur et les 6 personnes de sa Up Line."
+msgstr ""
+"A NosRezo recepciona os 12% que sao utilizados para remunerar o prescritor e "
+"as 6 pessoas da sua Up Line."
+
+#: Intranet_Extra_FAQ.php:742
+msgid "Que devient le système de recommandations IAD France ?"
+msgstr "O que acontece ao sistema de recomendaçoes IAD Portugal ?"
+
+#: Intranet_Extra_FAQ.php:749
+msgid "Pour l’instant les deux systèmes cohabitent"
+msgstr "Por enquanto os dois sistemas cohabitam"
+
+#: Intranet_Extra_FAQ.php:760
+msgid ""
+"Un agent iad devient-il vdi chez NosRezo pour toucher ses rémunérations ?"
+msgstr ""
+"Um agente IAD serà que se torna VDI na NosRezo para receber as suas "
+"remuneraçoes ? "
+
+#: Intranet_Extra_FAQ.php:767
+msgid ""
+"Non, l’agent IAD utilise son entité Agent Commercial pour facturer NosRezo "
+"et être rémunéré."
+msgstr ""
+"Nao, o agente IAD utiliza a sua entidade Agente Comercial (Recibos Verdes ou "
+"Unipessoal) para facturar a NosRezo e ser remunerado."
+
+#: Intranet_Extra_FAQ.php:778
+msgid "Peut-on proposer en professionnels des diagnostiqueurs ?"
+msgstr ""
+"Podemos propor como profissionais os que fazem diganosticos ou certificados "
+"energéticos ?"
+
+#: Intranet_Extra_FAQ.php:785
+msgid "Non, une jurisprudence nous en empêche."
+msgstr "Nao, uma jurisprudência nos impede isso."
+
+#: Intranet_Extra_FAQ.php:796
+msgid "Que dois-je faire de mes prescripteurs IAD ?"
+msgstr "O que devo fazer dos meus precritores IAD ?"
+
+#: Intranet_Extra_FAQ.php:803
+msgid ""
+"Ce que vous voulez. Si ils sont affiliés par quelqu’un d’autre sur NosRezo "
+"et qu’ils choisissent de recommander par NosRezo vous perdrez toutes ses "
+"recommandations."
+msgstr ""
+"O que você desejar. Se eles estao afiliados por uma outra pessoa na NosRezo "
+"e que eles escolhem de recomendar via a NosRezo, entao você ira perder todas "
+"as suas recomendaçoes."
+
+#: Intranet_Extra_FAQ.php:814
+msgid "Comment changer mon secteur NosRezo ?"
+msgstr "Como alterar o meu sector NosRezo ?"
+
+#: Intranet_Extra_FAQ.php:821
+msgid ""
+"Votre secteur NosRezo est paramétré en fonction de votre secteur IAD, si "
+"vous avez un changement il faut donc le faire de votre Intranet IAD France."
+msgstr ""
+"O seu sector NosRezo està parametrizado em funçao do seu sector IAD, se você "
+"pretender uma alteraçao terà que a efecturar a partir da sua Intranet IAD "
+"Portugal."
+
+#: Intranet_Extra_FAQ.php:822
+msgid "La mise à jour se fait le soir, à minuit !"
+msgstr "A actualizaçao é efectuada à noite, a meia-noite !"
+
+#: Intranet_Mon_Profil.php:34
+msgid "Mon profil Affilié"
+msgstr "Meu perfil de Afiliado"
+
+#: Intranet_Mon_Profil.php:180 Intranet_Mon_Profil_Partenaire.php:212
+msgid ""
+"Upload effectué avec succès : Pensez à rafraichir votre cache pour afficher "
+"la photo sur votre page !"
+msgstr ""
+"Carregamento efectuado com sucesso: lembre-se de actualizar a página para "
+"ver a foto!"
+
+#: Intranet_Mon_Profil.php:192 Intranet_Mon_Profil_Partenaire.php:224
+msgid "Echec de l'upload !"
+msgstr "O carregamento falhou!"
+
+#: Intranet_Mon_Profil.php:229
+msgid "Vos identifiants"
+msgstr "Os seus acessos"
+
+#: Intranet_Mon_Profil.php:249 Intranet_Mon_Profil_Partenaire.php:293
+msgid "Mes données"
+msgstr "Os meus dados"
+
+#: Intranet_Mon_Profil.php:252
+msgid "MES INFORMATIONS"
+msgstr "AS MINHAS INFORMAÇÕES"
+
+#: Intranet_Mon_Profil.php:258
+msgid "ENTREPRISE"
+msgstr "EMPRESA"
+
+#: Intranet_Mon_Profil.php:263 Intranet_Mon_Profil_Partenaire.php:301
+msgid "MA PHOTO DE PROFIL"
+msgstr "A MINHA FOTO DE PERFIL"
+
+#: Intranet_Mon_Profil.php:266
+msgid "MON RIB"
+msgstr "O MEU NIB"
+
+#: Intranet_Mon_Profil.php:286
+msgid "Pensez à renseigner tous les champs, si vous souhaitez être payé. "
+msgstr "Lembre-se de preencher todos os campos, se você quer ser pago."
+
+#: Intranet_Mon_Profil.php:286
+msgid "Pour toutes questions :"
+msgstr "Para qualquier preguntas :"
+
+#: Intranet_Mon_Profil.php:290 Intranet_Mon_Profil.php:502
+#: Intranet_partenaire_6.php:126 signup.php:133
+msgid "Nom"
+msgstr "Nome"
+
+#: Intranet_Mon_Profil.php:298 Intranet_Mon_Profil.php:510
+msgid "E-mail"
+msgstr "E-mail"
+
+#: Intranet_Mon_Profil.php:299
+msgid "Pour modifier votre email, envoyer un mail à"
+msgstr "Para alterar o seu email, envie um email para"
+
+#: Intranet_Mon_Profil.php:308
+msgid "Parrain NosRezo"
+msgstr "Padrinho NosRezo"
+
+#: Intranet_Mon_Profil.php:316
+msgid "Téléphone"
+msgstr "Telefone"
+
+#: Intranet_Mon_Profil.php:327 Intranet_Nouveau_partenaire.php:159
+#: Intranet_Nouvelle_recommandation.php:390
+#: Intranet_Nouvelle_recommandation_2.php:390
+#: Intranet_Nouvelle_recommandation_suivi.php:170 Intranet_planning_nr.php:403
+msgid "Adresse"
+msgstr "Endereço"
+
+#: Intranet_Mon_Profil.php:337 Intranet_Nouveau_partenaire.php:171
+#: signup.php:178
+msgid "Code Postal"
+msgstr "Código Postal"
+
+#: Intranet_Mon_Profil.php:348 Intranet_Nouveau_partenaire.php:180
+#: signup.php:185
+msgid "Ville"
+msgstr "Localidade"
+
+#: Intranet_Mon_Profil.php:357
+msgid "Date de Naissance"
+msgstr "Data de nascimento"
+
+#: Intranet_Mon_Profil.php:365
+msgid "Lieu de Naissance"
+msgstr "Lugar de nascimento"
+
+#: Intranet_Mon_Profil.php:374
+msgid "Nationalité"
+msgstr "Nacionalidade"
+
+#: Intranet_Mon_Profil.php:382
+msgid "Num Sécurité Sociale"
+msgstr "Número de contribuinte"
+
+#: Intranet_Mon_Profil.php:394
+msgid "Vous vivez dans"
+msgstr "Vive na"
+
+#: Intranet_Mon_Profil.php:399 Intranet_Mon_Profil.php:413
+msgid "Merci de choisir dans la liste"
+msgstr "Agradecemos a escolha na lista"
+
+#: Intranet_Mon_Profil.php:400
+msgid "Une Maison"
+msgstr "Uma casa"
+
+#: Intranet_Mon_Profil.php:401
+msgid "Un appartement"
+msgstr "Um apartamento"
+
+#: Intranet_Mon_Profil.php:408
+msgid "Vous êtes"
+msgstr "É"
+
+#: Intranet_Mon_Profil.php:414
+msgid "Propriétaire de votre logement"
+msgstr "Proprietário da sua habitação"
+
+#: Intranet_Mon_Profil.php:415
+msgid "Locataire de votre logement"
+msgstr "Arrendatário da sua habitação"
+
+#: Intranet_Mon_Profil.php:430 Intranet_Mon_Profil.php:546
+#: Intranet_Mon_Profil_banque.php:220 Intranet_Partenaire_secteur.php:175
+#: Intranet_Partenaire_secteur.php:255
+msgid "SAUVEGARDER"
+msgstr "GUARDAR"
+
+#: Intranet_Mon_Profil.php:484
+msgid "OUI"
+msgstr "SIM"
+
+#: Intranet_Mon_Profil.php:484
+msgid "Je facture NosRezo avec une entreprise"
+msgstr "Eu facturo o NosRezo como uma empresa"
+
+#: Intranet_Mon_Profil.php:485
+msgid "NON"
+msgstr "NÃO"
+
+#: Intranet_Mon_Profil.php:485
+msgid "Je ne facture pas NosRezo avec une entreprise"
+msgstr "Eu não facturo o NosRezo como uma empresa"
+
+#: Intranet_Mon_Profil.php:494 Intranet_Partenaire_secteur.php:99
+#: Intranet_partenaire_6.php:125
+msgid "Catégorie"
+msgstr "Categoria"
+
+#: Intranet_Mon_Profil.php:521
+msgid "SIRET"
+msgstr "Certidão Permanente"
+
+#: Intranet_Mon_Profil.php:530
+msgid "Numéro TVA INTRACOMMUNAUTAIRE"
+msgstr "Número de IVA INTRACOMUNITÁRIO"
+
+#: Intranet_Mon_Profil.php:568 Intranet_Mon_Profil_Partenaire.php:489
+msgid ""
+"Votre photo doit être de préférence carré et ne doit pas être supérieur à 1 "
+"M."
+msgstr ""
+"A sua foto deve ser quadrada de preferência e não deve ser superior a 1 MB."
+
+#: Intranet_Mon_Profil.php:578
+msgid "CHARGER VOTRE PHOTO "
+msgstr "CARREGAR A SUA FOTO"
+
+#: Intranet_Mon_Profil.php:587
+msgid "Le paiement NosRezo se fait par virement bancaire sur votre compte :"
+msgstr "O pagamento NosRezo é feito por transferência bancária na sua conta:"
+
+#: Intranet_Mon_Profil.php:590
+msgid "MISE À JOUR DU RIB DE PAIEMENT"
+msgstr "ACTUALIZAÇÃO DO NIB PARA PAGAMENTO"
+
+#: Intranet_Mon_Profil_Partenaire.php:65 Intranet_Mon_Profil_banque.php:34
+#: Intranet_partenaire_5.php:33
+msgid "Mon compte"
+msgstr "A minha conta"
+
+#: Intranet_Mon_Profil_Partenaire.php:65
+msgid "Professionnel"
+msgstr "Professional"
+
+#: Intranet_Mon_Profil_Partenaire.php:84 Intranet_Mon_Profil_Partenaire.php:92
+msgid ""
+"Votre présentation est prise en compte. Les affiliés NosRezo peuvent la "
+"consulter dans l'annuaire."
+msgstr ""
+"A sua apresentação foi guardada. Pode ser consultada no directório pelos "
+"afiliados NosRezo."
+
+#: Intranet_Mon_Profil_Partenaire.php:107
+msgid "Votre experience est supprimée."
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:114
+msgid ""
+"Votre présentation est prise en compte. Les affiliés NosRezo peuvent la "
+"consulter dans l'annuaire !"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:121
+msgid ""
+"Votre modification est prise en compte. Les affiliés NosRezo peuvent la "
+"consulter dans l'annuaire !"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:131
+msgid "Le service <b>RECHERCHE IMMOBILIÈRE</b> est ajouté à vos compétences"
+msgstr ""
+"O serviço <b>PROCURA IMOBILIÁRIA</b> foi adicionado às suas competências"
+
+#: Intranet_Mon_Profil_Partenaire.php:132
+msgid "Le service <b>RECHERCHE IMMOBILIÈRE</b> est retiré de vos compétences"
+msgstr ""
+"O serviço <b>PROCURA IMOBILIÁRIA</b> foi removido das suas competências"
+
+#: Intranet_Mon_Profil_Partenaire.php:140
+msgid "Le service <b>RECRUTEMENT IMMOBILIER</b> est ajouté à vos compétences"
+msgstr ""
+"O serviço <b>RECRUTAMENTO IMOBILIÁRIO</b> foi adicionado às suas competências"
+
+#: Intranet_Mon_Profil_Partenaire.php:141
+msgid "Le service <b>RECRUTEMENT IMMOBILIER</b> est retiré de vos compétences"
+msgstr ""
+"O serviço <b>RECRUTAMENTO IMOBILIÁRIO</b> foi removido das suas competências"
+
+#: Intranet_Mon_Profil_Partenaire.php:297
+msgid "MON MÉTIER"
+msgstr "A MINHA PROFISSÃO"
+
+#: Intranet_Mon_Profil_Partenaire.php:307
+msgid "DOMAINES"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:312
+msgid "LANGUES"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:316
+msgid "COMPÉTENCES"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:332
+msgid "VOTRE PRÉSENTATION :"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:334
+msgid "Mon Entreprise est "
+msgstr "A minha empresa é"
+
+#: Intranet_Mon_Profil_Partenaire.php:338
+msgid "Me contacter au "
+msgstr "Ligar para "
+
+#: Intranet_Mon_Profil_Partenaire.php:344
+msgid "Mon secteur est de "
+msgstr "O meu sector é de"
+
+#: Intranet_Mon_Profil_Partenaire.php:344
+msgid "autour de "
+msgstr "nos arredores de "
+
+#: Intranet_Mon_Profil_Partenaire.php:367
+msgid ""
+"Présentez vous ici. Cette présentation sera visible dans l'annuaire par tous "
+"les Affiliés NosRezo"
+msgstr ""
+"Apresente-se aqui. Esta apresentação será visível no directório para todos "
+"os Afiliados NosRezo"
+
+#: Intranet_Mon_Profil_Partenaire.php:373
+msgid "VALIDER VOTRE PRÉSENTATION"
+msgstr "VALIDAR A SUA APRESENTAÇÃO"
+
+#: Intranet_Mon_Profil_Partenaire.php:386
+msgid "VOTRE EXPÉRIENCE :"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:393
+#: Intranet_Mon_Profil_Partenaire.php:440
+#: Intranet_Mon_Profil_Partenaire.php:444
+#: Intranet_partenaire_profil_master.php:433
+#: Intranet_partenaire_profil_master.php:441
+msgid "Entreprise"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:397
+msgid "Poste ou Titre : Dirigeant"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:401
+msgid "Durée, 3 ans et 5 mois"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:406
+#: Intranet_Mon_Profil_Partenaire.php:453
+#: Intranet_partenaire_profil_master.php:446
+msgid ""
+"Présentez votre expérience professionnelle ici. Cette présentation sera "
+"visible dans l'annuaire par tous les Affiliés NosRezo"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:448
+#: Intranet_partenaire_profil_master.php:437
+msgid "3 ans et 5 mois"
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:486
+msgid ""
+"Nous souhaitons vous mettre en avant sur notre site public. Afin d'avoir "
+"plus de visibilité par l'ensemble des affiliés NosRezo, pensez à télécharger "
+"votre photo de profil."
+msgstr ""
+"Queremos destacá-lo na nossa página pública. De forma a ter mais "
+"visibilidade para todos os afiliados NosRezo, carregue a sua foto de prefil."
+
+#: Intranet_Mon_Profil_Partenaire.php:499
+msgid "CHARGER VOTRE PHOTO"
+msgstr "CARREGAR A SUA FOTO"
+
+#: Intranet_Mon_Profil_Partenaire.php:513
+msgid "Les langues que je parlent : "
+msgstr ""
+
+#: Intranet_Mon_Profil_Partenaire.php:594
+msgid "Je souhaite recevoir des recommandations dans les domaines suivants"
+msgstr "Quero receber recomendações nas seguintes áreas"
+
+#: Intranet_Mon_Profil_Partenaire.php:603
+msgid "Transactions immobilières"
+msgstr "Transações imobiliárias"
+
+#: Intranet_Mon_Profil_Partenaire.php:606
+#: Intranet_Mon_Profil_parrainage.php:142
+#: Intranet_Mon_Profil_parrainage.php:159
+msgid "Oui"
+msgstr "Sim"
+
+#: Intranet_Mon_Profil_Partenaire.php:623
+msgid "Recherche immobilière"
+msgstr "Procura imobiliária"
+
+#: Intranet_Mon_Profil_Partenaire.php:649
+msgid "Pré-requis Recrutement Immobilier"
+msgstr "Pré-requisito Recrutamento Imobiliário"
+
+#: Intranet_Mon_Profil_Partenaire.php:651
+msgid "Être Manager IAD France"
+msgstr "Ser Gestor IAD Portugal"
+
+#: Intranet_Mon_Profil_Partenaire.php:652
+msgid "Avoir des places disponibles sur son 1er niveau"
+msgstr "Ter lugares disponíveis no 1º nível"
+
+#: Intranet_Mon_Profil_Partenaire.php:653
+msgid "Avoir validé le pacte des Managers"
+msgstr "Ter validado o pacto dos Gestores"
+
+#: Intranet_Mon_Profil_Partenaire.php:657
+msgid "Être disponible"
+msgstr "Estar disponível"
+
+#: Intranet_Mon_Profil_Partenaire.php:658
+msgid "Pour assurer l'intégration du filleul"
+msgstr "Para garantir a integração do aprendiz"
+
+#: Intranet_Mon_Profil_Partenaire.php:668
+msgid "Engagements Recrutement immobilier"
+msgstr "Compromissos Recrutamento Imobiliário"
+
+#: Intranet_Mon_Profil_Partenaire.php:670
+msgid "Reverser 500 € HT à NR à la 1ère vente"
+msgstr "Pagar 500€ (excluindo taxas) ao NosRezo na 1ª venda"
+
+#: Intranet_Mon_Profil_Partenaire.php:671
+msgid "La commission est reversée aux affiliés en cas de vente"
+msgstr "A comissão é paga ao afiliados em caso de venda"
+
+#: Intranet_Mon_Profil_Partenaire.php:672
+msgid "Uniquement la 1ière vente"
+msgstr "Unicamente na 1ª venda"
+
+#: Intranet_Mon_Profil_Partenaire.php:676
+msgid "Mettre à jour son intranet"
+msgstr "Actualizar intranet"
+
+#: Intranet_Mon_Profil_Partenaire.php:677
+msgid ""
+"En cas de multiples relances, NosRezo se réserve le droit de bloquer votre "
+"compte"
+msgstr ""
+"No caso de vários aviso, o NosRezo reserva-se o direito de bloquear a sua "
+"conta"
+
+#: Intranet_Mon_Profil_Partenaire.php:686
+msgid "Recrutement immobilier"
+msgstr "Recrutamento imobiliário"
+
+#: Intranet_Mon_Profil_Partenaire.php:805
+#: Intranet_Nouvelle_recommandation.php:470
+#: Intranet_Nouvelle_recommandation_2.php:470 Intranet_invitez_vos_amis.php:250
+#: scripts/bandeau_footer.php:3
+msgid "Tous droits réservés"
+msgstr "Todos os direitos reservados"
+
+#: Intranet_Mon_Profil_banque.php:34
+msgid "Informations de paiement"
+msgstr "INFORMAÇÕES DE PAGAMENTO"
+
+#: Intranet_Mon_Profil_banque.php:127
+msgid ""
+"NosRezo procédera au virement sur le compte indiqué. Ces informations seront "
+"sauvegardées avec leurs modifications."
+msgstr ""
+"NosRezo procederá à transferência para a conta indicada. Estas informações "
+"serão guardadas com as suas alterações."
+
+#: Intranet_Mon_Profil_banque.php:127
+msgid "Ces informations servent aux virements de vos commissions"
+msgstr "Esta informação é usada para a transferência das suas comissões"
+
+#: Intranet_Mon_Profil_banque.php:128
+msgid "NosRezo procède aux virements sur le compte de ses affiliès uniquement."
+msgstr ""
+"NosRezo efectua transferências somente para as contas em nome do afiliado."
+
+#: Intranet_Mon_Profil_banque.php:128
+msgid "Ce compte doit correspondre à votre Nom et votre Prénom"
+msgstr "Esta conta deve corresponder ao seu nome e apelido"
+
+#: Intranet_Mon_Profil_banque.php:135
+msgid "Code banque"
+msgstr "Código do banco"
+
+#: Intranet_Mon_Profil_banque.php:140 Intranet_Mon_Profil_banque.php:163
+#: Intranet_Mon_Profil_banque.php:175 Intranet_Mon_Profil_banque.php:187
+msgid "Modification non valide"
+msgstr "Alteração não válida"
+
+#: Intranet_Mon_Profil_banque.php:146
+msgid "Nom banque"
+msgstr "Nome do banco"
+
+#: Intranet_Mon_Profil_banque.php:150 Intranet_Mon_Profil_banque.php:151
+#: Intranet_Mon_Profil_banque.php:162 Intranet_Mon_Profil_banque.php:173
+#: Intranet_Mon_Profil_banque.php:174 Intranet_Mon_Profil_banque.php:185
+#: Intranet_Mon_Profil_banque.php:186 Intranet_Mon_Profil_banque.php:197
+#: Intranet_Mon_Profil_banque.php:207 Intranet_Mon_Profil_pass.php:77
+#: Intranet_Mon_Profil_pass.php:95 Intranet_Nouveau_partenaire.php:109
+#: Intranet_Nouveau_partenaire.php:133 Intranet_Nouveau_partenaire.php:142
+#: Intranet_Nouveau_partenaire.php:151 Intranet_Nouveau_partenaire.php:160
+#: Intranet_Nouveau_partenaire.php:181 Intranet_Nouveau_partenaire.php:263
+msgid "Obligatoire"
+msgstr "Obrigatorio"
+
+#: Intranet_Mon_Profil_banque.php:157
+msgid "Code guichet"
+msgstr "Código da agência"
+
+#: Intranet_Mon_Profil_banque.php:169
+msgid "Numéro de compte"
+msgstr "Número de conta"
+
+#: Intranet_Mon_Profil_banque.php:181
+msgid "Clé RIB"
+msgstr "Chave RIB"
+
+#: Intranet_Mon_Profil_banque.php:193
+msgid "BIC - SWIFT"
+msgstr ""
+
+#: Intranet_Mon_Profil_banque.php:203
+msgid "IBAN"
+msgstr "IBAN"
+
+#: Intranet_Mon_Profil_parrainage.php:33
+msgid "Connaissez-vous NosRezo ?"
+msgstr "Você conhece a NosRezo ?"
+
+#: Intranet_Mon_Profil_parrainage.php:108
+msgid "VOUS AVEZ OBTENU"
+msgstr "VOCE OBTEVE"
+
+#: Intranet_Mon_Profil_parrainage.php:108
+msgid "DE BONNES RÉPONSES"
+msgstr "BOAS RESPOSTAS"
+
+#: Intranet_Mon_Profil_parrainage.php:127
+msgid "Validez le test avant de vous lancer !"
+msgstr "Valide o test antes de começar !"
+
+#: Intranet_Mon_Profil_parrainage.php:136
+msgid "Est-ce que je peux m'inscrire chez Nosrezo sans être parrainé ?"
+msgstr "Serà que eu posso inscrever-me na NosRezo sem ser apadrinhado ?"
+
+#: Intranet_Mon_Profil_parrainage.php:145
+#: Intranet_Mon_Profil_parrainage.php:162
+msgid "Non"
+msgstr "Nao"
+
+#: Intranet_Mon_Profil_parrainage.php:153
+msgid "Est-ce que Nosrezo est un service payant pour ses affiliés ?"
+msgstr "Serà que a NosRezo é um serviço cobrado para os seus afiliados ?"
+
+#: Intranet_Mon_Profil_parrainage.php:170
+msgid ""
+"Quel est le minimum de taux de satisfaction pour qu'un partenaire soit "
+"recommandé ?"
+msgstr ""
+"Qual é o minimo da taxa de satisfaçao para que um parceiro seja recomendado ?"
+
+#: Intranet_Mon_Profil_parrainage.php:176
+msgid "5 sur 10"
+msgstr "5 sobre 10"
+
+#: Intranet_Mon_Profil_parrainage.php:189
+msgid ""
+"Les partenaires NosRezo sont présents partout en France, ou principalement "
+"dans les grandes villes ?"
+msgstr ""
+"Os parceiro NosRezo estao presentes por todo Portugal, ou principalmente nas "
+"grandes cidades ?"
+
+#: Intranet_Mon_Profil_parrainage.php:195
+msgid "Uniquement à Paris"
+msgstr "Por enquanto nas grandes cidades Porto e Lisboa"
+
+#: Intranet_Mon_Profil_parrainage.php:198
+msgid "Uniquement à Melun"
+msgstr "     "
+
+#: Intranet_Mon_Profil_parrainage.php:201
+msgid "Dans de nombreuses villes et bientôt toute la France"
+msgstr "Também nas outras principais cidades e em breve por todo Portugal"
+
+#: Intranet_Mon_Profil_parrainage.php:208
+msgid "Peut-on faire appel aux partenaires NosRezo pour ses propres besoins ?"
+msgstr ""
+"Podemos solicitar os parceiros NosRezo para as suas propias necessidades ?"
+
+#: Intranet_Mon_Profil_parrainage.php:214
+msgid "Uniquement le mardi"
+msgstr "somenteàs terça-feiras "
+
+#: Intranet_Mon_Profil_parrainage.php:217
+msgid "Non, ils sont toujours en vacances"
+msgstr ""
+
+#: Intranet_Mon_Profil_parrainage.php:220
+msgid "Oui bien sûr !"
+msgstr "Claro que Sim !"
+
+#: Intranet_Mon_Profil_parrainage.php:227
+msgid ""
+"Est-ce que je peux suivre l'évolution de mes recommandations de façon "
+"automatique (mails, intranet), sans relancer NosRezo ou les partenaires ?"
+msgstr ""
+"Serà que posso acompanhar a evoluçao das minhas recomendaçoes de maneira "
+"automatica (mails, intranet), sem ter que contactar a NosRezo ou os seus "
+"parceiros ?"
+
+#: Intranet_Mon_Profil_parrainage.php:233
+msgid "Non, c'est classé Top secret"
+msgstr "Nao, està classificado Top Secreto"
+
+#: Intranet_Mon_Profil_parrainage.php:236
+msgid "Oui c'est automatique"
+msgstr "Sim é automatico"
+
+#: Intranet_Mon_Profil_parrainage.php:243
+msgid ""
+"Est-ce que NosRezo doit payer les commissions uniquement sur le compte de "
+"l'affilié ?"
+msgstr ""
+"Serà que a NosRezo deve pagar as comissoes unicamente para a conta do "
+"afiliado ?"
+
+#: Intranet_Mon_Profil_parrainage.php:249
+msgid "Non, nous pouvons vous payer en liquide"
+msgstr "Nao, nos podemos vos pagar em efectivo"
+
+#: Intranet_Mon_Profil_parrainage.php:252
+msgid "Oui afin de respecter la législation"
+msgstr "Sim afim de respeitar a legislaçao"
+
+#: Intranet_Mon_Profil_parrainage.php:264
+msgid "VALIDER LES REPONSES"
+msgstr "VALIDA AS RESPOSTAS"
+
+#: Intranet_Mon_Profil_pass.php:34
+msgid "Mon compte NosRezo"
+msgstr "A minha conta NosRezo"
+
+#: Intranet_Mon_Profil_pass.php:34 login.php:90
+msgid "Identifiant"
+msgstr "Identificação"
+
+#: Intranet_Mon_Profil_pass.php:63
+msgid "La modification du mot de passe a été prise en compte"
+msgstr "A alteração da password foi efectuada com sucesso"
+
+#: Intranet_Mon_Profil_pass.php:64
+msgid "Modification du mot de passe non prise en compte"
+msgstr "Alteração da password não efectuada"
+
+#: Intranet_Mon_Profil_pass.php:67
+msgid "Votre nouveau mot de passe doit comporter"
+msgstr "A sua nova palavra-passe deve ter"
+
+#: Intranet_Mon_Profil_pass.php:68
+msgid "Entre 6 et 20 caractères"
+msgstr "Entre 6 e 20 caracteres"
+
+#: Intranet_Mon_Profil_pass.php:69
+msgid "Au moins une lettre et un chiffre"
+msgstr "Pelo menos uma letra e um algarismo"
+
+#: Intranet_Mon_Profil_pass.php:73
+msgid "Mot de passe actuel"
+msgstr "Palavra-passe actual"
+
+#: Intranet_Mon_Profil_pass.php:78 Intranet_Mon_Profil_pass.php:96
+msgid "min 6 char"
+msgstr "min de 6 char"
+
+#: Intranet_Mon_Profil_pass.php:79
+msgid "Non conforme"
+msgstr "Não conformidade"
+
+#: Intranet_Mon_Profil_pass.php:91
+msgid "Nouveau mot de passe"
+msgstr "Nova palavra-passe"
+
+#: Intranet_Mon_Profil_pass.php:97 Intranet_Mon_Profil_pass.php:109
+msgid "Non identique"
+msgstr "Não é idêntica"
+
+#: Intranet_Mon_Profil_pass.php:98 Intranet_Nouveau_partenaire.php:246
+msgid "Non Valide"
+msgstr "Não é válida"
+
+#: Intranet_Mon_Profil_pass.php:103
+msgid "Confirmer mot de passe"
+msgstr "Confirmar palavra-passe"
+
+#: Intranet_Mon_Profil_pass.php:108
+msgid "min 6 caractères"
+msgstr "min de 6 caracteres"
+
+#: Intranet_Mon_Profil_pass.php:119 Intranet_planning_nr.php:431
+msgid "MODIFIER"
+msgstr "ALTERAR"
+
+#: Intranet_Nouveau_partenaire.php:35
+msgid "Je dépose la candidature d'un professionnel de confiance"
+msgstr "Eu submeto a candidatura dum profissional de confiança"
+
+#: Intranet_Nouveau_partenaire.php:46
+msgid "Chef d'entreprise"
+msgstr "Líder empresarial"
+
+#: Intranet_Nouveau_partenaire.php:84 Intranet_Nouvelle_recommandation.php:161
+#: Intranet_Nouvelle_recommandation_2.php:161
+msgid "Toutes catégories"
+msgstr "Todas as categorias"
+
+#: Intranet_Nouveau_partenaire.php:108
+msgid "Nom de l'entreprise"
+msgstr "Nome da empresa"
+
+#: Intranet_Nouveau_partenaire.php:118 signup.php:118
+msgid "Monsieur"
+msgstr "Senhor"
+
+#: Intranet_Nouveau_partenaire.php:122 signup.php:125
+msgid "Madame"
+msgstr "Senhora"
+
+#: Intranet_Nouveau_partenaire.php:132
+msgid "Nom du partenaire"
+msgstr "Apelido do parceiro"
+
+#: Intranet_Nouveau_partenaire.php:141
+msgid "Prénom du partenaire"
+msgstr "Nome do parceiro"
+
+#: Intranet_Nouveau_partenaire.php:150 Intranet_partenaire_6.php:130
+msgid "Fonction"
+msgstr "Função"
+
+#: Intranet_Nouveau_partenaire.php:172
+msgid "Ce code postal est non valide"
+msgstr "Este codigo postal nao é valido"
+
+#: Intranet_Nouveau_partenaire.php:182
+msgid "Cette ville est non valide"
+msgstr "Esta cidade nao é valida"
+
+#: Intranet_Nouveau_partenaire.php:194
+msgid "Rayon d'action de 10 km autour de cette ville"
+msgstr "Raio de acçao de 10km à volta desta cidade"
+
+#: Intranet_Nouveau_partenaire.php:198
+msgid "Rayon d'action de 20 km autour de cette ville"
+msgstr "Raio de acçao de 20km à volta desta cidade"
+
+#: Intranet_Nouveau_partenaire.php:202
+msgid "Rayon d'action de 30 km autour de cette ville"
+msgstr "Raio de acçao de 30km à volta desta cidade"
+
+#: Intranet_Nouveau_partenaire.php:206
+msgid "Rayon d'action de 50 km autour de cette ville"
+msgstr "Raio de acçao de 50km à volta desta cidade"
+
+#: Intranet_Nouveau_partenaire.php:210
+msgid "Rayon d'action de 75 km autour de cette ville"
+msgstr "Raio de acçao de 75km à volta desta cidade"
+
+#: Intranet_Nouveau_partenaire.php:214
+msgid "Rayon d'action de 100 km autour de cette ville"
+msgstr "Raio de acçao de 100km à volta desta cidade"
+
+#: Intranet_Nouveau_partenaire.php:218
+msgid "Rayon d'action de 150 km autour de cette ville"
+msgstr "Raio de acçao de 150km à volta desta cidade"
+
+#: Intranet_Nouveau_partenaire.php:222
+msgid "Rayon d'action de 200 km autour de cette ville"
+msgstr "Raio de acçao de 200km à volta desta cidade"
+
+#: Intranet_Nouveau_partenaire.php:236 Intranet_Nouvelle_recommandation.php:398
+#: Intranet_Nouvelle_recommandation_2.php:398
+msgid "N° Mobile"
+msgstr "N° de telemóvel"
+
+#: Intranet_Nouveau_partenaire.php:237 Intranet_Nouveau_partenaire.php:247
+msgid "Déjà inscrit"
+msgstr "Jà encontra-se inscrito"
+
+#: Intranet_Nouveau_partenaire.php:255
+msgid "Site Web"
+msgstr "Site Web"
+
+#: Intranet_Nouveau_partenaire.php:262
+msgid "Pourquoi recommander ce partenaire ?"
+msgstr "Porque recomendar este parceiro ?"
+
+#: Intranet_Nouveau_partenaire.php:269
+msgid "PROPOSER PARTENAIRE"
+msgstr "PROPOR PARCEIRO"
+
+#: Intranet_Nouveau_partenaire.php:270 Intranet_Nouvelle_recommandation.php:434
+#: Intranet_Nouvelle_recommandation_2.php:434 Intranet_planning_nr.php:438
+msgid "EFFACER"
+msgstr "APAGAR"
+
+#: Intranet_Nouveau_partenaire_0.php:34
+msgid "Nouveau partenaire travaux ?"
+msgstr "Novo parceiro obras ?"
+
+#: Intranet_Nouveau_partenaire_0.php:34
+msgid "Candidature"
+msgstr "Candidatura"
+
+#: Intranet_Nouveau_partenaire_0.php:67
+msgid "Merci de valider tous les points dans la liste ci-dessous."
+msgstr ""
+"Agradecemos que validam todos os pontos que constam na lista aqui abaixo."
+
+#: Intranet_Nouveau_partenaire_0.php:88
+msgid "J'ai présenté NosRezo au professionnel, qui a accepté"
+msgstr "Eu apresentei a NosRezo ao profissional, que aceitou"
+
+#: Intranet_Nouveau_partenaire_0.php:102
+msgid "Le contrat NosRezo téléchargeable"
+msgstr "O contrato NosRezo Telecarregavel"
+
+#: Intranet_Nouveau_partenaire_0.php:102
+msgid "ici"
+msgstr "aqui"
+
+#: Intranet_Nouveau_partenaire_0.php:108
+msgid "D'être noté sur chacune des prestations NosRezo "
+msgstr "De ser pontuado sobre cada uma das prestaçoes NosRezo"
+
+#: Intranet_Nouveau_partenaire_0.php:114
+msgid "D'être déréférencé si sa note est inférieure à 7 sur 10"
+msgstr "De ser desreferênciado se a nota é inferior a 7 sobre 10"
+
+#: Intranet_Nouveau_partenaire_0.php:120
+msgid "Le sytème de commissionnement NosRezo (5% TTC pour les travaux)"
+msgstr "O sistema de comissionamento NosRezo (5% C/Iva para todas as obras)"
+
+#: Intranet_Nouveau_partenaire_0.php:126
+msgid "D'être motivé et réactif sur chacune des recommandations"
+msgstr ""
+"De encontrar-me motivado e ser reactivo sobre cada uma das recomendaçoes"
+
+#: Intranet_Nouveau_partenaire_0.php:140
+msgid "PROPOSER PROFESSIONNEL"
+msgstr "PROPOR PROFISSIONAL"
+
+#: Intranet_Nouveaute_site.php:33 scripts/bandeau_left_intranet.php:222
+msgid "Nouveautés"
+msgstr "Novidades"
+
+#: Intranet_Nouveaute_site.php:33
+msgid "sur votre site NosRezo"
+msgstr "No vosso site NosRezo"
+
+#: Intranet_Nouveaute_site.php:62
+msgid "Suivi de mes recommandations"
+msgstr "Acompanhamento das minhas recomendaçoes"
+
+#: Intranet_Nouveaute_site.php:63 Intranet_Nouveaute_site.php:87
+#: Intranet_Nouveaute_site.php:111 Intranet_Nouveaute_site.php:135
+#: Intranet_Nouveaute_site.php:157 Intranet_Nouveaute_site.php:182
+#: Intranet_Nouveaute_site.php:208
+msgid "Posté le"
+msgstr "Publicado às"
+
+#: Intranet_Nouveaute_site.php:63
+msgid "Octobre"
+msgstr "Outubro"
+
+#: Intranet_Nouveaute_site.php:68
+msgid "Vous pouvez fermer directement vos recommandations dans votre intranet"
+msgstr "Você pode fechar directamente as suas recomendaçoes na sua Intranet"
+
+#: Intranet_Nouveaute_site.php:86
+msgid "Annuaire Immobilier"
+msgstr "Directorio Imobiliario"
+
+#: Intranet_Nouveaute_site.php:87
+msgid "Septembre"
+msgstr "Setembro"
+
+#: Intranet_Nouveaute_site.php:92
+msgid "Annuaire et notations des partenaires NosRezo"
+msgstr "Directorio e pontuaçoes dos parceiros NosRezo"
+
+#: Intranet_Nouveaute_site.php:92 Intranet_Nouveaute_site.php:116
+#: Intranet_Nouveaute_site.php:187
+msgid "cliquez ici"
+msgstr "Clic aqui"
+
+#: Intranet_Nouveaute_site.php:110
+msgid "Mon Profil Affilié"
+msgstr "O Meu Perfil Afiliado"
+
+#: Intranet_Nouveaute_site.php:111 Intranet_Nouveaute_site.php:135
+#: Intranet_Nouveaute_site.php:157 Intranet_Nouveaute_site.php:182
+#: Intranet_Nouveaute_site.php:208
+msgid "Août"
+msgstr "Agosto"
+
+#: Intranet_Nouveaute_site.php:116
+msgid "Nouveau module de gestion de votre profil"
+msgstr "Novo modo de gestao do seu perfil"
+
+#: Intranet_Nouveaute_site.php:117
+msgid "De gros changements arrivent chez NR, pensez à charger votre photo"
+msgstr ""
+"Grandes acontecimentos estao para chegar na NR, pense em telecarregar a sua "
+"foto"
+
+#: Intranet_Nouveaute_site.php:134
+msgid "Présentation des Partenaires"
+msgstr "Apresentaçao dos Parceiros"
+
+#: Intranet_Nouveaute_site.php:140
+msgid ""
+"En vue de présenter l'ensemble de nos partenaires à partir d'un annuaire, "
+"ces derniers peuvent ajouter une courte présentation"
+msgstr ""
+"Com intuito de apresentar o conjunto dos nossos parceiros a partir dum "
+"directorio, estes ultimos podem acrescentar uma breve apresentaçao"
+
+#: Intranet_Nouveaute_site.php:156
+msgid "Ajout du calendrier dans la barre des tâches"
+msgstr "Acrescimo do calendario na barra das ferramentas"
+
+#: Intranet_Nouveaute_site.php:162
+msgid "Visibilité directe sur l'ensemble des événements Nosrezo"
+msgstr "Visibilidade directa sobre os eventos NosRezo"
+
+#: Intranet_Nouveaute_site.php:163
+msgid ""
+"Ne cherchez plus le lien du webinar du Lundi : cliquez sur le calendrier"
+msgstr ""
+"Nao procure mais o link do Webinar da Segunda-feira: Clic no calendario"
+
+#: Intranet_Nouveaute_site.php:164
+msgid "Ne cherchez plus les différents Apérorezo : cliquez sur le calendrier"
+msgstr "Nao procure mais os varios AperoRezo: Clic no calendario"
+
+#: Intranet_Nouveaute_site.php:181
+msgid "Calendrier des ApéroRezo "
+msgstr "Calendario dos AperoRezo "
+
+#: Intranet_Nouveaute_site.php:187
+msgid "Mise à disposition d'un calendrier des ApéroRezo"
+msgstr "Posto a sua disposiçao dum calendario dos AperoRezo"
+
+#: Intranet_Nouveaute_site.php:188
+msgid ""
+"Certains soirs, il a plus de 5 ApéroRezo en même temps mais difficile de "
+"savoir comment s'y rendre"
+msgstr ""
+"Alguns seraos, acontece que haja mais de 5 AperoRezo ao mesmo tempo, mas "
+"dificil de saber como la chegar"
+
+#: Intranet_Nouveaute_site.php:189
+msgid "Nous centralisons vos ApéroRezo en 2 clicks !"
+msgstr "Nos centralizamos os vossos AperoRezo em 2 clics !"
+
+#: Intranet_Nouveaute_site.php:207
+msgid "Site Public NosRezo en Portugais"
+msgstr "Site publico NosRezo em Português"
+
+#: Intranet_Nouveaute_site.php:213
+msgid "Ouverture du site NosRezo vers le Portugal"
+msgstr "Abertura do site NosRezo para Portugal"
+
+#: Intranet_Nouveaute_site.php:214
+msgid ""
+"Vos contacts vendent leur maison au Portugal ? NosRezo assure la mise en "
+"relation"
+msgstr ""
+"O vossos contactos vendem as suas moradias em Portugal ? A NosRezo "
+"estabelece o contacto"
+
+#: Intranet_Nouveaute_site.php:215
+msgid "Déjà 50 partenaires locaux validés !"
+msgstr "Jà sao 50 os parceiros locais aprovados"
+
+#: Intranet_Nouvelle_recommandation.php:55
+#: Intranet_Nouvelle_recommandation_2.php:55 Intranet_invitez_vos_amis.php:33
+#: signup.php:98
+msgid "Merci de saisir tous les champs ci-dessous"
+msgstr "Por favor preencha todos os campos abaixo"
+
+#: Intranet_Nouvelle_recommandation.php:56
+#: Intranet_Nouvelle_recommandation_2.php:56 Intranet_invitez_vos_amis.php:34
+msgid "Prise en compte de votre recommandation"
+msgstr "Tendo em consideração a sua recomendação"
+
+#: Intranet_Nouvelle_recommandation.php:61
+#: Intranet_Nouvelle_recommandation_2.php:61
+msgid "Mise en relation pour un besoin"
+msgstr "Estabelecer ligação para uma necessidade"
+
+#: Intranet_Nouvelle_recommandation.php:111
+#: Intranet_Nouvelle_recommandation_2.php:111
+msgid "Choissisez une ville dans la liste"
+msgstr ""
+
+#: Intranet_Nouvelle_recommandation.php:116
+#: Intranet_Nouvelle_recommandation_2.php:116
+msgid "Code postal ou Ville de la recommandation"
+msgstr ""
+
+#: Intranet_Nouvelle_recommandation.php:158
+#: Intranet_Nouvelle_recommandation_2.php:158
+msgid "Choissisez un service dans la liste"
+msgstr ""
+
+#: Intranet_Nouvelle_recommandation.php:192
+#: Intranet_Nouvelle_recommandation_2.php:192
+msgid "TOUS LES POINTS SUIVANTS DOIVENT ÊTRE VALIDÉS"
+msgstr "TODOS OS PONTOS SEGUINTES DEVEM SER VALIDADOS"
+
+#: Intranet_Nouvelle_recommandation.php:193
+#: Intranet_Nouvelle_recommandation_2.php:193
+msgid "Votre contact acquéreur"
+msgstr "O seu contacto comprador"
+
+#: Intranet_Nouvelle_recommandation.php:194
+#: Intranet_Nouvelle_recommandation_2.php:194
+msgid "A validé son financement"
+msgstr "Validou o seu financiamento"
+
+#: Intranet_Nouvelle_recommandation.php:194
+#: Intranet_Nouvelle_recommandation_2.php:194
+msgid ""
+"Si le financement n'est pas encore validé, recommandez nos partenaires !"
+msgstr ""
+"Se o financiamento ainda não foi validado então recomende os nossos "
+"parceiros!"
+
+#: Intranet_Nouvelle_recommandation.php:195
+#: Intranet_Nouvelle_recommandation_2.php:195
+msgid "Accepte de mandater un chasseur immobilier"
+msgstr "Aceita o mandato de um agente imobiliário"
+
+#: Intranet_Nouvelle_recommandation.php:195
+#: Intranet_Nouvelle_recommandation_2.php:195
+msgid "La signature du mandat est obligatoire !"
+msgstr "A assinatura do mandato é obrigatória!"
+
+#: Intranet_Nouvelle_recommandation.php:196
+#: Intranet_Nouvelle_recommandation_2.php:196
+msgid "Il  n'a pas le temps de rechercher par lui même"
+msgstr "Ele não tem tempo para efectuar a pesquisa ele próprio"
+
+#: Intranet_Nouvelle_recommandation.php:196
+#: Intranet_Nouvelle_recommandation_2.php:196
+msgid ""
+"Si votre contact connaît tous les biens du marché, il sera difficile de lui "
+"en trouver de nouveaux"
+msgstr ""
+"Se o seu contacto conhece todos os imóveis do mercado, será difícil lhe "
+"apresentar novos"
+
+#: Intranet_Nouvelle_recommandation.php:197
+#: Intranet_Nouvelle_recommandation_2.php:197
+msgid "Il n'a pas besoin de vendre son bien au préalable"
+msgstr "Não precisa de vender a sua propriedade em antecedência"
+
+#: Intranet_Nouvelle_recommandation.php:197
+#: Intranet_Nouvelle_recommandation_2.php:197
+msgid "Si la vente n'est pas réalisé, recommandez nos partrenaires !"
+msgstr "Se a venda não foi realizada então recomende os nossos parceiros!"
+
+#: Intranet_Nouvelle_recommandation.php:221
+#: Intranet_Nouvelle_recommandation_2.php:221
+msgid ""
+"Critères de l'algorithme : satisfaction clients, nombre de ventes réalisées "
+"les 12 derniers mois, distance de la recommandation, date de la dernière "
+"vente réalisée par le partenaire"
+msgstr ""
+"Critérios do algoritmo: satisfação dos clientes, número de vendas realizadas "
+"nos últimos 12 meses, distância da recomendação, data da última venda "
+"realizada pelo parceiro"
+
+#: Intranet_Nouvelle_recommandation.php:296
+#: Intranet_Nouvelle_recommandation_2.php:296
+msgid "Laissez NosRezo choisir pour vous le meilleur formateur sur le secteur"
+msgstr "Deixe NosRezo escolher por si o melhor formador do mercado"
+
+#: Intranet_Nouvelle_recommandation.php:297
+#: Intranet_Nouvelle_recommandation_2.php:297
+msgid "Laissez NosRezo choisir pour vous le meilleur partenaire"
+msgstr ""
+
+#: Intranet_Nouvelle_recommandation.php:311
+#: Intranet_Nouvelle_recommandation_2.php:311
+msgid "à"
+msgstr "a"
+
+#: Intranet_Nouvelle_recommandation.php:311
+#: Intranet_Nouvelle_recommandation_2.php:311
+msgid "Avec"
+msgstr "Com"
+
+#: Intranet_Nouvelle_recommandation.php:311
+#: Intranet_Nouvelle_recommandation_2.php:311
+msgid "points"
+msgstr "pontos"
+
+#: Intranet_Nouvelle_recommandation.php:311
+#: Intranet_Nouvelle_recommandation_2.php:311
+msgid "Points Algo"
+msgstr "Pontos Algo"
+
+#: Intranet_Nouvelle_recommandation.php:311
+#: Intranet_Nouvelle_recommandation_2.php:311
+msgid "Points distance"
+msgstr "Pontos distância"
+
+#: Intranet_Nouvelle_recommandation.php:311
+#: Intranet_Nouvelle_recommandation_2.php:311
+msgid "ID Partenaire"
+msgstr "ID Parceiro"
+
+#: Intranet_Nouvelle_recommandation.php:322
+#: Intranet_Nouvelle_recommandation_2.php:322
+msgid "Choisir un partenaire"
+msgstr "Escolher um parceiro"
+
+#: Intranet_Nouvelle_recommandation.php:336
+#: Intranet_Nouvelle_recommandation_2.php:336
+msgid ""
+"Exemple commentaire : Ma cousine qui travaille dans l'éducation nationale "
+"vient d'être mutée à Marseille. Cela fait 3 mois que son projet stagne. Je "
+"lui ai dit que j'allais lui trouver le meilleur professionnel du secteur. La "
+"contacter après 18h. Merci de votre aide."
+msgstr ""
+"Exemplo de um comentário: A minha prima que é professora acaba de ser "
+"transferida para Lisboa. Há 3 meses que o seu pojecto está parado e eu "
+"sugeri ajudá-la encontrar o melhor profissional de sector. Contactar depois "
+"das 18h."
+
+#: Intranet_Nouvelle_recommandation.php:337
+#: Intranet_Nouvelle_recommandation_2.php:337
+msgid ""
+"Exemple commentaire : Mon collègue souhaite acheter un appartement en "
+"investissement locatif sur Paris. Je lui ai conseillé un de nos partenaires. "
+"Il souhaite être contacté pour une simulation de financement."
+msgstr ""
+"Exemplo de um comentário: o meu colega quer comprar um apartamento em Paris "
+"para investir em aluguer. Aconselhei-lhe um dos nossos parceiros. Ele deve "
+"ser contactado para uma simulação de financiamento."
+
+#: Intranet_Nouvelle_recommandation.php:338
+#: Intranet_Nouvelle_recommandation_2.php:338
+msgid ""
+"Exemple commentaire : Mon ami souhaite s'orienter vers les métiers de "
+"l'immobilier et souhaiterais en savoir plus sur votre structure. Il vit "
+"actuellement à Bordeaux. Je lui ai dit que vous alliez le contacter de ma "
+"part. "
+msgstr ""
+"Exemplo de comentário: o meu amigo quer conhecer o negócio imobiliário e "
+"quer saber mais sobre a vossa estrutura. Ele vive actualmente em Lisboa. "
+"Disse que o iriam contactar."
+
+#: Intranet_Nouvelle_recommandation.php:339
+#: Intranet_Nouvelle_recommandation_2.php:339
+msgid ""
+"Exemple commentaire : Mon voisin a besoin de refaire entièrement la cuisine "
+"de son appartement. Il aimerait avoir un devis. Je lui ai dit qu'il allait "
+"être contacté par un très bon professionnel."
+msgstr ""
+"Exemplo de comentário: o meu vizinho necessita de refazer completamente a "
+"cozinha do seu apartamento. Ele gostaria de receber um orçamento. Disse-se "
+"que seria contactado por um óptimo profissional."
+
+#: Intranet_Nouvelle_recommandation.php:346
+#: Intranet_Nouvelle_recommandation_2.php:346
+#: Intranet_Nouvelle_recommandation_suivi.php:162
+msgid "Nom du contact"
+msgstr "Apelido do contacto"
+
+#: Intranet_Nouvelle_recommandation.php:356
+#: Intranet_Nouvelle_recommandation_2.php:356
+msgid "Prénom du contact"
+msgstr "Nome próprio do contacto"
+
+#: Intranet_Nouvelle_recommandation.php:414
+#: Intranet_Nouvelle_recommandation_2.php:414
+msgid "J'accepte et applique les règles de recommandation"
+msgstr "Aceito e aplico as regras de recomendação"
+
+#: Intranet_Nouvelle_recommandation.php:423
+#: Intranet_Nouvelle_recommandation_2.php:423
+msgid "Je souhaite <b>NE PAS</b> être rémunéré sur ce dossier"
+msgstr "Desejo <b>não</b> ser remunerado neste dossier"
+
+#: Intranet_Nouvelle_recommandation.php:426
+#: Intranet_Nouvelle_recommandation_2.php:426
+msgid "Je souhaite reverser ma rémunération à mon Association"
+msgstr "Eu desejo transferir a remuneração para a minha Associação"
+
+#: Intranet_Nouvelle_recommandation.php:433
+#: Intranet_Nouvelle_recommandation_2.php:433
+msgid "RECOMMANDER"
+msgstr "RECOMENDAR"
+
+#: Intranet_Nouvelle_recommandation.php:618
+#: Intranet_Nouvelle_recommandation_2.php:618
+msgid "Votre recommandation est bien prise en compte"
+msgstr "A sua recomendação foi efectuada com sucesso"
+
+#: Intranet_Nouvelle_recommandation.php:622
+#: Intranet_Nouvelle_recommandation_2.php:622
+msgid "Recommandation non prise en compte : merci de compléter le commentaire"
+msgstr ""
+
+#: Intranet_Nouvelle_recommandation.php:627
+#: Intranet_Nouvelle_recommandation_2.php:627
+msgid ""
+"Recommandation non prise en compte : merci de vérifier tous vos champs ou de "
+"contacter le support à"
+msgstr ""
+
+#: Intranet_Nouvelle_recommandation_suivi.php:33
+msgid "de la recommandation"
+msgstr "da recomendação"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:93
+msgid "MERCI POUR CES INFORMATIONS : NOUS LES PRENONS EN COMPTE !"
+msgstr "OBRIGADO PELAS INFORMAÇÕES: FORAM TOMADAS EM CONTA"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:106
+msgid "LA RECOMMANDATION EST MAINTENANT FÉRMÉE !"
+msgstr "A RECOMENDACAO ENCONTRA-SE AGORA FECHADA"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:113
+msgid "Aucun partenaire disponible sur ce secteur pour le moment."
+msgstr "Neste momento não há nenhum parceiro disponível."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:115
+msgid "Le contact a préferé traiter avec son partenaire"
+msgstr "O contacto preferiu entrar em acordo com o seu parceiro"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:116
+msgid "Le contact est non joignable."
+msgstr "O contacto está inacessível."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:117
+msgid "Le contact a annulé son projet."
+msgstr "O contacto anulou o seu projecto."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:118
+msgid "Devis non accepté par le client."
+msgstr "Orçamento não aceite pelo cliente."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:119
+msgid ""
+"Manque de temps pour le partenaire car le dossier était presque finalisé."
+msgstr "Tempo a esgotar-se para o parceiro, o projecto está quase finalizado."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:120
+msgid "Le contact est déjà chez un partenaire NosRezo."
+msgstr "O contacto já está com um parceiro NosRezo."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:122
+msgid "Le devis est trop élevé"
+msgstr "O orçamento é muito alto"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:123
+msgid ""
+"Le contact n\\'était pas prévenu par la personne qui a fait la recommandation"
+msgstr "O contacto não foi notificado pela pessoa que fez a recomendação"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:124
+msgid "Recommandation annulée"
+msgstr "Recomendação anulada"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:143
+msgid "Le partenaire en charge du dossier est "
+msgstr ""
+
+#: Intranet_Nouvelle_recommandation_suivi.php:144
+msgid "Si vous avez des questions n'hésitez pas à le contacter au "
+msgstr "Se tiver dúvidas não hesite em o contactar pelo "
+
+#: Intranet_Nouvelle_recommandation_suivi.php:144
+msgid "ou par mail à"
+msgstr "ou pelo email"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:154
+msgid "Service"
+msgstr "Serviço"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:178
+msgid "Contacts"
+msgstr "Contactos"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:186
+msgid "Vos commentaires"
+msgstr "Comentários"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:201
+msgid "HISTORIQUE"
+msgstr "HISTÓRICO"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:202 Intranet_planning_nr.php:218
+msgid "INFORMATION"
+msgstr "INFORMAÇÕE"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:203
+#: scripts/tableau_prescription.php:48 scripts/tableau_prescription.php:128
+msgid "ACTION"
+msgstr "AÇAO"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:222
+#: Intranet_partenaire_3.php:1052 Intranet_partenaire_6.php:163
+#: Intranet_planning_nr.php:214
+msgid "DATE"
+msgstr "DATA"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:223
+#: scripts/tableau_prescription.php:98
+msgid "DÉTAILS"
+msgstr "DETALHES"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:251
+msgid "Informations complémentaires"
+msgstr "Informações complementares"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:253
+msgid ""
+"N'hésitez pas à nous envoyer des détails sur le suivi de ce dossier, si vous "
+"en avez !"
+msgstr ""
+"Não hesite em nos enviar quaisquer detalhes que possua sobre este dossier !"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:258
+msgid "Mode d'envoi"
+msgstr "Modo de envio"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:263
+msgid "Envoyer uniquement à NosRezo"
+msgstr "Enviar unicamente ao NosRezo"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:264
+msgid "Envoyer à Nosrezo et au partenaire"
+msgstr "Enviar ao NosRezo e ao parceiro"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:275
+msgid "ENVOYER INFORMATIONS"
+msgstr "ENVIAR INFORMAÇÕES"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:299
+msgid "Mon contact a préferé traiter avec son partenaire"
+msgstr "O meu contacto preferiu entrar em acordo com o seu parceiro"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:302
+msgid "Mon contact a annulé son projet"
+msgstr "O meu contacto anulou o projecto"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:305
+msgid "Manque de réactivité du Partenaire"
+msgstr "Falta de capacidade de resposta do parceiro"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:308
+msgid "Le Devis est non accepté par mon contact"
+msgstr "O Orçamento não foi aceite pelo meu contacto"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:316
+msgid "Commentaire"
+msgstr "Comentário"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:318
+msgid "Précisez le commentaire que vous souhaitez adresser à NosRezo"
+msgstr "Indique o comentário que quer enviar ao NosRezo"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:326
+msgid "FERMER LA RECOMMANDATION"
+msgstr "FECHAR A RECOMENDAÇÃO"
+
+#: Intranet_Partenaire_secteur.php:35
+msgid "Mon secteur"
+msgstr "O meu sector"
+
+#: Intranet_Partenaire_secteur.php:35
+msgid "de recommandations"
+msgstr "de Recomendaçoes"
+
+#: Intranet_Partenaire_secteur.php:69
+msgid "Prise en compte de votre nouveau rayon d'action"
+msgstr "Tomada em consideraçao da sua georeferência de açao"
+
+#: Intranet_Partenaire_secteur.php:69 Intranet_Partenaire_secteur.php:77
+#: Intranet_Partenaire_secteur.php:120 Intranet_Partenaire_secteur.php:124
+#: Intranet_Partenaire_secteur.php:128 Intranet_Partenaire_secteur.php:132
+#: Intranet_Partenaire_secteur.php:136 Intranet_Partenaire_secteur.php:140
+#: Intranet_Partenaire_secteur.php:146 Intranet_Partenaire_secteur.php:150
+#: Intranet_Partenaire_secteur.php:154 Intranet_Partenaire_secteur.php:158
+#: Intranet_Partenaire_secteur.php:162 Intranet_Partenaire_secteur.php:208
+#: Intranet_Partenaire_secteur.php:212 Intranet_Partenaire_secteur.php:216
+#: Intranet_Partenaire_secteur.php:220 Intranet_Partenaire_secteur.php:224
+#: Intranet_Partenaire_secteur.php:228 Intranet_Partenaire_secteur.php:232
+#: Intranet_Partenaire_secteur.php:236 Intranet_Partenaire_secteur.php:240
+#: Intranet_Partenaire_secteur.php:244
+msgid "autour de"
+msgstr "à volta de"
+
+#: Intranet_Partenaire_secteur.php:77
+msgid "Prise en compte de votre nouveau rayon pour vos prescripteurs"
+msgstr "Tomada em consideraço do sua georeferência para os seus prescritores"
+
+#: Intranet_Partenaire_secteur.php:85
+msgid "MON SECTEUR"
+msgstr "O MEU SECTOR"
+
+#: Intranet_Partenaire_secteur.php:86
+msgid "RAYON PRESCRIPTEURS DIRECT"
+msgstr "GEOREFERÊNCIA PRESCRITORES DIRECTO"
+
+#: Intranet_Partenaire_secteur.php:106 Intranet_Partenaire_secteur.php:195
+msgid "Ma ville"
+msgstr "A minha Cidade"
+
+#: Intranet_Partenaire_secteur.php:114
+msgid "Mon rayon d'action"
+msgstr "A MINHA ZONA DE AÇÃO"
+
+#: Intranet_Partenaire_secteur.php:189
+msgid ""
+"Hé oui, vous pouvez TOUT recevoir, même du Marseille alors que vous vivez à "
+"Paris ! "
+msgstr "Sim, você pode receber TUDO, mesmo de Lisboa vivendo no Porto ! "
+
+#: Intranet_Partenaire_secteur.php:189
+msgid ""
+"Vous revevrez toutes les recommandations de vos prescripteurs direct Niveau "
+"1 ET 2."
+msgstr ""
+"Você receberà todas as recomendaçoes da parte dos seus prescritores directos "
+"Nivel 1 e 2."
+
+#: Intranet_Partenaire_secteur.php:190
+msgid ""
+"NosRezo vous conseille de ne pas recevoir de recommandations à plus de 30km."
+msgstr ""
+"NosRezo aconselha a nao receber (aceitar) as recomendaçoes situadas a mais "
+"de 30km."
+
+#: Intranet_Partenaire_secteur.php:190
+msgid "Définissez votre distance maximale de traitement des recommandations"
+msgstr "Determine a distância màxima para tratamento das recomendaçoes"
+
+#: Intranet_Partenaire_secteur.php:203
+msgid "Mon rayon pour MES prescripteurs"
+msgstr "O meu perimetro para os MEUS prescritores"
+
+#: Intranet_Simulation.php:65
+msgid "Simulateur"
+msgstr "Simulador"
+
+#: Intranet_Simulation.php:74
+msgid "Chaque affilié se constitue un réseau de"
+msgstr "Cada afiliado constitui uma rede de"
+
+#: Intranet_Simulation.php:78 Intranet_Simulation.php:79
+#: scripts/bandeau_left_intranet.php:22
+msgid "affilié"
+msgstr "afiliado"
+
+#: Intranet_Simulation.php:80 Intranet_Simulation.php:81
+#: Intranet_Simulation.php:82 Intranet_Simulation.php:83
+msgid "affiliés"
+msgstr "afiliados"
+
+#: Intranet_Simulation.php:116
+msgid "Chaque affilié réalise 1 recommandation"
+msgstr "Cada afiliado efectua 1 recomendação"
+
+#: Intranet_Simulation.php:120 Intranet_Simulation.php:121
+#: Intranet_Simulation.php:122
+msgid "Vente Appartement"
+msgstr "Venda de Apartamento"
+
+#: Intranet_Simulation.php:120 Intranet_Simulation.php:121
+#: Intranet_Simulation.php:122 Intranet_Simulation.php:128
+#: Intranet_Simulation.php:129 Intranet_Simulation.php:130
+msgid "Valeur"
+msgstr "Valor"
+
+#: Intranet_Simulation.php:124 Intranet_Simulation.php:125
+#: Intranet_Simulation.php:126
+msgid "Travaux rénovation"
+msgstr "Trabalhos de renovação"
+
+#: Intranet_Simulation.php:124 Intranet_Simulation.php:125
+#: Intranet_Simulation.php:126
+msgid "Devis"
+msgstr "Orçamento"
+
+#: Intranet_Simulation.php:128 Intranet_Simulation.php:129
+#: Intranet_Simulation.php:130
+msgid "Financement de prêt"
+msgstr "Empréstimo financeiro"
+
+#: Intranet_Simulation.php:132 dictionnaire.php:31
+msgid "Recrutement Immobilier"
+msgstr "Recrutamento imobiliário"
+
+#: Intranet_Simulation.php:132 index.php:42
+msgid "France"
+msgstr "França"
+
+#: Intranet_Simulation.php:140
+msgid "Affiliés NosRezo actifs"
+msgstr "Afiliados NosRezo activos"
+
+#: Intranet_Simulation.php:144 Intranet_Simulation.php:145
+#: Intranet_Simulation.php:146
+msgid "de votre développement est actif"
+msgstr "do seu desenvolvimento está activo"
+
+#: Intranet_Simulation.php:168
+msgid "AFFILIÉS PAR NIVEAU"
+msgstr "AFILIADOS POR NÍVEL"
+
+#: Intranet_Simulation.php:169 Intranet_Simulation.php:236
+msgid "POTENTIEL GAIN BRUT"
+msgstr "GANHO ILÍQUIDO POTENCIAL"
+
+#: Intranet_Simulation.php:235
+msgid "DÉTAILS DES CALCULS"
+msgstr "DETALHE DOS CÁLCULOS"
+
+#: Intranet_Simulation_Nette.php:33 scripts/bandeau_left_intranet.php:133
+msgid "Informations"
+msgstr "Informações"
+
+#: Intranet_Simulation_Nette.php:33
+msgid "Simulation Nette"
+msgstr "Simulação líquida"
+
+#: Intranet_Simulation_Nette.php:47
+msgid "Vous percevrez une rémunération Nette de la part de NosRezo"
+msgstr "Você recebe um lucro líquido de NosRezo"
+
+#: Intranet_Simulation_Nette.php:48 signup.php:176
+msgid "Exemples"
+msgstr "Exemplos"
+
+#: Intranet_Simulation_Nette.php:62
+msgid "Revenu BRUT Trimestriel"
+msgstr "Receita ILÍQUIDA trimestral"
+
+#: Intranet_Simulation_Nette.php:63
+msgid "Charges sociales et gestion"
+msgstr "Custos sociais e de gestão"
+
+#: Intranet_Simulation_Nette.php:64
+msgid "Revenu NET Affilié"
+msgstr "Receita LÍQUIDA do afiliado"
+
+#: Intranet_Simulation_Nette.php:143
+msgid ""
+"Cette rémunération devra simplement être ajoutée à votre déclaration de "
+"revenu"
+msgstr ""
+"Esta remuneração deverá ser simplesmente adicionado à sua declaração de "
+"impostos"
+
+#: Intranet_boite_a_idee.php:57
+msgid "Un peu trop court comme idée : vous pouvez développer ?"
+msgstr "Demasiado curta como ideia: você pode desenvolver ?"
+
+#: Intranet_boite_a_idee.php:67
+msgid ""
+"Nous venons de recevoir votre idée. Nous allons rapidement en discuter !"
+msgstr ""
+"Nos acabamos de receber a sua ideia. Nos vamos rapidamente discutir sobre "
+"ela !"
+
+#: Intranet_boite_a_idee.php:67
+msgid "Merci"
+msgstr "Obrigado"
+
+#: Intranet_boite_a_idee.php:84
+msgid "BOÎTE À IDÉES"
+msgstr "CAIXA DAS IDEIAS"
+
+#: Intranet_boite_a_idee.php:103
+msgid "IDÉE À NOUS SOUMETTRE"
+msgstr "IDEIA PARA NOS SUBMETER"
+
+#: Intranet_boite_a_idee.php:104
+msgid "COMMENTAIRE NOSREZO"
+msgstr "COMENTARIO NOSREZO"
+
+#: Intranet_boite_a_idee.php:105 Intranet_partenaire_3.php:1053
+msgid "STATUT"
+msgstr "STATUS"
+
+#: Intranet_boite_a_idee.php:155
+msgid "Ajouter une idée"
+msgstr "Acrescentar uma ideia"
+
+#: Intranet_boite_a_idee.php:164
+msgid "Idée à soumettre"
+msgstr "Ideia a sublmeter"
+
+#: Intranet_boite_a_idee.php:166
+msgid "N'hésitez pas à nous soumettre des axes d'améliorations"
+msgstr "Nao hesite em submeter-nos eixos para melhorias"
+
+#: Intranet_boite_a_idee.php:174 Intranet_planning_nr.php:435
+msgid "AJOUTER"
+msgstr "ACRESCENTAR"
+
+#: Intranet_boite_a_idee.php:198
+msgid ""
+"N'hésitez pas à nous proposer des améliorations ou des idées et nous vous "
+"contacterons si besoin."
+msgstr ""
+"Nao hesite em propor-nos melhorias ou ideias e nos o contactaremos se "
+"necessario."
+
+#: Intranet_classement_2.php:38 Intranet_classement_2.php:70
+#: Intranet_ma_remuneration.php:275
+msgid "RECOMMANDATIONS"
+msgstr "RECOMENDACOES"
+
+#: Intranet_classement_2.php:69 Intranet_classement_3.php:108
+msgid "AFFILIÉ"
+msgstr "AFILIADO"
+
+#: Intranet_classement_3.php:37 Intranet_ma_remuneration.php:273
+#: Intranet_ma_remuneration.php:328
+msgid "NIVEAU"
+msgstr "NÍVEL"
+
+#: Intranet_classement_3.php:109
+msgid "FILLEULS"
+msgstr "AFILHADOS"
+
+#: Intranet_entretien.php:34 Intranet_immobilier.php:33
+#: Intranet_recrutement.php:33 Intranet_travaux.php:34
+msgid "Nos Services"
+msgstr "Os Nossos Serviços"
+
+#: Intranet_entretien.php:34 dictionnaire.php:5
+msgid "Entretien de la maison"
+msgstr "Manutençao e Limpeza da casa"
+
+#: Intranet_entretien.php:52 dictionnaire.php:29
+msgid "Chauffagiste"
+msgstr "Canalizador"
+
+#: Intranet_entretien.php:64 dictionnaire.php:28
+msgid "Paysagiste"
+msgstr "Jardineiro Paisagista"
+
+#: Intranet_entretien.php:76
+msgid "Entretien façade"
+msgstr "Manutençao das fachadas"
+
+#: Intranet_entretien.php:85 Intranet_immobilier.php:71
+#: Intranet_recrutement.php:71 Intranet_travaux.php:133
+msgid "En parler autour de vous"
+msgstr "Falar ao seu redor"
+
+#: Intranet_entretien.php:87 Intranet_travaux.php:135
+msgid "Vous avez besoin de réaliser des travaux ?"
+msgstr "Precisa de fazer obras ?"
+
+#: Intranet_entretien.php:88
+msgid ""
+"Je connais un bon professionnel qui peut vous contacter pour un devis "
+"gratuit."
+msgstr ""
+"Eu conheço um bom profissional que pode o contactar para um orçamento gratis"
+
+#: Intranet_entretien.php:89
+msgid ""
+"Il est tellement bon qu'il accepte de se faire noter à la livraison du "
+"chantier."
+msgstr ""
+"Ele é tao bom que aceitou que lhe atribua uma pontuaçao quando ele terminar "
+"a obra."
+
+#: Intranet_entretien.php:90 Intranet_immobilier.php:75
+#: Intranet_travaux.php:138
+msgid "Je vous le recommande !"
+msgstr "Eu  recomendo-o !"
+
+#: Intranet_entretien.php:94 Intranet_immobilier.php:78
+#: Intranet_recrutement.php:78 Intranet_travaux.php:143
+msgid "Les Avantages"
+msgstr "As Vantagens"
+
+#: Intranet_entretien.php:96 Intranet_travaux.php:145
+msgid "Devis gratuit pour tous vos travaux"
+msgstr "Orçamento gratis para todas as obras"
+
+#: Intranet_entretien.php:97 Intranet_travaux.php:146
+msgid "Testé, noté puis recommandé par les affiliés"
+msgstr "Testado, pontuado e recomendado pelos afiliados"
+
+#: Intranet_entretien.php:98
+msgid "Entreprises spécialisés dans le domaine souhaité"
+msgstr "Empresa especializada no dominio de actividade desejada"
+
+#: Intranet_entretien.php:99 Intranet_travaux.php:148
+msgid "Prix et délais d'intervention optimisés"
+msgstr "Preços e prazos de intervençao optimizados"
+
+#: Intranet_entretien.php:100 Intranet_travaux.php:149
+msgid "Proximité géographique des partenaires"
+msgstr "Proximidade geografica dos parceiros"
+
+#: Intranet_entretien.php:108 Intranet_immobilier.php:91
+#: Intranet_immobilier.php:150 Intranet_travaux.php:158
+msgid "Commission"
+msgstr "Comissão"
+
+#: Intranet_entretien.php:117 Intranet_travaux.php:167
+msgid "Vous êtes apporteur d'affaires"
+msgstr "Você aporta negocios"
+
+#: Intranet_entretien.php:120 Intranet_immobilier.php:104
+#: Intranet_immobilier.php:160 Intranet_recrutement.php:97
+#: Intranet_travaux.php:170
+msgid "Commission Brute"
+msgstr "Comissao Bruta"
+
+#: Intranet_entretien.php:128 Intranet_immobilier.php:111
+#: Intranet_immobilier.php:168 Intranet_travaux.php:178
+msgid "Votre commission"
+msgstr "A sua comissao"
+
+#: Intranet_entretien.php:131
+#, php-format
+msgid "3% du montant du devis HT"
+msgstr "3% do montante do orçamento S/Iva."
+
+#: Intranet_entretien.php:136 Intranet_entretien.php:144
+#: Intranet_entretien.php:152 Intranet_immobilier.php:122
+#: Intranet_immobilier.php:133 Intranet_immobilier.php:176
+#: Intranet_immobilier.php:184 Intranet_travaux.php:186
+#: Intranet_travaux.php:194 Intranet_travaux.php:202
+msgid "Exemple"
+msgstr "Exemplo"
+
+#: Intranet_entretien.php:136
+msgid "Devis à 1 000€ TTC"
+msgstr "Orçamento a 1 000€ C/Iva"
+
+#: Intranet_entretien.php:144
+msgid "Devis à 5 000€ TTC"
+msgstr "Orçamento a 5 000€ C/Iva"
+
+#: Intranet_entretien.php:152
+msgid "Devis à 10 000€ TTC "
+msgstr "Orçamento a 10 000€ C/Iva "
+
+#: Intranet_immobilier.php:51 Intranet_immobilier.php:122
+#: Intranet_immobilier.php:133 Intranet_immobilier.php:176
+#: Intranet_immobilier.php:184
+msgid "Vente de bien"
+msgstr "Venda de bem"
+
+#: Intranet_immobilier.php:63 Intranet_immobilier.php:150
+msgid "Prêt Bancaire"
+msgstr "Empréstimo bancario"
+
+#: Intranet_immobilier.php:73
+msgid ""
+"Vous avez besoin de vendre votre appartement ou vous avez besoin d'un prêt "
+"pour votre projet immobilier ?"
+msgstr ""
+"Você necessita vender o seu apartamento ou necessita um empréstimo para o "
+"seu projeto imobiliario ?"
+
+#: Intranet_immobilier.php:74
+msgid ""
+"Je connais un bon professionnel qui peut vous contacter pour une estimation/"
+"étude de financement gratuite."
+msgstr ""
+"Eu conheço um bom profissional que pode o(a) contactar para uma estimaçao/"
+"estudo de financiamento gratuito."
+
+#: Intranet_immobilier.php:80
+msgid "Estimation gratuite de votre bien"
+msgstr "Estimaçao gratuita do seu bem"
+
+#: Intranet_immobilier.php:80
+msgid "Devis de montage financier et juridique gratuit"
+msgstr "Orçamento de montagem financeira e juridica gratuita"
+
+#: Intranet_immobilier.php:81
+msgid "Partenaires de vente Leaders en France"
+msgstr "Parceiros de venda Lideres em Portugal"
+
+#: Intranet_immobilier.php:82
+msgid "Partenaire local testé, noté puis recommandé par les affiliés"
+msgstr ""
+"Parceiro local testado e aprovado, pontuado e recomendado pelos afiliados"
+
+#: Intranet_immobilier.php:83
+msgid "Disponibilité et réactivité"
+msgstr "Disponibilidade e reactividade"
+
+#: Intranet_immobilier.php:84
+msgid "Diffusion sur plus de 200 supports web."
+msgstr "Difusao sobre mais de 200 suportes web."
+
+#: Intranet_immobilier.php:91
+msgid "Vente de Bien"
+msgstr "Venda de Bem"
+
+#: Intranet_immobilier.php:98 Intranet_immobilier.php:157
+msgid "Apporteur d'affaires"
+msgstr "Aportadores de Negocios"
+
+#: Intranet_immobilier.php:101
+msgid "Commission Agence"
+msgstr "Comissao de Agência"
+
+#: Intranet_immobilier.php:146
+#, php-format
+msgid "sur la base d'un exemple de 3% de frais d'agence"
+msgstr "sobre a base dum exemplo de 3% de custos de agência"
+
+#: Intranet_immobilier.php:147
+msgid "Ces honoraires encadrés dépendent de nos partenaires."
+msgstr "Estes honorarios enquadrados dependem dos nossos parceiros."
+
+#: Intranet_immobilier.php:171
+#, php-format
+msgid "0.12% du montant emprunté"
+msgstr "0,12% do montante aceite pelo banco"
+
+#: Intranet_immobilier.php:188
+msgid "Plafonné à 375€"
+msgstr "Plafond a 375€"
+
+#: Intranet_invitez_vos_amis.php:39
+msgid "Invitation NosRezo"
+msgstr "Convite NosRezo"
+
+#: Intranet_invitez_vos_amis.php:39
+msgid "par mail"
+msgstr "por email"
+
+#: Intranet_invitez_vos_amis.php:73
+msgid "INVITEZ"
+msgstr "Convidar"
+
+#: Intranet_invitez_vos_amis.php:74
+msgid "MAILS"
+msgstr "E-MAILS"
+
+#: Intranet_invitez_vos_amis.php:75
+msgid "CONSEILS"
+msgstr "CONSELHOS"
+
+#: Intranet_invitez_vos_amis.php:94
+msgid "Email de votre contact"
+msgstr "Email do contacto"
+
+#: Intranet_invitez_vos_amis.php:98
+msgid "ENVOYEZ L'INVITATION"
+msgstr "ENVIAR CONVITE"
+
+#: Intranet_invitez_vos_amis.php:108
+msgid "De la part de"
+msgstr "Da parte de"
+
+#: Intranet_invitez_vos_amis.php:122
+msgid "Vous serez en copie du mail"
+msgstr "Você receberá cópia do email"
+
+#: Intranet_invitez_vos_amis.php:130
+msgid ""
+"Pour information, ci-après votre lien d\\'inscription pré-rempli pour vos "
+"filleuls"
+msgstr ""
+"Para informação, em baixo encontra o link de inscrição pré preenchido para "
+"os seus afiliados"
+
+#: Intranet_invitez_vos_amis.php:160
+msgid "DATE ENVOI"
+msgstr "DATA DE ENVIO"
+
+#: Intranet_invitez_vos_amis.php:161
+msgid "MAIL"
+msgstr "E-MAILS"
+
+#: Intranet_invitez_vos_amis.php:188 Intranet_invitez_vos_amis.php:191
+#: Intranet_invitez_vos_amis.php:199
+msgid "CONSEIL"
+msgstr "CONSELHO"
+
+#: Intranet_invitez_vos_amis.php:188
+msgid ""
+"Avez vous participé à un webinar en ligne afin de bien comprendre le concept "
+"NosRezo ?"
+msgstr ""
+"Já participou a num webinar a fim de verificar se entendeu correctamente o "
+"conceito de Nosrezo?"
+
+#: Intranet_invitez_vos_amis.php:189
+msgid "Cliquez ici pour les liens webinar"
+msgstr "Carregue aqui para os links dos webinares"
+
+#: Intranet_invitez_vos_amis.php:191
+msgid "Savez-vous que vous êtes limité seulement à 5 invitations NosRezo ?"
+msgstr "Tem conhecimento que só é permitido 5 convites para Nosrezo?"
+
+#: Intranet_invitez_vos_amis.php:192
+msgid ""
+"Avant d'envoyer une invitation, expliquer le concept à votre contact en 10 "
+"min"
+msgstr ""
+"Antes de enviar o convite, explique em 10 minutos o conceito ao seu contacto"
+
+#: Intranet_invitez_vos_amis.php:193
+msgid ""
+"Avant d'envoyer une invitation, choisissez bien vos contacts qui souhaitent :"
+msgstr ""
+"Antes de enviar um convite, certifique-se que os seus contactos possam :"
+
+#: Intranet_invitez_vos_amis.php:194
+msgid ""
+"Pouvoir enfin faire confiance à un professionnel (travaux, financement, "
+"immobilier...)"
+msgstr "Ter confiança num profissional (obras, financiamentos, imobiliário…)"
+
+#: Intranet_invitez_vos_amis.php:195
+msgid "Pouvoir rendre service à leur entourage en recommandant les meilleurs"
+msgstr "Prestar serviço em redor recomendando os melhores"
+
+#: Intranet_invitez_vos_amis.php:196
+msgid "Percevoir des compléments de revenus (Moyenne 360€ par recommandation)"
+msgstr "Receber um complemento salarial (em média 360 euros por recomendação)"
+
+#: Intranet_invitez_vos_amis.php:197
+msgid "Inviter à leur tour 5 personnes répondant à ces critères"
+msgstr ""
+"Ser capaz por sua vez de convidar 5 novas pessoas, que correspondam a estes "
+"critérios"
+
+#: Intranet_invitez_vos_amis.php:199
+msgid "Méthode plus éfficace que l\\'invitation !"
+msgstr "Método mais eficaz que o convite!"
+
+#: Intranet_invitez_vos_amis.php:200
+msgid "Prenez le smartphone de votre ami"
+msgstr "Pegue no smartphone do seu amigo"
+
+#: Intranet_invitez_vos_amis.php:201
+msgid "Allez sur www.nosrezo.com"
+msgstr "Vá até www.nosrezo.com"
+
+#: Intranet_invitez_vos_amis.php:202
+msgid "Cliquez sur inscription"
+msgstr "Clique em inscrição"
+
+#: Intranet_invitez_vos_amis.php:203
+msgid ""
+"Préciser à votre ami que vous le rappelerez dans 7 jours pour le désinscrire "
+"si il n'a pas invité à son tour"
+msgstr ""
+"Diga ao seu amigo que em 7 dias irá lembrá-lo a desinscrever-se se não "
+"efectuar convites"
+
+#: Intranet_invitez_vos_amis.php:382
+msgid ""
+"Votre mail a été envoyé à votre contact ! Pensez à regarder dans les spams."
+msgstr ""
+"O seu email foi enviado ao seu contacto. Verifique na pasta de spam se "
+"necessário."
+
+#: Intranet_invitez_vos_amis.php:387
+msgid "Vous n\\êtes pas connecté, merci de contacter le support à"
+msgstr ""
+"Você não se encontra ligado, é favor de contactar o suporte através de "
+
+#: Intranet_invitez_vos_amis.php:390
+msgid "Merci de saisir un mail valide"
+msgstr "Insiram um email válido por favor"
+
+#: Intranet_invitez_vos_amis.php:393
+msgid "Oups, ce format n\\'est pas valable pour les mails !"
+msgstr "Desculpe, esse não é um formato válido de endereço de email"
+
+#: Intranet_invitez_vos_amis.php:396
+msgid "Votre contact est déjà chez NosRezo !"
+msgstr "O seu contacto já se encontra no NosRezo!"
+
+#: Intranet_ma_remuneration.php:71
+msgid "MON COMPTE"
+msgstr "O MINHA CONTA"
+
+#: Intranet_ma_remuneration.php:71
+msgid "MON ÉQUIPE"
+msgstr "A MINHA EQUIPA"
+
+#: Intranet_ma_remuneration.php:71
+msgid "MA RÉMUNÉRATION"
+msgstr "A MINHA REMUNERACAO"
+
+#: Intranet_ma_remuneration.php:99
+msgid "LE CHALLENGE EST SUPPRIMÉ. VOUS POUVEZ EN CRÉER UN NOUVEAU."
+msgstr ""
+
+#: Intranet_ma_remuneration.php:113
+msgid ""
+"Pour chaque recommandation réalisée dans les temps et qui aura 6 mois pour "
+"aboutir. Minimum de 200 € pour votre commission NosRezo pour chaque "
+"recommandation."
+msgstr ""
+
+#: Intranet_ma_remuneration.php:113
+msgid "ENCAISSEZ"
+msgstr "ENCAIXE"
+
+#: Intranet_ma_remuneration.php:114
+msgid "minimum"
+msgstr "minimo"
+
+#: Intranet_ma_remuneration.php:119
+msgid "Il vous reste"
+msgstr "Resta-vos"
+
+#: Intranet_ma_remuneration.php:123
+msgid "JOURS"
+msgstr "DIAS"
+
+#: Intranet_ma_remuneration.php:128
+msgid "HEURES"
+msgstr "HORAS"
+
+#: Intranet_ma_remuneration.php:133
+msgid "MINUTES"
+msgstr "MINUTOS"
+
+#: Intranet_ma_remuneration.php:138
+msgid "SECONDES"
+msgstr "SEGUNDOS"
+
+#: Intranet_ma_remuneration.php:237
+msgid "MON ACTIVITÉ"
+msgstr "A MINHA ACTIVIDADE"
+
+#: Intranet_ma_remuneration.php:245 Intranet_ma_remuneration.php:626
+msgid "CHALLENGEZ VOTRE ÉQUIPE"
+msgstr "CHALLENGEAR A SUA EQUIPA"
+
+#: Intranet_ma_remuneration.php:276
+msgid "COMMISSION"
+msgstr "COMISSõE"
+
+#: Intranet_ma_remuneration.php:280
+msgid "DEVIS ENVOYÉS"
+msgstr "ORCAMENTOS TRANSMITIDOS"
+
+#: Intranet_ma_remuneration.php:281
+msgid "DEVIS SIGNÉS"
+msgstr "ORÇAMENTO ASSINADO"
+
+#: Intranet_ma_remuneration.php:282
+msgid "À ENCAISSER"
+msgstr ""
+
+#: Intranet_ma_remuneration.php:292
+msgid "VOUS"
+msgstr "VOCÊ "
+
+#: Intranet_ma_remuneration.php:470
+msgid "TOTAL"
+msgstr "TOTAL"
+
+#: Intranet_ma_remuneration.php:496
+msgid "ENCAISSER"
+msgstr "ENCAIXAR"
+
+#: Intranet_ma_remuneration.php:516
+msgid "AFFILIÉS : Nombre d'affiliés par niveau. "
+msgstr "AFFILIADOS :  Numero de afiliados por nivel"
+
+#: Intranet_ma_remuneration.php:517
+msgid ""
+"RECOMMANDATIONS : Nombre de recommandations actives en cours de l'ensemble "
+"de vos équipes"
+msgstr ""
+
+#: Intranet_ma_remuneration.php:518
+msgid ""
+"Montants de vos commissions BRUTES des devis envoyés : La probabilité de "
+"vente est de 15%."
+msgstr ""
+"Montantes das suas comissoes BRUTAS dos orçamentos enviados: A possibilidade "
+"de venda é de 15%."
+
+#: Intranet_ma_remuneration.php:519
+msgid ""
+"Montants de vos commissions BRUTES des devis signés : La probabilité de "
+"vente est de 80%."
+msgstr ""
+"Montantes das suas comissoes BRUTAS dos orçamentos assindaos: A "
+"probabilidade de venda e de 80%."
+
+#: Intranet_ma_remuneration.php:520
+msgid ""
+"Montants de vos Commissions BRUTES liées à vos recommandations : Vous pouvez "
+"demander votre virement."
+msgstr ""
+"Montantes das suas Comissoes BRUTAS relacionadas com as suas recomendaçoes: "
+"Você pode pedir a sua transferência "
+
+#: Intranet_ma_remuneration.php:522
+msgid "Les devis et mandats de ventes sont soumis très souvent à négociation."
+msgstr ""
+"Os orçamentos e contratos de venda sao submetidos muitas vezes a negociaçao."
+
+#: Intranet_ma_remuneration.php:523
+msgid ""
+"En cas de question, merci de contacter votre parrain ou <u>contact@nosrezo."
+"com"
+msgstr "Em caso de questao, agradecemos que contacte o seu padrinho ou"
+
+#: Intranet_ma_remuneration.php:529
+msgid ""
+"Lorsque vous souhaitez recevoir un virement sur votre compte bancaire de "
+"votre solde NosRezo, cliquez simplement sur le bouton encaisser dans "
+"l'onglet 'MON ACTIVITÉ'"
+msgstr ""
+
+#: Intranet_ma_remuneration.php:530
+msgid "Le bouton de demande de virement est invisible"
+msgstr "A tecla de pedido de transferência encontra-se invisivel:"
+
+#: Intranet_ma_remuneration.php:531
+msgid "si votre solde à encaisser est nul"
+msgstr "se o seu saldo para encaixar é nulo"
+
+#: Intranet_ma_remuneration.php:534
+msgid ""
+"si votre solde à encaisser et inférieur à 200€ conformément au contrat "
+"NosRezo"
+msgstr ""
+"se o seu saldo para encaixar é inferior a 200€ em conformidade com o "
+"contrato NosRezo"
+
+#: Intranet_ma_remuneration.php:538
+msgid ""
+"si votre solde à encaisser et inférieur à 50€ conformément au contrat NosRezo"
+msgstr ""
+
+#: Intranet_ma_remuneration.php:558 scripts/tableau_prescription.php:28
+msgid "EN COURS"
+msgstr "CURRENT"
+
+#: Intranet_ma_remuneration.php:571
+msgid "DATE CRÉATION"
+msgstr "DATA DE CRIACAO"
+
+#: Intranet_ma_remuneration.php:572
+msgid "DÉBUT CHALLENGE"
+msgstr "DATA DE CRIACAO"
+
+#: Intranet_ma_remuneration.php:573
+msgid "FIN CHALLENGE"
+msgstr "FIM DE CHALLENGE"
+
+#: Intranet_ma_remuneration.php:574
+msgid "NIVEAUX"
+msgstr "NIVEIS"
+
+#: Intranet_ma_remuneration.php:575
+msgid "NB RECO"
+msgstr "N° de RECO"
+
+#: Intranet_ma_remuneration.php:576
+msgid "FILLEULS NIVEAU 1"
+msgstr "AFILHADOS NIVEL 1"
+
+#: Intranet_ma_remuneration.php:577
+msgid "FILLEULS NIVEAU 2"
+msgstr "AFILHADOS NIVEL 2"
+
+#: Intranet_ma_remuneration.php:578
+msgid "ACTIONS"
+msgstr "AÇÕES"
+
+#: Intranet_ma_remuneration.php:592
+msgid "Points"
+msgstr "Pontos"
+
+#: Intranet_ma_remuneration.php:601
+msgid "OUVRIR"
+msgstr "ABRIR"
+
+#: Intranet_ma_remuneration.php:607
+msgid "SUPPRIMER"
+msgstr "SUPRIMIR"
+
+#: Intranet_partenaire_2.php:34 Intranet_partenaire_6.php:48
+msgid "Partenaire"
+msgstr "Parceiro"
+
+#: Intranet_partenaire_2.php:90
+msgid "RECOMMANDATION EN COURS"
+msgstr "RECOMENDAÇÕES A DECORRER"
+
+#: Intranet_partenaire_2.php:91
+msgid "LISTE DES RECOMMANDATIONS EN COURS"
+msgstr "LISTA DAS RECOMENDAÇÕES A DECORRER"
+
+#: Intranet_partenaire_2.php:105
+msgid "ÉCHÉANCE"
+msgstr "PRAZO"
+
+#: Intranet_partenaire_2.php:107 scripts/function_12345678910.php:3093
+#: scripts/tableau_prescription.php:46 scripts/tableau_prescription.php:127
+msgid "NOM"
+msgstr "APELIDO"
+
+#: Intranet_partenaire_2.php:108 Intranet_planning_nr.php:216
+#: scripts/function_12345678910.php:3094 scripts/tableau_prescription.php:47
+msgid "VILLE"
+msgstr "CIDADE"
+
+#: Intranet_partenaire_2.php:109 scripts/function_12345678910.php:3095
+#: scripts/tableau_prescription.php:48 scripts/tableau_prescription.php:128
+msgid "ÉTAPE"
+msgstr "ETAPA"
+
+#: Intranet_partenaire_2.php:110 scripts/function_12345678910.php:3092
+#: scripts/tableau_prescription.php:45 scripts/tableau_prescription.php:125
+msgid "CATÉGORIE"
+msgstr "CATEGORIA"
+
+#: Intranet_partenaire_2.php:111
+msgid "MISE À JOUR"
+msgstr "ACTUALIZAÇÃO"
+
+#: Intranet_partenaire_2.php:131
+msgid "À TRAITER"
+msgstr "A tratar"
+
+#: Intranet_partenaire_2.php:131
+msgid "Dans"
+msgstr "Em"
+
+#: Intranet_partenaire_2.php:131 Intranet_partenaire_3.php:892
+#: Intranet_partenaire_3.php:895 Intranet_partenaire_3.php:898
+#: Intranet_partenaire_3.php:901 Intranet_partenaire_3.php:904
+#: Intranet_partenaire_3.php:907 Intranet_partenaire_3.php:910
+#: Intranet_partenaire_3.php:913 Intranet_partenaire_3.php:916
+#: Intranet_partenaire_3.php:919 Intranet_partenaire_3.php:922
+#: Intranet_partenaire_3.php:925 Intranet_partenaire_3.php:928
+msgid "jours"
+msgstr "dias"
+
+#: Intranet_partenaire_2.php:151 Intranet_partenaire_2.php:154
+msgid "CLIQUEZ ICI"
+msgstr "CLIQUE AQUI"
+
+#: Intranet_partenaire_2.php:171
+msgid "LES DIFFÉRENTES ÉTAPES DE LA RECOMMANDATION"
+msgstr "AS VARIAS ETAPAS DA RECOMENDAÇÃO"
+
+#: Intranet_partenaire_3.php:87
+msgid ""
+"VOTRE ACTION EST PRISE EN COMPTE : VOUS POUVEZ REVENIR SUR MON ACTIVITÉ."
+msgstr "A SUA AÇÃO FOI REGISTRADA: VOCE PODE VOLTAR SOBRE MINHA ACTIVIDADE"
+
+#: Intranet_partenaire_3.php:102
+msgid "AFFECTATION DE LA RECOMMANDATION EN COURS"
+msgstr "AFECTAÇÃO DA RECOMENDAÇÃO A DECORRER"
+
+#: Intranet_partenaire_3.php:110
+msgid "Réaffectation par le partenaire initial."
+msgstr "Re-afectação pelo parceiro inicial."
+
+#: Intranet_partenaire_3.php:167
+msgid ""
+"Pour un recrutement immobilier, la commission NosRezo est de 600 € et non "
+msgstr "Para um recrutamento imobiliario, a comissão NosRezo é de 600€ e não "
+
+#: Intranet_partenaire_3.php:178
+msgid ""
+"Les honoraires du mandat de vente semblent incohérents. La moyenne nationale "
+"est 10 000€ TTC de commission et non "
+msgstr ""
+"Os honorários do contrato de venda parecem incoerentes. A média nacional é "
+"de 10.000€ C/Iva de comissão e não "
+
+#: Intranet_partenaire_3.php:179
+msgid "Merci de mettre à jour cette information avant de valider à nouveau"
+msgstr "Agradecemos que actualise esta informação antes de validar novamente."
+
+#: Intranet_partenaire_3.php:190
+msgid ""
+"Le montant emprunté semble incohérent. La moyenne nationale est 140 000€ TTC "
+"et non "
+msgstr ""
+"O montante do empréstimo obtido parece incoerente. A média nacional é de "
+"140.000€ C/Iva e não "
+
+#: Intranet_partenaire_3.php:191 Intranet_partenaire_3.php:204
+msgid "Merci de mettre à jour cette information avant de valider à nouveau."
+msgstr "Agradecemos que actualise a informação antes de validar novamente."
+
+#: Intranet_partenaire_3.php:203
+msgid ""
+"Le montant emprunté semble incohérent. La moyenne nationale est 2 000€ TTC "
+"et non "
+msgstr ""
+"O montante do empréstimo obtido parece incoerente. A média nacional é de "
+"2.000€ C/Iva e não "
+
+#: Intranet_partenaire_3.php:217
+msgid "MERCI DE METTRE À JOUR LE MONTANT DES HONORAIRES TTC"
+msgstr ""
+
+#: Intranet_partenaire_3.php:234
+msgid "Contact non intéressé par nos services"
+msgstr "Contacto não interessado pelos nossos serviços"
+
+#: Intranet_partenaire_3.php:248 Intranet_partenaire_3.php:852
+msgid "Vendu par la concurrence"
+msgstr "Vendido pela concorrência"
+
+#: Intranet_partenaire_3.php:262 Intranet_partenaire_3.php:766
+#: Intranet_partenaire_3.php:767 Intranet_partenaire_3.php:768
+msgid "RDV planifié"
+msgstr "ENCONTRO AGENDADO"
+
+#: Intranet_partenaire_3.php:284 Intranet_partenaire_3.php:318
+#: Intranet_partenaire_3.php:354 Intranet_partenaire_3.php:391
+#: Intranet_partenaire_3.php:462 Intranet_partenaire_3.php:589
+msgid "MERCI DE METTRE À JOUR LORSQUE VOUS SEREZ RELANCÉ !"
+msgstr ""
+
+#: Intranet_partenaire_3.php:294
+msgid "Devis/Mandat envoyé au contact"
+msgstr "Orçamento / Contrato enviado ao contacto"
+
+#: Intranet_partenaire_3.php:330
+msgid "Devis validé par le contact"
+msgstr "Orçamento aceite pelo contacto"
+
+#: Intranet_partenaire_3.php:368 Intranet_partenaire_3.php:818
+msgid "Vente réalisée"
+msgstr "Venda realizada"
+
+#: Intranet_partenaire_3.php:403
+msgid "Virement envoyé à NosRezo"
+msgstr "Transferência enviada à NosRezo"
+
+#: Intranet_partenaire_3.php:410
+msgid ""
+"Vous ne pouvez pas réaliser de virement pour l\\'instant car la facture n'a "
+"pas été envoyée."
+msgstr ""
+"Ainda não pode efectuar a transferência porque a factura não foi enviada."
+
+#: Intranet_partenaire_3.php:411
+msgid "Vous allez recevoir la facture par mail dans les prochaines heures."
+msgstr "Vai receber a fatura por email nas próximas horas."
+
+#: Intranet_partenaire_3.php:439
+msgid ""
+"Contact non joignable pour le moment. Nous avons laissé un message sur son "
+"répondeur. \n"
+"\t\t\t\t\t\t                                 Nous retenterons de le joindre "
+"très prochainement. Merci d'avance de revenir vers nous si vous avez des "
+"retours au"
+msgstr ""
+"Contacto não contactavel por enquanto. Nos lhe deixamos uma mensagem no "
+"gravador de mensagens.\n"
+" \t\t\t\t\t\t                                 Nos voltaremos a o contactar "
+"muito brévemente. Agradecemos que volte  a contactar-nos caso obtiver "
+"noticias sobre"
+
+#: Intranet_partenaire_3.php:440 Intranet_partenaire_3.php:445
+msgid " ou par mail à "
+msgstr " ou por email "
+
+#: Intranet_partenaire_3.php:445
+msgid ""
+"Dossier actuellement en cours. N'hésitez pas à revenir vers nous si vous "
+"avez des compléments d'informations au"
+msgstr ""
+"Dossiê actualmente a decorrer. Não hesite em contactar-nos se tiver "
+"informações adicionais para o"
+
+#: Intranet_partenaire_3.php:473
+msgid "Recommandation Hors Secteur du partenaire : reaffectation en cours."
+msgstr "Recomendações Fora de Sector do parceiro: Afectaçao a decorrer."
+
+#: Intranet_partenaire_3.php:526
+msgid "VOUS SOUHAITEZ RÉATTRIBUER CETTE RECOMMANDATION :"
+msgstr "DESEJA REDEFINIR ESTA RECOMENDAÇÃO:"
+
+#: Intranet_partenaire_3.php:554
+msgid "ENVOYER"
+msgstr "ENVIAR"
+
+#: Intranet_partenaire_3.php:573
+msgid "Projet trop tôt - A réaliser dans le futur."
+msgstr "Projeto muito cedo - Para ser realizado futuramente"
+
+#: Intranet_partenaire_3.php:608
+msgid ""
+"MERCI DE PRÉCISER D'AVANTAGE LA RAISON POUR QUE NOUS PUISSIONS AU MIEUX "
+"RÉATTRIBUER CETTE RECOMMANDATION"
+msgstr ""
+"AGRADECEMOS QUE NOS INDIQUE O MOTIVO PARA QUE POSSAMOS REDEFINIR ESTA "
+"RECOMENDAÇÃO"
+
+#: Intranet_partenaire_3.php:615
+msgid "Le partenaire ne peut traiter cette recommandation. Pourquoi :"
+msgstr "O parceiro não pode tratar esta recomendação. Porquê:"
+
+#: Intranet_partenaire_3.php:668 scripts/tableau_prescription.php:51
+#: scripts/tableau_prescription.php:130
+msgid "DOSSIER"
+msgstr "DOSSIË"
+
+#: Intranet_partenaire_3.php:676
+msgid "CLIENT"
+msgstr "CLIENTE"
+
+#: Intranet_partenaire_3.php:681
+msgid "SERVICE"
+msgstr "SERVICO"
+
+#: Intranet_partenaire_3.php:732
+msgid "METTEZ À JOUR VOTRE RECOMMANDATION"
+msgstr "ACTUALISE A SUA RECOMENDAÇÃO"
+
+#: Intranet_partenaire_3.php:749
+msgid "VOUS EN ÊTES OU ?"
+msgstr "EM QUE PONTO DE SITUAÇÃO SE ENCONTRA ?"
+
+#: Intranet_partenaire_3.php:759
+msgid "RDV planifié pour une presentation"
+msgstr "ENCONTRO planeado para uma apresentação"
+
+#: Intranet_partenaire_3.php:775
+msgid "Présentation réalisée"
+msgstr "Apresentação realizada"
+
+#: Intranet_partenaire_3.php:782 Intranet_partenaire_3.php:783
+#: Intranet_partenaire_3.php:784
+msgid "Devis envoyé"
+msgstr "Orçamento enviado"
+
+#: Intranet_partenaire_3.php:791
+msgid "Embauche"
+msgstr "Admitido"
+
+#: Intranet_partenaire_3.php:791
+msgid "A relancer dans"
+msgstr "A contactar novamente dentro de"
+
+#: Intranet_partenaire_3.php:799 Intranet_partenaire_3.php:800
+#: Intranet_partenaire_3.php:801
+msgid "Devis des travaux accepté"
+msgstr "Aceite orçamento das obras"
+
+#: Intranet_partenaire_3.php:813
+msgid "Financement accepté par client"
+msgstr "Financiamento aceite pelo cliente"
+
+#: Intranet_partenaire_3.php:815
+msgid "Compromis signé"
+msgstr "Compromisso assinado"
+
+#: Intranet_partenaire_3.php:818
+msgid "En attente Facture NosRezo"
+msgstr "Á espera da Factura NosRezo"
+
+#: Intranet_partenaire_3.php:826
+msgid "Paiement réalisé auprès de NosRezo"
+msgstr "Pagamento efectuado junto da NosRezo"
+
+#: Intranet_partenaire_3.php:830 Intranet_partenaire_3.php:840
+#: Intranet_partenaire_3.php:843 Intranet_partenaire_3.php:846
+msgid "Dossier en cours"
+msgstr "Dossier a decorrer"
+
+#: Intranet_partenaire_3.php:840
+msgid "J'ai laissé un message au client"
+msgstr "Deixei uma mensagem ao cliente"
+
+#: Intranet_partenaire_3.php:843
+msgid "Projet à réaliser dans le futur"
+msgstr "Projeto para ser realizado no futuro"
+
+#: Intranet_partenaire_3.php:852 Intranet_partenaire_3.php:855
+msgid "Fermer ce dossier"
+msgstr "Encerrar este dossier"
+
+#: Intranet_partenaire_3.php:855
+msgid "Contact non intéressé par nos services / Déjà en contact"
+msgstr "Contacto não interessado pelos nossos serviços / Jà està em contacto"
+
+#: Intranet_partenaire_3.php:861
+msgid "Fermer ce dossier pour moi - Hors secteur / Réaffecter par l'algorithme"
+msgstr ""
+"Encerrar este dossier por mim - Fora de Sector / Redifinir pelo algoritmo"
+
+#: Intranet_partenaire_3.php:864
+msgid ""
+"Fermer ce dossier pour moi - Réaffecter moi même à un autre professionnel"
+msgstr "Encerrar este dossier por mim - Redifinir para outro profissional"
+
+#: Intranet_partenaire_3.php:867
+msgid "Fermer ce dossier - Dites nous pourquoi en commentaire ?"
+msgstr "Encerrar este dossier - Diga-nos porquê com um comentario ?"
+
+#: Intranet_partenaire_3.php:883
+msgid "Choisissez QUAND NosRezo vous relance !"
+msgstr "Escolha QUANDO o NosRezo deve lembrar-lhe novamente !"
+
+#: Intranet_partenaire_3.php:883
+msgid "RELANCEZ VOUS DANS ?"
+msgstr "LEMBRAR-ME DENTRO DE ?"
+
+#: Intranet_partenaire_3.php:904
+msgid "NosRezo vous relance dans"
+msgstr ""
+
+#: Intranet_partenaire_3.php:931 Intranet_partenaire_3.php:934
+#: Intranet_partenaire_3.php:937 Intranet_partenaire_3.php:940
+#: Intranet_partenaire_3.php:943
+msgid "mois"
+msgstr "meses"
+
+#: Intranet_partenaire_3.php:952
+msgid "FORFAIT RECRUTEMENT"
+msgstr "PACOTE RECRUTAMENTO"
+
+#: Intranet_partenaire_3.php:956
+msgid " MONTANT EMPRUNTÉ"
+msgstr "MONTANTE DO EMPRESTIMO"
+
+#: Intranet_partenaire_3.php:958
+msgid " MONTANT DES HONORAIRES TTC"
+msgstr "MONTANTE DOS HONORÁRIOS C/IVA"
+
+#: Intranet_partenaire_3.php:961
+msgid " DEVIS DES TRAVAUX TTC"
+msgstr " ORÇAMENTO DAS OBRAS C/IVA"
+
+#: Intranet_partenaire_3.php:962 Intranet_partenaire_3.php:963
+msgid "DEVIS TTC"
+msgstr "ORÇAMENTO C/IVA"
+
+#: Intranet_partenaire_3.php:977
+msgid "ID IAD TRANSACTION"
+msgstr ""
+
+#: Intranet_partenaire_3.php:990 Intranet_partenaire_3.php:1055
+msgid "COMMENTAIRE"
+msgstr "COMENTÁRIO"
+
+#: Intranet_partenaire_3.php:992
+msgid ""
+"Commentaire envoyé à l'affilié pour le suivi du dossier : Pensez à "
+"communiquer au maximum !"
+msgstr ""
+"Comentário enviado ao afiliado para o seguimento do dossier: Pensem em "
+"comunicar ao maximo !"
+
+#: Intranet_partenaire_3.php:1010
+msgid "VALIDER"
+msgstr ""
+
+#: Intranet_partenaire_3.php:1054
+msgid "MONTANT"
+msgstr "MONTANTE"
+
+#: Intranet_partenaire_5.php:33
+msgid "Charte NosRezo"
+msgstr "Charta NosRezo"
+
+#: Intranet_partenaire_5.php:45
+msgid ""
+"En tant que partenaire NosRezo vous vous engagez sur les points suivants :"
+msgstr ""
+"Como parceiro da NosRezo você compromete-se a cumprir os pontos seguintes:"
+
+#: Intranet_partenaire_5.php:46
+msgid ""
+"Réactivité : Répondre aux sollicitations des contacts dans les 48h au plus"
+msgstr ""
+"Reactividade: Responder as solicitaçoes dos contactos nas 48h no maximo"
+
+#: Intranet_partenaire_5.php:47
+msgid ""
+"Professionnalisme : De fournir une prestation de qualité à tous les contacts"
+msgstr ""
+"Profissionalismo: Fornecer uma prestaçao de qualidade a todos os contactos"
+
+#: Intranet_partenaire_5.php:48
+msgid ""
+"Process : De tenir informé NosRezo de chaque évolution des dossiers via "
+"votre intranet"
+msgstr ""
+"Procedimento: Manter a NosRezo informada sobre cada evoluçao dos dossiês via "
+"a sua intranet"
+
+#: Intranet_partenaire_5.php:49
+msgid ""
+"Sollicitations : De tenir informé NosRezo des autres sollicitations clients"
+msgstr ""
+"Solicitaçoes: Manter a NosRezo Informada sobre as outras solicitaçoes por "
+"parte dos clientes"
+
+#: Intranet_partenaire_5.php:50
+msgid ""
+"Communication : Avoir communication positive sur l'ensemble des médias "
+"concernant NosRezo"
+msgstr ""
+"Comunicaçao: Manter uma comunicaçao positiva no conjunto dos medias com "
+"respeito à NosRezo"
+
+#: Intranet_partenaire_5.php:53
+msgid "NosRezo se réserve  le droit de vous retirer du référencement :"
+msgstr "A NosRezo reserva-se o direito de o retirar do referenciamento: "
+
+#: Intranet_partenaire_5.php:54
+msgid ""
+"Réactivité : Si vos réponses aux sollicitations des contacts sont "
+"supérieures à 48h"
+msgstr ""
+"Reactividade: Se as respostas as solicitaçoes dos contactos sao superiores a "
+"48h"
+
+#: Intranet_partenaire_5.php:55
+msgid "Réactivité : Si vous ne mettez pas à jour votre intranet partenaire"
+msgstr "Reactividade:Se você nao actualiza a sua intranet parceiro"
+
+#: Intranet_partenaire_5.php:56
+#, php-format
+msgid ""
+"Notation : Si votre note globale est inférieure à 75% de satisfaction client"
+msgstr ""
+"Pontuaçao:  Se a sua nota global é inferior a 75% de satisfaçao cliente"
+
+#: Intranet_partenaire_5.php:60
+msgid "Merci de revenir vers nous dans les différents cas suivants :"
+msgstr "Agradecemos que nos contacte nos diversos casos seguintes:"
+
+#: Intranet_partenaire_5.php:61
+msgid ""
+"Vous êtes sollicité par notre contact NosRezo sans trace de la recommandation"
+msgstr ""
+"Você é solicitado pelo nosso contacto NosRezo sem rasto de recomendaçao"
+
+#: Intranet_partenaire_5.php:62
+msgid ""
+"Vous êtes sollicité par notre contact NosRezo pour une autre demande sans "
+"trace de la recommandation"
+msgstr ""
+"Você é solicitado pelo nosso contacto NosRezo para um outro pedido sem rasto "
+"da recomendaçao"
+
+#: Intranet_partenaire_5.php:63
+msgid "Nous contacter à l'adresse"
+msgstr "Contactar-os para o seguinte endereço:"
+
+#: Intranet_partenaire_6.php:48
+msgid "Mes Notes"
+msgstr "As Minhas Notas"
+
+#: Intranet_partenaire_6.php:74
+msgid "MES NOTES"
+msgstr "As Minhas Notas"
+
+#: Intranet_partenaire_6.php:79
+msgid "MES COMPÉTENCES"
+msgstr "AS MINHAS COMPETÊNCIAS"
+
+#: Intranet_partenaire_6.php:131
+msgid "Secteur"
+msgstr "Sector"
+
+#: Intranet_partenaire_6.php:132
+msgid "Recommandé par"
+msgstr "Recomendado"
+
+#: Intranet_partenaire_6.php:135
+msgid "Moyenne sur"
+msgstr "Média sobre"
+
+#: Intranet_partenaire_6.php:138
+#, php-format
+msgid "% de satisfaction"
+msgstr "% de satisfaçao"
+
+#: Intranet_partenaire_6.php:146
+msgid "Notes reçues des affiliés sur préstation réalisées"
+msgstr ""
+
+#: Intranet_partenaire_6.php:150
+msgid "PAS DE NOTES SUR VOS PRESTATIONS POUR LE MOMENT."
+msgstr "Nao ha pontuaçao sobre as suas prestaçoes por enquanto"
+
+#: Intranet_partenaire_6.php:164
+msgid "RÉACTIVITÉ"
+msgstr "REACTIVIDADE"
+
+#: Intranet_partenaire_6.php:165
+msgid "PROFESS"
+msgstr "PROFISSAO"
+
+#: Intranet_partenaire_6.php:166
+msgid "DEVIS"
+msgstr "ORCAMENTO"
+
+#: Intranet_partenaire_6.php:167
+msgid "COMMENTAIRES"
+msgstr "COMENTARIOS"
+
+#: Intranet_partenaire_8.php:34 scripts/bandeau_left_intranet.php:508
+msgid "Mes Vacances"
+msgstr "As Minhas Férias"
+
+#: Intranet_partenaire_8.php:34
+msgid "ou indisponibilités"
+msgstr "ou indisponibilidades"
+
+#: Intranet_partenaire_8.php:87
+msgid "PRISE EN COMPTE DE VOS MODIFICATIONS"
+msgstr "TOMADA EM CONSIDERACAO DAS SUAS ALTERACOES"
+
+#: Intranet_partenaire_8.php:97
+msgid "MERCI DE RENSEIGNER LES DATES DE VOS VACANCES"
+msgstr "OBRIGADO POR INDICAR AS DATAS DAS SUAS FERIAS"
+
+#: Intranet_partenaire_8.php:120
+msgid "MODULE"
+msgstr "MODULO"
+
+#: Intranet_partenaire_8.php:120 Intranet_partenaire_8.php:136
+msgid "INDISPONIBLE"
+msgstr "INDISPONIVEL"
+
+#: Intranet_partenaire_8.php:136 Intranet_partenaire_8.php:164
+msgid "VOUS ÊTES ACTUELLEMENT"
+msgstr "VOCE ENCONTRA-SE ACTUALMENTE"
+
+#: Intranet_partenaire_8.php:143
+msgid "DÉBUT VACANCES"
+msgstr "INICIO DAS FERIAS"
+
+#: Intranet_partenaire_8.php:144
+msgid "FIN  VACANCES"
+msgstr "FIM DAS FERIAS"
+
+#: Intranet_partenaire_8.php:148
+msgid ""
+"Vous recevez uniquement les recommandations de vos prescripteurs directs."
+msgstr "Você recebe unicamente as recomendaçoes dos seus prescitores directos."
+
+#: Intranet_partenaire_8.php:151 Intranet_partenaire_8.php:169
+msgid "Pour modifier vos disponibilités, merci de mettre à jour votre"
+msgstr "Para alterar as suas disponibilidades, agradeçemos a actualização"
+
+#: Intranet_partenaire_8.php:151 Intranet_partenaire_8.php:169
+msgid "INTRANET IAD"
+msgstr "INTRANET IAD"
+
+#: Intranet_partenaire_8.php:164
+msgid "DISPONIBLE"
+msgstr "DISPONIVEL"
+
+#: Intranet_partenaire_8.php:165
+msgid ""
+"Vous recevez toutes les recommandations qui vous sont adressées par vos "
+"prescripteurs ou l'algorithme"
+msgstr ""
+"Você recebe todas as recomendaçoes que lhe sao enviadas pelos seus "
+"prescritores ou pelo algoritmo"
+
+#: Intranet_partenaire_8.php:186
+msgid "MES VACANCES"
+msgstr "AS MINHAS FERIAS"
+
+#: Intranet_partenaire_8.php:198
+msgid "Début des vacances"
+msgstr "Inicio das férias"
+
+#: Intranet_partenaire_8.php:210
+msgid "Fin des vacances"
+msgstr "Fim das férias"
+
+#: Intranet_partenaire_8.php:225
+msgid "METTRE À JOUR"
+msgstr "ACTUALIZAR"
+
+#: Intranet_partenaire_profil_master.php:146
+msgid "Un mail vient d'être envoyé au partenaire."
+msgstr ""
+
+#: Intranet_partenaire_profil_master.php:165
+msgid ""
+"Un email vient d'être envoyé au partenaire afin qu'il valide cette "
+"compétence sur son profil NosRezo !"
+msgstr ""
+
+#: Intranet_partenaire_profil_master.php:166
+msgid "Vous êtes en copie du mail bien sûr."
+msgstr ""
+
+#: Intranet_partenaire_profil_master.php:185
+msgid "Votre texte est beaucoup TROP court !"
+msgstr ""
+
+#: Intranet_partenaire_profil_master.php:186
+msgid "Il faut compléter."
+msgstr ""
+
+#: Intranet_partenaire_profil_master.php:191
+msgid "Vous avez déjà recommandé cette compétence pour ce partenaire."
+msgstr ""
+
+#: Intranet_partenaire_profil_master.php:192
+msgid "N'hésitez pas à le relancer si il ne l'a pas encore validé."
+msgstr ""
+
+#: Intranet_partenaire_profil_master.php:422
+#: Intranet_partenaire_profil_master.php:462
+msgid "EXPÉRIENCE PROFESSIONNELLE :"
+msgstr ""
+
+#: Intranet_partenaire_profil_master.php:575
+msgid ""
+"J'ai travaillé à plusieurs reprises avec ce partenaire et je le recommande "
+"pour sa forte expérience de plus de 10 ans dans des chantiers de renovation "
+"complétes. "
+msgstr ""
+
+#: Intranet_planning_nr.php:90
+msgid "Merci de corriger les places disponibles."
+msgstr "Agradecemos que actualize os lugares disponiveis."
+
+#: Intranet_planning_nr.php:184
+msgid "EVÈNEMENTS NOSREZO À VENIR"
+msgstr "EVENTOS NOSREZO PARA CHEGAR"
+
+#: Intranet_planning_nr.php:217
+msgid "INSCRITS"
+msgstr "INSCRITOS"
+
+#: Intranet_planning_nr.php:279
+msgid "S'INSCRIRE"
+msgstr "INSCREVER-SE"
+
+#: Intranet_planning_nr.php:287
+msgid "SE DÉSINSCRIRE"
+msgstr "DESINSCREVER-SE"
+
+#: Intranet_planning_nr.php:298
+msgid "MODIFIER LA LIGNE DU CALENDRIER"
+msgstr "MODIFICAR A LINHA DO CALENDARIO"
+
+#: Intranet_planning_nr.php:299
+msgid "VOIR LISTE DES PARTICIPANTS"
+msgstr "VER A LISTA DOS PARTICIPANTES"
+
+#: Intranet_planning_nr.php:300
+msgid "EFFACER LA LIGNE DU CALENDRIER - Attention action irreversible."
+msgstr "APAGAR A LINHA DO CALENDARIO - Atençao açao irreversivel"
+
+#: Intranet_planning_nr.php:303
+msgid "Animée par"
+msgstr "Animada por"
+
+#: Intranet_planning_nr.php:303
+msgid "au"
+msgstr "no"
+
+#: Intranet_planning_nr.php:303
+msgid "Pour information"
+msgstr "Para informaçao"
+
+#: Intranet_planning_nr.php:327
+msgid "Modifier"
+msgstr "Modificar"
+
+#: Intranet_planning_nr.php:327
+msgid "Ajouter"
+msgstr "Acrescentar"
+
+#: Intranet_planning_nr.php:328
+msgid "un évènement"
+msgstr "um evento"
+
+#: Intranet_planning_nr.php:337
+msgid "Date"
+msgstr "Data"
+
+#: Intranet_planning_nr.php:349
+msgid "Heure"
+msgstr "Hora"
+
+#: Intranet_planning_nr.php:360
+msgid "Evènement"
+msgstr "Evento"
+
+#: Intranet_planning_nr.php:379
+msgid "Animé par"
+msgstr "Animado por"
+
+#: Intranet_planning_nr.php:387
+msgid "Code postal et ville"
+msgstr "Codigo postal e cidade"
+
+#: Intranet_planning_nr.php:395
+msgid "Lieu"
+msgstr ""
+
+#: Intranet_planning_nr.php:411
+msgid "Information"
+msgstr "Informaçao"
+
+#: Intranet_planning_nr.php:419
+msgid "Places disponibles"
+msgstr "Lugares disponiveis"
+
+#: Intranet_recrutement.php:33
+msgid "Recrutement en Immobilier"
+msgstr "Recrutamento Imobiliario"
+
+#: Intranet_recrutement.php:51
+msgid "Conseiller en immobilier"
+msgstr "Conselheiro em Imobiliario"
+
+#: Intranet_recrutement.php:63
+msgid "Manager en immobilier"
+msgstr "Manager em Imobiliario"
+
+#: Intranet_recrutement.php:73
+msgid "Tu connais quelqu'un qui souhaite entreprendre ?"
+msgstr "Tu conheces alguem que deseja empreender ?"
+
+#: Intranet_recrutement.php:74
+msgid ""
+"Je connais une société en forte croissance qui se développe partout en France"
+msgstr ""
+"Eu conheço uma empresa com um forte crescimento que està a desenvolver-se "
+"por todo Portugal"
+
+#: Intranet_recrutement.php:75
+msgid ""
+"Avec ou sans expérience, je peux te mettre en relation avec eux si tu veux, "
+"pour une présentation"
+msgstr ""
+"Com ou sem experiência, eu posso por te em contacto com eles se o quiseres, "
+"para uma apresentaçao"
+
+#: Intranet_recrutement.php:80
+msgid "Vous souhaitez être indépendant mais affilié à une forte structure"
+msgstr "Você deseja tornar-se independente mas afiliado a uma estrutura forte"
+
+#: Intranet_recrutement.php:81
+msgid "Vous souhaitez être accompagné et intégré à une équipe locale"
+msgstr "Você deseja ser acompanhado e inserir-se numa equipa local"
+
+#: Intranet_recrutement.php:82
+msgid "Vous souhaitez être formé au métier de conseiller en immobilier"
+msgstr "Você deseja ser formado ao oficio de Conselheiro em Imobiliario"
+
+#: Intranet_recrutement.php:83
+msgid "Vous souhaitez construire une carrière chez le n°1 Français"
+msgstr ""
+"Você deseja construir-se uma carreira profissional no n° 1 francês e em "
+"breve em Portugal"
+
+#: Intranet_recrutement.php:84
+msgid "Vous souhaitez vous positionner en tant que Manager d'équipe"
+msgstr "Você deseja-se posicionar como Manager duma equipa"
+
+#: Intranet_recrutement.php:104
+msgid "300€ à la 1ère vente du conseiller"
+msgstr "150€ aquando a 1eira venda do conselheiro"
+
+#: Intranet_travaux.php:52
+msgid "Tout corps d'états"
+msgstr "Todas as especialidades"
+
+#: Intranet_travaux.php:64
+msgid "Plombier"
+msgstr "Canalizador"
+
+#: Intranet_travaux.php:76 dictionnaire.php:15
+msgid "Électricien"
+msgstr "Electricista"
+
+#: Intranet_travaux.php:88
+msgid "Couvreur"
+msgstr "Carpinteiro de estruturas e telhado"
+
+#: Intranet_travaux.php:100 dictionnaire.php:16
+msgid "Peintre"
+msgstr "Pintor"
+
+#: Intranet_travaux.php:112
+msgid "Miroitier"
+msgstr "Serralheiro "
+
+#: Intranet_travaux.php:124 dictionnaire.php:17
+msgid "Architecte diplômé"
+msgstr "Arquitecto"
+
+#: Intranet_travaux.php:136
+msgid ""
+"Je connais un très bon professionnel qui peut vous contacter pour un devis "
+"gratuit."
+msgstr ""
+"Eu conheço um muito bom profissional que poderá contacta-lo(la) para lhe dar "
+"um orçamento gratuito."
+
+#: Intranet_travaux.php:137
+msgid ""
+"Il est tellement bon qu'il accepte de se faire noter à la livraison du "
+"chantier"
+msgstr "Ele é tão bom que aceita ser avaliado por si na conclusão de serviço."
+
+#: Intranet_travaux.php:147
+msgid "Entreprises spécialisées dans le domaine souhaité"
+msgstr "Empresas especializadas na area pretendida"
+
+#: Intranet_travaux.php:181
+#, php-format
+msgid "3% du montant de la facture HT"
+msgstr "3% do valor de facturaçao S/Iva"
+
+#: Intranet_travaux.php:186
+msgid "Facture à 1 000€ TTC"
+msgstr "Factura a 1 000€ C/Iva"
+
+#: Intranet_travaux.php:194
+msgid "Facture à 5 000€ TTC "
+msgstr "Factura a 5 000€ C/Iva "
+
+#: Intranet_travaux.php:202
+msgid "Facture à 10 000€ TTC "
+msgstr "Factura a 10 000€ C/Iva "
+
+#: dictionnaire.php:3 index.php:40
+msgid "immobilier"
+msgstr "imóveis"
+
+#: dictionnaire.php:4
+msgid "travaux"
+msgstr "obras"
+
+#: dictionnaire.php:6
+msgid "recrutement"
+msgstr "recrutamento"
+
+#: dictionnaire.php:8
+msgid "Mise en vente de bien"
+msgstr "Venda de um imóvel"
+
+#: dictionnaire.php:9
+msgid "Recherche de bien immobilier à acheter"
+msgstr "Pesquisa de bem imobiliário"
+
+#: dictionnaire.php:10
+msgid "Financement de projet immobilier"
+msgstr "Financiamento de projeto imobiliário"
+
+#: dictionnaire.php:11
+msgid "Déménageurs"
+msgstr "Mudança"
+
+#: dictionnaire.php:12
+msgid "Tous corps d'état"
+msgstr "Empreiteiro"
+
+#: dictionnaire.php:13
+msgid "Plomberie"
+msgstr "Picheleiro"
+
+#: dictionnaire.php:14
+msgid "Energie renouvelable"
+msgstr "Energias renováveis"
+
+#: dictionnaire.php:18
+msgid "Maçonnerie"
+msgstr "Carpinteiro"
+
+#: dictionnaire.php:19
+msgid "Home staging - Expert"
+msgstr "Especialista em home staging"
+
+#: dictionnaire.php:20
+msgid "Aménagement de combles - Plaquiste"
+msgstr "Reabilitação de sótãos e arrumos"
+
+#: dictionnaire.php:21
+msgid "Couvreurs - Toitures"
+msgstr "Reparação de telhados"
+
+#: dictionnaire.php:22
+msgid "Climatisation - Ventilation"
+msgstr "Climatização - Ventilação"
+
+#: dictionnaire.php:23
+msgid "Menuiseries"
+msgstr "Marceneiro"
+
+#: dictionnaire.php:24
+msgid "Carreleur-chapiste"
+msgstr "Aplicação de chão / Ladrilhador"
+
+#: dictionnaire.php:25
+msgid "Fenêtres"
+msgstr "Caixilharia"
+
+#: dictionnaire.php:26
+msgid "Cuisiniste"
+msgstr "Instalador de cozinha"
+
+#: dictionnaire.php:27
+msgid "Entretien façade toiture"
+msgstr "Tratamento de fachada e Teto"
+
+#: dictionnaire.php:30
+msgid "Partenariat individuel"
+msgstr "Parceria individual"
+
+#: dictionnaire.php:33
+msgid "Appartement"
+msgstr "Apartamento"
+
+#: dictionnaire.php:34
+msgid "Maison"
+msgstr "Casa"
+
+#: dictionnaire.php:35
+msgid "Terrain"
+msgstr "Terreno"
+
+#: dictionnaire.php:36
+msgid "Fond de commerce"
+msgstr "Trespasse"
+
+#: dictionnaire.php:37
+msgid "Autre"
+msgstr "Outro"
+
+#: index.php:29
+msgid "Votre plateforme de partage d'affaires social"
+msgstr "A sua plataforma de partilha de negocios social"
+
+#: index.php:32
+msgid "partage"
+msgstr "nartilha"
+
+#: index.php:33
+msgid "services"
+msgstr "serviços"
+
+#: index.php:34
+msgid "affaires"
+msgstr "negocios"
+
+#: index.php:36
+msgid "communauté"
+msgstr "comunidade"
+
+#: index.php:37
+msgid "social"
+msgstr "social"
+
+#: index.php:38
+msgid "rémunération"
+msgstr "remuneraçao"
+
+#: index.php:39
+msgid "complément de revenus"
+msgstr "complemento de remuneraçao"
+
+#: index.php:41
+msgid "service"
+msgstr "serviço"
+
+#: index.php:45
+msgid ""
+"Découvrez le premier réseau de partage d'affaires social en France. Et si "
+"rendre service vous rapportait ?"
+msgstr ""
+"Descubra a primeira rede de partilha social em França e em Portugal. E se "
+"prestar serviço (ajuda) lhe traz proveito ?"
+
+#: index.php:140 scripts/bandeau_left_intranet.php:35
+msgid "Accueil"
+msgstr "Bem-vindo"
+
+#: index.php:141
+msgid "Vidéo"
+msgstr "Video"
+
+#: index.php:142
+msgid "Le Concept"
+msgstr "O Conceito"
+
+#: index.php:143
+msgid "Images"
+msgstr "Imagens"
+
+#: index.php:144
+msgid "Inscription"
+msgstr "Inscriçao"
+
+#: index.php:145
+msgid "Présentation"
+msgstr "Apresentaçao"
+
+#: index.php:146
+msgid "SE CONNECTER"
+msgstr "CONECTAR"
+
+#: index.php:169
+msgid "Parce que nous pensons que chacun d'entre nous aime rendre service"
+msgstr "Porque nos pensamos que cada um de nos gosta prestar serviço (ajuda)"
+
+#: index.php:174
+msgid "Voir la vidéo"
+msgstr "Ver o video"
+
+#: index.php:175
+msgid "En Savoir plus"
+msgstr "Para saber mais a cerca de"
+
+#: index.php:219
+msgid "Notre force : le réseau"
+msgstr "A nossa força: A rede"
+
+#: index.php:221
+msgid ""
+"Selon une étude mondiale du cabinet de conseil en management Accenture "
+"réalisée en 2011, le bouche-à-oreille est la 1ère source d’information pour "
+"la décision d’achat des clients : 76 % des personnes interrogées se fient "
+"aux avis des proches, contre 24 % à la publicité."
+msgstr ""
+"Segundo um estudo mondial do gabinete de consultoria em management Accenture "
+"realizado em 2011, o boca a orelha é a 1eira fonte d'informaçao para a "
+"decisao de compra por parte dos clientes: 76% das pessoas questionadas fiam-"
+"se aos conseilhos dos proximos, contra 24% na publicidade."
+
+#: index.php:225
+msgid "Les partenaires"
+msgstr "Os parceiros"
+
+#: index.php:242
+msgid "La sélection des partenaires"
+msgstr "A seleçao dos parceiros"
+
+#: index.php:243
+msgid "1ère étape : La sélection"
+msgstr "1eira etapa: A seleçao"
+
+#: index.php:245
+msgid ""
+"Les partenaires sont sélectionnés pour leurs compétences et leurs taux de "
+"satisfaction auprès de nos affiliés."
+msgstr ""
+"O sparceiros sao selecionados pelas sas competências profissionais e as suas "
+"taxas de satisfaçao junto dos nossos afiliados."
+
+#: index.php:248
+msgid "2ème étape : La notation"
+msgstr "2da etapa: A pontuaçao"
+
+#: index.php:250
+msgid ""
+"Par les notes que vous attribuez une fois la prestation réalisée, vous "
+"contribuez à mettre en avant ou à faire déréférencer le partenaire de la "
+"communauté NosRezo."
+msgstr ""
+"Pelas notas que vocês atribuem uma vez que a prestaçao foi efectuada, você "
+"contribui a posicionar à frente ou a desreferenciar o parceiro da comunidade "
+"NosRezo."
+
+#: index.php:255
+msgid "Votre mission"
+msgstr "A sua missao"
+
+#: index.php:274
+msgid "Rendre service"
+msgstr "Prestar serviço (ajudar)"
+
+#: index.php:275
+msgid "Votre levier de réussite"
+msgstr "A sua alavanca de êxito"
+
+#: index.php:277
+msgid ""
+"Devant la masse d’offres sur Internet, faire le bon choix dépend de plus en "
+"plus du relationnel."
+msgstr ""
+"Com o volume de ofertas que ha na internet, efectuar a boa escolha depende "
+"cada vez mais do relacional."
+
+#: index.php:280
+msgid ""
+"En devenant affilié, vous devenez LA personne qui connaît le meilleur "
+"plombier du coin, le meilleur artisan, le meilleur conseiller immobilier, …"
+msgstr ""
+"Ao tornar-se afiliado, você torna-se A pessoas que conhece o melhor "
+"canalizador (picheleiro) da area em que vive, o melhor artesao, o melhor "
+"conselheiro em imobiliario, …"
+
+#: index.php:283
+msgid ""
+"En devenant affilié, vous devenez aussi LA personne qui a une solution "
+"simple de complément de revenu."
+msgstr ""
+"Ao tornar-se afiliado, você torna-se também A pessoa que possui uma soluçao "
+"simples de complemento de rendimento."
+
+#: index.php:287
+msgid "Votre rémunération"
+msgstr "A sua remuneraçao"
+
+#: index.php:304
+msgid "Complétez vos revenus"
+msgstr "Complemente os seus rendimentos"
+
+#: index.php:306
+#, php-format
+msgid ""
+"Les PME consacrent 11% de leur chiffre d’affaires pour trouver des clients - "
+"Source : Marketing Sherpa 2009."
+msgstr ""
+"As PME consacram 11% dos seus volumes de negocios para encontrar clientes - "
+"Fonte: Marketing Sherpa 2009."
+
+#: index.php:309
+msgid ""
+"Les affiliés NosRezo complètent leurs revenus en faisant économiser une "
+"publicité coûteuse aux entreprises."
+msgstr ""
+"Os afiliados NosRezo completam os seus rendimentos permitem as empresas uma "
+"economia de publicidade carissima que elas gastam."
+
+#: index.php:313
+msgid "Et encore"
+msgstr "E ainda mais"
+
+#: index.php:329
+msgid "NosRezo, c'est"
+msgstr "A NosRezo, é"
+
+#: index.php:340 scripts/bandeau_left_intranet.php:256
+#: scripts/bandeau_left_intranet.php:263
+msgid "Affiliés"
+msgstr "Aliliados"
+
+#: index.php:348
+msgid "Partenaires"
+msgstr "Parceiros"
+
+#: index.php:374 index.php:394 index.php:414 index.php:434
+msgid "Affilié NosRezo"
+msgstr "Afiliados NosRezo"
+
+#: index.php:381
+msgid ""
+"Non seulement je rends service à mon relationnel mais en plus j’arrondis "
+"généreusement mes fins de mois."
+msgstr ""
+"Nao somente, eu presto serviço as minhas relaçoes mas para alem disso "
+"contribuo para que no final do mês as minhas contas estejam positivas."
+
+#: index.php:401
+msgid ""
+"Le site est simple, gratuit, je recommande dans l’Intranet en 1 minute et "
+"NosRezo s’occupe de tout. Mes amis sont ravis."
+msgstr ""
+"O site é simples, gratuito, eu recomendo na Intranet em 1 minuto e a NosRezo "
+"ocupas-se de tudo. Os meus amigos estao satisfeitos."
+
+#: index.php:421
+msgid ""
+"Quel plaisir d’être la personne qui a toujours un bon professionnel à "
+"proposer à mes amis qui en ont besoin."
+msgstr ""
+"Que prazer de ser a pessoa que têm sempre um bom profissional a propor aos "
+"amigos que necessitarem."
+
+#: index.php:441
+msgid ""
+"Je me suis inscrite sur le Smartphone d’un ami. Il m’avait mis en relation "
+"avec un électricien très efficace."
+msgstr ""
+"Eu inscrevi-me com o Smartphone dum amigo. Ele tinha-me apresentado um "
+"electricista muito eficaz."
+
+#: index.php:466
+msgid "Un outil simple"
+msgstr "Uma ferramente simples."
+
+#: index.php:468
+msgid "Gérez vos recommandations en seulement quelques clics..."
+msgstr ""
+"Faça a gestao das suas recomendaçoes num instante so com uns poucos clics …"
+
+#: index.php:489
+msgid "Découvrez nos services"
+msgstr "Descubra os nossos servços"
+
+#: index.php:505
+msgid "Simulation des revenus potentiels"
+msgstr "Simulaçao das remuneraçoes possiveis"
+
+#: index.php:521
+msgid "Organisez des présentations NosRezo"
+msgstr "Organizam as apresentaçoes NosRezo"
+
+#: index.php:537
+msgid "Recommandez un service n'a jamais été aussi simple"
+msgstr "Recomendar um serviço nunca foi tao simples "
+
+#: index.php:568 index.php:598
+msgid "Entrez dès aujourd'hui chez NosRezo"
+msgstr "Entre ja hoje para a NosRezo"
+
+#: index.php:572
+msgid "S'inscrire"
+msgstr "Inscrever-se"
+
+#: index.php:655
+msgid "Tout droits réservés"
+msgstr "Todos os direitos reservados"
+
+#: login.php:80
+msgid "Merci de vous identifier"
+msgstr ""
+
+#: login.php:85
+msgid "Veuillez saisir un identifiant et un mot de passe"
+msgstr ""
+
+#: login.php:93
+msgid "Identifiant ou Email affilié"
+msgstr ""
+
+#: login.php:97 login.php:100 scripts/bandeau_left_intranet.php:398
+msgid "Mot de passe"
+msgstr "Palavra-passe"
+
+#: login.php:104
+msgid "Se connecter"
+msgstr ""
+
+#: login.php:108
+msgid "Identifiant ou Mot de passe oublié ?"
+msgstr ""
+
+#: login.php:121
+msgid "Mot de passe oublié ?"
+msgstr ""
+
+#: login.php:122
+msgid "Entrez votre adresse email ci-dessous pour recevoir votre mot de passe."
+msgstr ""
+
+#: login.php:126
+msgid "Email affilié ou email partenaire"
+msgstr ""
+
+#: login.php:130 signup.php:236
+msgid "Retour"
+msgstr "Voltar"
+
+#: login.php:131
+msgid "Recevoir"
+msgstr ""
+
+#: login.php:140
+msgid "Réseau de partage d'affaires Made in France."
+msgstr ""
+
+#: scripts/bandeau_header.php:171 scripts/bandeau_left_intranet.php:75
+msgid "Mise en relation"
+msgstr "Fazer recomendação"
+
+#: scripts/bandeau_header.php:176 scripts/bandeau_left_intranet.php:81
+msgid "Inviter un ami"
+msgstr "Convidar um amigo"
+
+#: scripts/bandeau_header.php:181
+msgid "Inscription en LIVE"
+msgstr "Inscrição online"
+
+#: scripts/bandeau_header.php:197 scripts/bandeau_left_intranet.php:403
+msgid "Déconnexion"
+msgstr "Sair"
+
+#: scripts/bandeau_left_intranet.php:55
+msgid "Mes Actions"
+msgstr "As Minhas Acções"
+
+#: scripts/bandeau_left_intranet.php:100
+msgid "Annuaire"
+msgstr "Directório"
+
+#: scripts/bandeau_left_intranet.php:171
+msgid "Services"
+msgstr "Serviços"
+
+#: scripts/bandeau_left_intranet.php:180
+msgid "Entretien maison"
+msgstr "Cuidados em casa"
+
+#: scripts/bandeau_left_intranet.php:203
+msgid "Utiles"
+msgstr "Ajuda"
+
+#: scripts/bandeau_left_intranet.php:208
+msgid "QCM"
+msgstr "Questões de resposta múltipla"
+
+#: scripts/bandeau_left_intranet.php:215
+msgid "FAQ"
+msgstr "Perguntas frequentes"
+
+#: scripts/bandeau_left_intranet.php:228
+msgid "Boîte à idées"
+msgstr "Caixa de ideias"
+
+#: scripts/bandeau_left_intranet.php:243
+msgid "TOP"
+msgstr "TOP"
+
+#: scripts/bandeau_left_intranet.php:249
+msgid "Recommandations"
+msgstr "Recomendações"
+
+#: scripts/bandeau_left_intranet.php:275
+msgid "Simulation"
+msgstr "Simulação"
+
+#: scripts/bandeau_left_intranet.php:294
+msgid "Proposer Professionnel"
+msgstr "Propor Profissional"
+
+#: scripts/bandeau_left_intranet.php:323
+msgid "Mon Suivi"
+msgstr "Acompanhamento"
+
+#: scripts/bandeau_left_intranet.php:351
+msgid "Suivi des dossiers"
+msgstr "Acompanhar dossiers"
+
+#: scripts/bandeau_left_intranet.php:357
+msgid "Équipe"
+msgstr "Equipa"
+
+#: scripts/bandeau_left_intranet.php:357
+msgid "Rémunération"
+msgstr "Remuneração"
+
+#: scripts/bandeau_left_intranet.php:392
+msgid "Mon profil"
+msgstr "O meu perfil"
+
+#: scripts/bandeau_left_intranet.php:427
+msgid "PARTENAIRE"
+msgstr "PARCEIRO"
+
+#: scripts/bandeau_left_intranet.php:436
+msgid "Mon Activité"
+msgstr "A Minha Actividade"
+
+#: scripts/bandeau_left_intranet.php:458
+msgid "Mon Compte"
+msgstr "A Minha Conta"
+
+#: scripts/bandeau_left_intranet.php:478
+msgid "Mon Profil"
+msgstr "O Meu Perfil"
+
+#: scripts/bandeau_left_intranet.php:484
+msgid "Mon Profil Public"
+msgstr "Meu Perfil Publico"
+
+#: scripts/bandeau_left_intranet.php:491
+msgid "Mon Secteur"
+msgstr "A Minha Indústria"
+
+#: scripts/bandeau_left_intranet.php:498
+msgid "QCM IAD France"
+msgstr ""
+
+#: scripts/bandeau_left_intranet.php:522
+msgid "Mes compétences"
+msgstr "As minhas competências"
+
+#: scripts/bandeau_left_intranet.php:533
+msgid "Charte"
+msgstr "Carta"
+
+#: scripts/function_12345678910.php:3096 scripts/tableau_prescription.php:49
+msgid "GAINS POTENTIEL "
+msgstr "LUCRO POTENCIAL"
+
+#: scripts/function_12345678910.php:3097 scripts/tableau_prescription.php:50
+#: scripts/tableau_prescription.php:129
+msgid "GAINS BRUT"
+msgstr "LUCRO ILÍQUIDO"
+
+#: scripts/tableau_prescription.php:21
+msgid "CLIQUEZ SUR DÉTAILS POUR AVOIR LES COORDONNÉES DU PARTENAIRE"
+msgstr "CLIQUE EM DETALHES PARA OBTER AS INFORMAÇÕES DO PARCEIRO"
+
+#: scripts/tableau_prescription.php:29
+msgid "FERMÉES"
+msgstr "FECHADAS"
+
+#: scripts/tableau_prescription.php:73
+msgid "NOTER LE PARTENAIRE"
+msgstr "AVISAR O PARCEIRO"
+
+#: scripts/tableau_prescription.php:78
+msgid "DEMANDE VIREMENT"
+msgstr "PEDIDO DE TRANSFERÊNCIA"
+
+#: scripts/tableau_prescription.php:126
+msgid "PRÉNOM"
+msgstr "APELIDO"
+
+#: scripts/tableau_prescription.php:150
+msgid "Annulée"
+msgstr "Anuladas"
+
+#: scripts/tableau_prescription.php:168
+msgid "Détails"
+msgstr ""
+
+#: signup.php:99
+msgid "Bienvenue chez NosRezo"
+msgstr "Bemvindo(a) à NosRezo"
+
+#: signup.php:99
+msgid ""
+"Vous venez de recevoir vos codes par mail : Pensez à regarder dans les spams."
+msgstr ""
+"Você acaba de receber os seus codigos via email: pense em verificar nos "
+"spams."
+
+#: signup.php:99
+msgid "N'oubliez pas que n'avez que 5 invitations"
+msgstr "Nao se esqueça que so possui 5 convites"
+
+#: signup.php:102
+msgid "Inscription."
+msgstr "Inscrição."
+
+#: signup.php:103
+msgid "Uniquement sur invitation."
+msgstr "Unicamnente sobre convite."
+
+#: signup.php:130
+msgid "Oups ! Vous êtes déjà chez nous."
+msgstr "Oops ! Vocês jà se encontra registado na NosRezo"
+
+#: signup.php:130
+msgid "Faites une demande de mot de passe!"
+msgstr "Faça um pedido de codigo secreto !"
+
+#: signup.php:131
+msgid "Oups ! Votre parrain n'a plus de place disponible."
+msgstr "Oops ! O seu padrinho jà nao dispoe de lugares disponiveis."
+
+#: signup.php:131
+msgid "Pas de panique, appelez-le et tout va rentrer dans l'ordre!"
+msgstr "Nao panique, contacte-o e tudo vai entrar na ordem !"
+
+#: signup.php:136
+msgid "Votre nom"
+msgstr "O seu apelido"
+
+#: signup.php:144
+msgid "Prénom"
+msgstr "Nome"
+
+#: signup.php:146
+msgid "Votre prénom"
+msgstr "O seu nome"
+
+#: signup.php:151
+msgid "Merci de saisir un numéro de téléphone correct."
+msgstr "Agradecemos que digite um numero de telefone correcto."
+
+#: signup.php:151
+msgid "Exemple: 0608508812"
+msgstr "Exemplo: 917663740"
+
+#: signup.php:153
+msgid "Numéro"
+msgstr "Numero"
+
+#: signup.php:155
+msgid "Votre N° de téléphone"
+msgstr "O seu N° de telefone"
+
+#: signup.php:160
+msgid "Merci de saisir 2 mails identiques!"
+msgstr "Agradecemos que escreva 2 emails idênticos !"
+
+#: signup.php:162 signup.php:169
+msgid "Email"
+msgstr "Email"
+
+#: signup.php:164
+msgid "Votre email"
+msgstr "O seu email"
+
+#: signup.php:171
+msgid "Confirmer votre email"
+msgstr "Confirmar o seu email"
+
+#: signup.php:176
+msgid "Merci de saisir un Code Postal correct."
+msgstr "Agradecemos que escreva um codigo postal correcto."
+
+#: signup.php:180
+msgid "Code postal"
+msgstr "Codigo Postal"
+
+#: signup.php:187
+msgid "Votre ville"
+msgstr "A sua cidade (Freguesia)"
+
+#: signup.php:192
+msgid "Merci de saisir une date de naissance qui nous parle!"
+msgstr "Agradecemos que escreva uma data de nascimento que seja correcta !"
+
+#: signup.php:192
+msgid "Exemples: 15/07/1979, ..."
+msgstr "Exemplos: 15/07/1979, …"
+
+#: signup.php:193
+msgid "Désolé mais tu dois avoir plus de 18 ans."
+msgstr "Lamentamos, mas você deve ser maior de 18 anos"
+
+#: signup.php:193
+msgid "Attention : nous allons vérifier!"
+msgstr "Atençao: nos vamos proceder à verificaçao !"
+
+#: signup.php:195
+msgid "Date de naissance"
+msgstr "Data de nascimento"
+
+#: signup.php:197
+msgid "Date de naissance JJ/MM/AAAA"
+msgstr "Data da nascimento DD/MM/AAAA"
+
+#: signup.php:202
+msgid "Merci de saisir un ID parrain valide"
+msgstr "Agradecemos que escreva um ID do seu padrinho valido"
+
+#: signup.php:202
+msgid "Exemples: 6512, 47, ..."
+msgstr "Exemplo: 6512, 47, …"
+
+#: signup.php:203
+msgid "Oups ! Aucun Affilié ne correspond à votre parrain"
+msgstr "Oops ! Nenhum afiliado corresponde ao seu padrinho"
+
+#: signup.php:203
+msgid "Exemples de nom: DURAND, Marc, Sophie, ..."
+msgstr "Exemplos de Apelido: GOMES, Marco, Sofia, …"
+
+#: signup.php:203
+msgid "N'hésitez pas à appeler votre parrain!"
+msgstr "Nao hesite em ligar para o seu padrinho !"
+
+#: signup.php:206
+msgid "Identifiant du parrain"
+msgstr "Identifiante do padrinho"
+
+#: signup.php:208
+msgid "ID de votre parrain"
+msgstr "ID do seu padrinho"
+
+#: signup.php:213
+msgid "Nom du parrain"
+msgstr "Apelido do padrinho"
+
+#: signup.php:215
+msgid "Nom ou prénom de votre parrain"
+msgstr "Apelido e Nome do seu padrinho"
+
+#: signup.php:215
+msgid "Pas besoin de respecter les majuscules ou minuscules"
+msgstr "Nao é necessario respeitar as maiusculas e as minusculas"
+
+#: signup.php:221
+msgid ""
+"Merci d'accepter les conditions suivantes si vous souhaitez nous rejoindre"
+msgstr ""
+"Agradecemos que aceite as condiçoes seguintes se pretende juntar-se a nos"
+
+#: signup.php:224
+msgid "Vous acceptez les"
+msgstr "Você aceita-as"
+
+#: signup.php:224
+msgid "Conditions générales d'inscription"
+msgstr "Condiçoes Gerais de inscriçao"
+
+#: signup.php:230
+msgid "Vous certifiez avoir plus de 18 ans"
+msgstr "Você certifica ser maior de 18 anos"
+
+#: signup.php:237
+msgid "Devenir membre"
+msgstr "Tornar-se membro"
+
+#: signup.php:252
+msgid "Réseau privé de partage d'affaires."
+msgstr "Rede privada de partilha de negocios."
+
+#: signup.php:474
+msgid ""
+"Inscription non disponible merci de contacter le support à contact@nosrezo."
+"com"
+msgstr ""
+"Inscriçao nao disponivel agradecemos que contacta o suporte para "
+"contact@nosrezo.com"
+
+#~ msgid "Code postal ou ville de la recommandation"
+#~ msgstr "Código postal ou localidade da recomendação"
+
+#~ msgid "Laissez l'algorithme choisir pour vous le meilleur partenaire"
+#~ msgstr "Deixe o algoritmo escolher por si o melhor parceiro"
+
+#~ msgid ""
+#~ "Prescription non prise en compte : merci de vérifier tous vos champs ou "
+#~ "de contacter le support à"
+#~ msgstr ""
+#~ "Recomendação não efectuada! Por favor verifique todos os campos ou "
+#~ "contacte o suporte através de contact@nosrezo.com"
+
+#~ msgid ""
+#~ "AFFILIÉS : Nombre d\\'affiliés par niveau. Seul les détails de vos "
+#~ "niveaux 1 et 2 sont visibles."
+#~ msgstr ""
+#~ "AFILIADOS: Numero de afiliados por nivel. So os pormenores dos vossos "
+#~ "niveis 1 e 2 estao visiveis."
+
+#~ msgid ""
+#~ "RECOMMANDATIONS : Nombre de recommandations actives/en cours de l"
+#~ "\\'ensemble de vos équipes"
+#~ msgstr ""
+#~ "RECOMENDACOES: Numero de recomendaçoes activas / a decorrer do conjunto "
+#~ "das suas equipas"
+
+#~ msgid ""
+#~ "Lorsque vous souhaitez recevoir un virement sur votre compte bancaire de "
+#~ "votre solde NosRezo, cliquez simplement sur le bouton encaisser dans l"
+#~ "\\'onglet 'MON ACTIVITÉ'"
+#~ msgstr ""
+#~ "Quando você deseja receber uma transferência para a sua conta bancaria do "
+#~ "seu saldo NosRezo, clic simplesmente na tecla encaixar no item \"MINHA "
+#~ "ACTIVIDADE\""
+
+#~ msgid ""
+#~ "Le montant emprunté semble incohérent. La moyenne nationale est 2 "
+#~ "000€MERCI DE METTRE À JOUR LE MONTANT DES HONORAIRES TTC"
+#~ msgstr ""
+#~ "O montante do empréstimo obtido parece incoerente. A média nacional é de "
+#~ "2.000€ C/Iva e não"
+
+#~ msgid "CLIQUEZ ICI POUR METTRE À JOUR"
+#~ msgstr "CLIC AQUI PARA ACTUALIZAR"
+
+#~ msgid "Complément d'adresse"
+#~ msgstr "Complemento de endereço"
+
+#~ msgid "Bienvenue Affilié"
+#~ msgstr "Bem vindo filiado"
+
+#~ msgid "NEW"
+#~ msgstr "NEW"
+
+#~ msgid "sur Facebook"
+#~ msgstr "no Facebook"
+
+#~ msgid "Posté par"
+#~ msgstr "Post feito por"
+
+#~ msgid "LANGUES PARLÉES"
+#~ msgstr "LINGUAS FALADAS"
+
+#~ msgid "MERCI DE METTRE À JOUR LE MONTANT DES HONORAIRES TTC "
+#~ msgstr "AGRADECEMOS QUE ACTUALISE O MONTANTE DOS HONORÁRIOS C/IVA "
+
+#~ msgid "Devis validé par le contact "
+#~ msgstr "Orçamento aceite pelo contacto "
+
+#~ msgid ""
+#~ "Contact non joignable pour le moment. Nous avons laissé un message sur "
+#~ "son répondeur. \n"
+#~ "\t\t\t\t\t\t                                 Nous retenterons de le "
+#~ "joindre très prochainement. Merci d'avance de revenir vers nous si vous "
+#~ "avez des retours au "
+#~ msgstr ""
+#~ "Ainda incontactável. Deixamos uma mensagem no gravador de mensagens. "
+#~ "Voltaremos a contactar brevemente. Agradecemos que entre em contacto "
+#~ "connosco caso tenha noticias sobre ou por email ao cuidado de"
+
+#~ msgid ""
+#~ "Dossier actuellement en cours. N'hésitez pas à revenir vers nous si vous "
+#~ "avez des compléments d'informations au "
+#~ msgstr ""
+#~ "Dossier atualmente a decorrer. Não hesite em contactar-nos se tiver "
+#~ "informações adicionais para o "
+
+#~ msgid "Recommandation Hors Secteur du partenaire : réaffectation en cours."
+#~ msgstr "Recomendações Fora do âmbito da parceria: Qualificação a decorrer."
+
+#~ msgid "Projet trop tôt"
+#~ msgstr "Projeto Antecipado"
+
+#~ msgid "A réaliser dans le futur."
+#~ msgstr "A ser realizado futuramente"
+
+#~ msgid "DOSSIER R"
+#~ msgstr "DOSSIË R"
+
+#~ msgid "Recommandation R"
+#~ msgstr "Recomendação R"
+
+#~ msgid "De la part de : "
+#~ msgstr "De parte de: "
+
+#~ msgid "De la ville de : "
+#~ msgstr "Da cidade (freguesia) de: "
+
+#~ msgid ""
+#~ "Si le dossier n\\'a pas évolué, sélectionnez Dossier en cours. Puis la "
+#~ "date de relance ci-dessous :"
+#~ msgstr ""
+#~ "Se o dossier não evolui, selecione Dossier a decorrer. Em seguida a data "
+#~ "(abaixo) para contactar novamente:"
+
+#~ msgid "RDV planifié pour une presentation  "
+#~ msgstr "ENCONTRO planeado para uma apresentação "
+
+#~ msgid "Financement accepté"
+#~ msgstr "Financiamento aceite"
+
+#~ msgid "Mandat signé"
+#~ msgstr "Contrato assinado"
+
+#~ msgid "1ière vente réalisée"
+#~ msgstr "1ª venda efetuada"
+
+#~ msgid " MONTANT EMPRUNTÉ "
+#~ msgstr "MONTANTE DO EMPRÉSTIMO "
+
+#~ msgid " DEVIS TTC"
+#~ msgstr "ORÇAMENTO C/IVA"
+
+#~ msgid "TRANSACTION"
+#~ msgstr "TRANSAÇÃO"
+
+#~ msgid "Moyenne sur 1 intervention"
+#~ msgstr "Média sobre 1 intervençao"
+
+#~ msgid "interventions"
+#~ msgstr "intervençoes"
+
+#~ msgid "Pas de notes sur vos prestations pour le moment."
+#~ msgstr "De momento, sem anotaçoes sobre as suas prestaçoes."
+
+#~ msgid "Objectif 10 000 en approche !"
+#~ msgstr "Objectivo 10000 está quase!"
+
+#~ msgid "Condidtions gnérales d'utilisation à signer"
+#~ msgstr "Condições gerais d'utilização a assinar"
+
+#~ msgid "ARTICLE I"
+#~ msgstr "ARTIGO I"
+
+#~ msgid "Définitions"
+#~ msgstr "Definições"
+
+#~ msgid ""
+#~ "Pour les besoins du présent contrat, les termes définis ci-après ont la "
+#~ "signification suivante "
+#~ msgstr ""
+#~ "Para efeitos do presente contrato, os termos abixo definidos têm o "
+#~ "seguinte significado"
+
+#~ msgid ""
+#~ "SAS au capital de 10 000 euros, ayant son siège social 41, rue Paul "
+#~ "Claudel Immeuble Mozart - 91 000 EVRY et immatriculée au RCS d'EVRY sous "
+#~ "le n°800 118 788 "
+#~ msgstr ""
+#~ "SA com capital social de 10,000€, com sede em 41, Rue Claudel immeuble "
+#~ "Mozart - 91 000 EVRY e matriculada na respectiva CRC sobre o número 800 "
+#~ "118 788"
+
+#~ msgid "Site"
+#~ msgstr "Site"
+
+#~ msgid ""
+#~ "désigne le présent site internet ayant l'URL suivante www.nosrezo.com, "
+#~ "créé et exploité par la société NOSREZO."
+#~ msgstr ""
+#~ "define o presente site internet com a seguinte URL www.nosrezo.com, "
+#~ "criada e explorada pela empresa NOSREZO"
+
+#~ msgid "CGU"
+#~ msgstr "CGU"
+
+#~ msgid "les présentes Conditions Générales d'Utilisation du Site."
+#~ msgstr "As presentes Condições Gerais de Utilização do site."
+
+#~ msgid "Affilié"
+#~ msgstr "Filiado"
+
+#~ msgid ""
+#~ "toute personne physique ou morale déposant sur le Site les coordonnées "
+#~ "d'un Contact."
+#~ msgstr ""
+#~ "qualquer pessoa singular ou colectiva registando no Site as coordenadas "
+#~ "de um contacto."
+
+#~ msgid ""
+#~ "Ni l’affilié ni l’apporteur ne sont tenus ni de réaliser un "
+#~ "investissement minimum, ni d'acquérir un stock minimum de produits.\t"
+#~ msgstr ""
+#~ "Nem o afiliado, nem o promotor é obrigado a ter um investimento inicial, "
+#~ "nem de adquirir um stock mínimo de produtos.\t"
+
+#~ msgid ""
+#~ "L’Apporteur a pris connaissance des documents administratifs et "
+#~ "réglementaires des procédures de démarrage en ligne sur l’espace « "
+#~ "Documents » de NosRezo. Il s'engage à conduire son activité conformément "
+#~ "à ces documents ainsi qu'à toutes procédures et méthodes de "
+#~ "commercialisation préconisées par NosRezo dans le respect de la "
+#~ "réglementation en vigueur et selon le « Code du bon sens » de "
+#~ "l’entreprise.\t"
+#~ msgstr ""
+#~ "O promotor tomou conhecimento dos documentos administrativos et "
+#~ "regulamentares dos procedimentos de iniciação online no espaço "
+#~ "\"documentos\" de NosRezo. Compromete-se a desenvolver a sua atividade em "
+#~ "conformidade aos referidos documentos assim como nos procedimentos e "
+#~ "métodos de comercialização preconisadas pela NosRezo, dentro do respeito "
+#~ "da regulamentação em vigor e de acordo com o \"codígo do bom senso\" da "
+#~ "empresa."
+
+#~ msgid ""
+#~ "L’Apporteur fondant ses rapports avec ses clients sur le respect des "
+#~ "règles les plus formelles d'intégrité et de franchise, s'engage à "
+#~ "respecter le Code de la vente directe aux particuliers. NosRezo, qui "
+#~ "s’efforce d’inscrire son réseau dans une démarche de qualité constante, a "
+#~ "mis au point une charte et un code du bon sens interne, auxquels chaque "
+#~ "Apporteur à l’obligation d’adhérer. L’Affilié s’est engagé de même à "
+#~ "respecter le Code du bon sens mis en place par le groupe dont il pourra "
+#~ "se procurer un exemplaire auprès de son « Parrain NosRezo» ou sur "
+#~ "l’Espace du Site Internet prévu à cet effet. \t"
+#~ msgstr ""
+#~ "O promotor desenvolvendo os contactos com os clientes dentro do respecto "
+#~ "e das regras \t"
+
+#~ msgid ""
+#~ "Le présent contrat est soumis au droit français. Tout litige relatif à "
+#~ "son exécution relève de la compétence exclusive des tribunaux du siège "
+#~ "social de NosRezo, EVRY en ESSONNE. "
+#~ msgstr ""
+#~ "Para dirimir qualquer litígio emergentes da execusão do presente "
+#~ "contrato, as partes acordam estabelecer como competente os tribunais da "
+#~ "sede da NosRez, EVRY en ESSONE. "
+
+#~ msgid ""
+#~ "Le présent contrat est conclu pour une durée de 1 an, renouvelable par "
+#~ "tacite reconduction. Il prendra immédiatement fin à l’instant où "
+#~ "l’Apporteur aura dépassé les plafonds de revenus annuels définis par "
+#~ "l’arrêté du 21 mai 2001 et dont les modalités sont reprises à l’article "
+#~ "20 du présent contrat.\t"
+#~ msgstr ""
+#~ "O presente contrato é válido para um periodo de 1 anos, renovado "
+#~ "automaticamente. \t"
+
+#~ msgid "J'accepte les conditions de rémunérations ci-dessus !"
+#~ msgstr "Aceito as condições de remuneração acima referidas"
+
+#~ msgid "Français"
+#~ msgstr "Francês"
+
+#~ msgid "Anglais"
+#~ msgstr "Inglês"
+
+#~ msgid "Portugais"
+#~ msgstr "Português"
+
+#~ msgid "Espagnol"
+#~ msgstr "Espanhol"
+
+#~ msgid "Si vous avez des questions n\\'hésitez pas à le contacter au "
+#~ msgstr "Se tiver dúvidas não hesite em o contactar pelo"

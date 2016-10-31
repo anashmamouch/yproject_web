@@ -1,0 +1,384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-02-17 11:29+0000\n"
+"PO-Revision-Date: 2016-07-13 15:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../../../../../../test\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:29
+msgid "Votre plateforme de partage d'affaires social"
+msgstr "A sua plataforma de partilha de negócios sociais"
+
+#: index.php:32
+msgid "partage"
+msgstr "partilha"
+
+#: index.php:33
+msgid "services"
+msgstr "serviços"
+
+#: index.php:34
+msgid "affaires"
+msgstr "negócios"
+
+#: index.php:36
+msgid "communauté"
+msgstr "comunidade"
+
+#: index.php:37
+msgid "social"
+msgstr "social"
+
+#: index.php:38
+msgid "rémunération"
+msgstr "remuneração"
+
+#: index.php:39
+msgid "complément de revenus"
+msgstr "complemento de salário"
+
+#: index.php:40
+msgid "immobilier"
+msgstr "imobiliária"
+
+#: index.php:41
+msgid "service"
+msgstr "serviço"
+
+#: index.php:42
+msgid "France"
+msgstr "França"
+
+#: index.php:45
+msgid ""
+"Découvrez le premier réseau de partage d'affaires social en France. Et si "
+"rendre service vous rapportait ?"
+msgstr ""
+"Descubra a primeira rede que permite a partilha de negócios sociais em "
+"França. E se prestar serviço vous traz benefícios?"
+
+#: index.php:140
+msgid "Accueil"
+msgstr "Página principal"
+
+#: index.php:141
+msgid "Vidéo"
+msgstr "Vídeo"
+
+#: index.php:142
+msgid "Le Concept"
+msgstr "O conceito"
+
+#: index.php:143
+msgid "Images"
+msgstr "Imagens"
+
+#: index.php:144
+msgid "Inscription"
+msgstr "Inscrição"
+
+#: index.php:145
+msgid "Présentation"
+msgstr "Apresentação"
+
+#: index.php:146
+msgid "SE CONNECTER"
+msgstr "CONECTAR"
+
+#: index.php:169
+msgid "Parce que nous pensons que chacun d'entre nous aime rendre service"
+msgstr "Porque achamos que cada um de nós está apto a prestar serviços"
+
+#: index.php:174
+msgid "Voir la vidéo"
+msgstr "Ver vídeo"
+
+#: index.php:175
+msgid "En Savoir plus"
+msgstr "Saber mais"
+
+#: index.php:193
+msgid "Présentation du concept NosRezo"
+msgstr "Apresentação do conceito NosRezo"
+
+#: index.php:219
+msgid "Notre force : le réseau"
+msgstr "A nossa força: a rede"
+
+#: index.php:221
+msgid ""
+"Selon une étude mondiale du cabinet de conseil en management Accenture "
+"réalisée en 2011, le bouche-à-oreille est la 1ère source d’information pour "
+"la décision d’achat des clients : 76 % des personnes interrogées se fient "
+"aux avis des proches, contre 24 % à la publicité."
+msgstr ""
+"Segundo um estudo mundial efectuado pelo concelho de gestão Accenture "
+"realizado em 2011, a informação de indivíduo a indivíduo é a 1ª fonte  para "
+"a decisão de compra dos clientes: “76% das pessoas interrogadas confiam mais "
+"na opinião de um próximo, contra 24% na publicidade.”"
+
+#: index.php:225
+msgid "Les partenaires"
+msgstr "Os colaboradores"
+
+#: index.php:242
+msgid "La sélection des partenaires"
+msgstr "A selecção dos colaboradores"
+
+#: index.php:243
+msgid "1ère étape : La sélection"
+msgstr "1- Etapa: A selecção"
+
+#: index.php:245
+msgid ""
+"Les partenaires sont sélectionnés pour leurs compétences et leurs taux de "
+"satisfaction auprès de nos affiliés."
+msgstr ""
+"Os colaboradores são seleccionados pelas suas competências  e pelo grau de "
+"satisfação dos nossos afiliados."
+
+#: index.php:248
+msgid "2ème étape : La notation"
+msgstr "2- Etapa: A avaliação"
+
+#: index.php:250
+msgid ""
+"Par les notes que vous attribuez une fois la prestation réalisée, vous "
+"contribuez à mettre en avant ou à faire déréférencer le partenaire de la "
+"communauté NosRezo."
+msgstr ""
+"De acordo com a avaliação dos serviços prestados, o beneficiário do serviço "
+"contribui para a permanência na comunicadade NosRezo ou a sua exlusão."
+
+#: index.php:255
+msgid "Votre mission"
+msgstr "A sua missão"
+
+#: index.php:274
+msgid "Rendre service"
+msgstr "Prestar um serviço"
+
+#: index.php:275
+msgid "Votre levier de réussite"
+msgstr "O trampolim para o seu sucesso"
+
+#: index.php:277
+msgid ""
+"Devant la masse d’offres sur Internet, faire le bon choix dépend de plus en "
+"plus du relationnel."
+msgstr ""
+"Perante o vasto numero de ofertas na internet, fazer a escolha mais correcta "
+"depende cada vez mais da vertente relacional."
+
+#: index.php:280
+msgid ""
+"En devenant affilié, vous devenez LA personne qui connaît le meilleur "
+"plombier du coin, le meilleur artisan, le meilleur conseiller immobilier, …"
+msgstr ""
+"Ao ser nosso afiliado, passará a ser a pessoa que conhece o melhor "
+"canalizador da zona, o melhor artesão, o melhor consultor imobiliário..."
+
+#: index.php:283
+msgid ""
+"En devenant affilié, vous devenez aussi LA personne qui a une solution "
+"simple de complément de revenu."
+msgstr ""
+"Ao ser afiliado NosRezo, passará igualmente a ser a pessoa que tem uma "
+"solução simples para un complemento de rendimentos. "
+
+#: index.php:287
+msgid "Votre rémunération"
+msgstr "A vossa remuneração"
+
+#: index.php:304
+msgid "Complétez vos revenus"
+msgstr "Complemente os seus rendimentos"
+
+#: index.php:306
+#, php-format
+msgid ""
+"Les PME consacrent 11% de leur chiffre d’affaires pour trouver des clients - "
+"Source : Marketing Sherpa 2009."
+msgstr ""
+"As PME (Pequenas e Médias Empresas) gastam cerca de 11% de seu orçamento na "
+"angariação de novos clientes – Fontes: Marketing Sherpa 2009."
+
+#: index.php:309
+msgid ""
+"Les affiliés NosRezo complètent leurs revenus en faisant économiser une "
+"publicité coûteuse aux entreprises."
+msgstr ""
+"Os filiados Nosrezo complementam os seus rendimentos, economizando em "
+"publicidades dispendiosas para as empresas."
+
+#: index.php:313
+msgid "Et encore"
+msgstr "Saiba mais..."
+
+#: index.php:329
+msgid "NosRezo, c'est"
+msgstr "NosRezo é"
+
+#: index.php:340
+msgid "Affiliés"
+msgstr "Afiliados"
+
+#: index.php:348
+msgid "Partenaires"
+msgstr "Parceiros"
+
+#: index.php:374 index.php:394 index.php:414 index.php:434
+msgid "Affilié NosRezo"
+msgstr "Afiliado NosRezo"
+
+#: index.php:381
+msgid ""
+"Non seulement je rends service à mon relationnel mais en plus j’arrondis "
+"généreusement mes fins de mois."
+msgstr ""
+"Não só presto serviço ao meu leque de relações como complemento "
+"generosamente o meu fim do mês."
+
+#: index.php:401
+msgid ""
+"Le site est simple, gratuit, je recommande dans l’Intranet en 1 minute et "
+"NosRezo s’occupe de tout. Mes amis sont ravis."
+msgstr ""
+"O site é simples, gratuito, efectuo a recomendação por intranet num 1 minuto "
+"a  NosRezo ocupa-se de tudo.  Todos os meus amigos ficam contentes."
+
+#: index.php:421
+msgid ""
+"Quel plaisir d’être la personne qui a toujours un bon professionnel à "
+"proposer à mes amis qui en ont besoin."
+msgstr ""
+"é um prazer ser a pessoa que tem sempre para propor o melhor porfissional "
+"aos meus amigos quando precisam."
+
+#: index.php:441
+msgid ""
+"Je me suis inscrite sur le Smartphone d’un ami. Il m’avait mis en relation "
+"avec un électricien très efficace."
+msgstr ""
+"Inscrevi-me através do Smartphone de um amigo. Este colocou-me em contato "
+"com um eletricista muito eficaz ."
+
+#: index.php:466
+msgid "Un outil simple"
+msgstr "Uma ferramenta simples"
+
+#: index.php:468
+msgid "Gérez vos recommandations en seulement quelques clics..."
+msgstr "Gira as suas recomendações com apenas alguns clics..."
+
+#: index.php:489
+msgid "Découvrez nos services"
+msgstr "Descubra os nossos serviços"
+
+#: index.php:505
+msgid "Simulation des revenus potentiels"
+msgstr "Simulador de potenciais rendimentos"
+
+#: index.php:521
+msgid "Organisez des présentations NosRezo"
+msgstr "Organize as prestações Nosrezo"
+
+#: index.php:537
+msgid "Recommandez un service n'a jamais été aussi simple"
+msgstr "Recomendar um serviço nunca foi tão simples"
+
+#: index.php:568 index.php:598
+msgid "Entrez dès aujourd'hui chez NosRezo"
+msgstr "ENTRE JÁ HOJE EM NOSREZO"
+
+#: index.php:572
+msgid "S'inscrire"
+msgstr "Inscrição"
+
+#: index.php:655
+msgid "Tout droits réservés"
+msgstr "Todos os direitos reservados"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Ouvrir le calendrier"
+#~ msgstr "Abrir calendário"
+
+#~ msgid "présentation"
+#~ msgstr "apresentação"
+
+#~ msgid ""
+#~ "Selon une étude mondiale du cabinet de conseil en management Accenture "
+#~ "réalisée en 2011, le bouche-à-oreille est la 1ère source d’information "
+#~ "pour la décision d’achat des clients : 76 % des personnes interrogées se "
+#~ "fient aux avis des proches, contre 24 % à la publicité"
+#~ msgstr ""
+#~ "Segundo um estudo mundial efectuado pelo concelho de gestão Accenture "
+#~ "realizado em 2011, a informação de indivíduo a indivíduo é a 1ª fonte  "
+#~ "para a decisão de compra dos clientes: “76% das pessoas interrogadas "
+#~ "confiam mais na opinião de um próximo, contra 24% na publicidade"
+
+#~ msgid ""
+#~ "Les partenaires sont sélectionnés pour leurs compétences et leurs taux de "
+#~ "satisfaction auprès de nos affiliés"
+#~ msgstr ""
+#~ "Os colaboradores são selecionados pelas suas competências  e pelo graude "
+#~ "satisfação dos nosso filiados"
+
+#~ msgid ""
+#~ "Par les notes que vous attribuez une fois la prestation réalisée, vous "
+#~ "contribuez à mettre en avant ou à faire déréférencer le partenaire de la "
+#~ "communauté NosRezo"
+#~ msgstr ""
+#~ "De acordo com a nota atribuída aos serviços prestados, você ajudará a "
+#~ "realçar a permanência ou a excluir o colaborador da comunidade Nosrezo"
+
+#~ msgid ""
+#~ "Devant la masse d’offres sur Internet, faire le bon choix dépend de plus "
+#~ "en plus du relationnel"
+#~ msgstr ""
+#~ "Perante o vasto numero de ofertas na internet, fazer a escolha mais "
+#~ "correta depende cada vez mais do lado relacional"
+
+#~ msgid ""
+#~ " En devenant affilié, vous devenez LA personne qui connaît le meilleur "
+#~ "plombier du coin, le meilleur artisan, le meilleur conseiller immobilier"
+#~ msgstr ""
+#~ "Ao ser nosso filiado, você será A pessoa que conhece o melhor canalizador "
+#~ "da zona, o melhor artesão, o melhor agente imobiliário"
+
+#~ msgid ""
+#~ "En devenant affilié, vous devenez aussi LA personne qui a une solution "
+#~ "simple de complément de revenu"
+#~ msgstr ""
+#~ "Ao ser nosso filiado, você será também a pessoa que tem uma solução "
+#~ "simples para um complemento de rendimentos"
+
+#~ msgid ""
+#~ "Les PME consacrent 11% de leur chiffre d’affaires pour trouver des "
+#~ "clients - Source : Marketing Sherpa 2009"
+#~ msgstr ""
+#~ "As PME (Pequenas e Médias Empresas) gastam cerca de 11% do volume de "
+#~ "negócios  para encontrar clientes – Fontes: Marketing Sherpa 2009"
+
+#~ msgid ""
+#~ "Les affiliés NosRezo complètent leurs revenus en faisant économiser une "
+#~ "publicité coûteuse aux entreprises"
+#~ msgstr ""
+#~ "Os filiadosNosrezo complementam os seus rendimentos, economizando em "
+#~ "publicidades dispendiosas para as empresas"
+
+#~ msgid "Gérez vos recommandations en seulement quelques clics"
+#~ msgstr "Gira as suas recomendações com apenas alguns clics"

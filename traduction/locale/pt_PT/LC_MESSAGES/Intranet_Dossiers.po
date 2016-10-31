@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-06 09:25+0000\n"
+"PO-Revision-Date: 2015-11-06 09:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Intranet_Dossiers.php:33
+msgid "Actions"
+msgstr "Acções"
+
+#: Intranet_Dossiers.php:33
+msgid "Suivi de vos dossiers"
+msgstr "Seguir os seus dossiers"
+
+#: tableau_prescription.php:24
+msgid "POUR TOUTE QUESTION SUIVI QUALITÉ"
+msgstr "PARA QUAISQUER PERGUNTAS SOBRE QUALIDADE"
+
+#: tableau_prescription.php:24
+msgid "ou"
+msgstr "ou"
+
+#: tableau_prescription.php:25
+msgid "CLIQUEZ SUR DÉTAILS POUR AVOIR LES COORDONNÉES DU PARTENAIRE"
+msgstr "CLIQUE EM DETALHES PARA OBTER AS INFORMAÇÕES DO PARCEIRO"
+
+#: tableau_prescription.php:36
+msgid "EN COURS"
+msgstr "SENDO"
+
+#: tableau_prescription.php:37
+msgid "FERMÉES"
+msgstr "FECHADOS"
+
+#: tableau_prescription.php:53 tableau_prescription.php:129
+msgid "CATÉGORIE"
+msgstr "CATEGORIA"
+
+#: tableau_prescription.php:54 tableau_prescription.php:130
+msgid "PRÉNOM"
+msgstr "APELIDO"
+
+#: tableau_prescription.php:55 tableau_prescription.php:131
+msgid "NOM"
+msgstr "NOME PRÓPRIO"
+
+#: tableau_prescription.php:56 tableau_prescription.php:132
+msgid "ÉTAPE"
+msgstr "ETAPA"
+
+#: tableau_prescription.php:56 tableau_prescription.php:132
+msgid "ACTION"
+msgstr "ACÇÃO"
+
+#: tableau_prescription.php:57
+msgid "GAINS POTENTIEL "
+msgstr "LUCRO POTENCIAL"
+
+#: tableau_prescription.php:58 tableau_prescription.php:133
+msgid "GAINS BRUT"
+msgstr "LUCRO ILÍQUIDO"
+
+#: tableau_prescription.php:59 tableau_prescription.php:134
+msgid "DOSSIER"
+msgstr "DOSSIER"
+
+#: tableau_prescription.php:81
+msgid "NOTER LE PARTENAIRE"
+msgstr "AVISAR O PARCEIRO"
+
+#: tableau_prescription.php:86
+msgid "DEMANDE VIREMENT"
+msgstr "PEDIDO DE TRANSFERÊNCIA"
+
+#: tableau_prescription.php:106
+msgid "DÉTAILS"
+msgstr "DETALHES"
+
+#: tableau_prescription.php:154
+msgid "Annulée"
+msgstr "Cancelado"
+
+#: tableau_prescription.php:187
+msgid "LES"
+msgstr "   "
+
+#: tableau_prescription.php:187
+msgid "DIFFÉRENTES ÉTAPES DE LA RECOMMANDATION"
+msgstr "DIFERENTES ETAPAS DA RECOMENDAÇÃO"

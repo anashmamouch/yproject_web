@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-06 10:58+0000\n"
+"PO-Revision-Date: 2015-11-06 10:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Intranet_Mon_Profil_banque.php:34
+msgid "Mon compte"
+msgstr "A minha conta"
+
+#: Intranet_Mon_Profil_banque.php:34
+msgid "Informations de paiement"
+msgstr "Informações de pagamento"
+
+#: Intranet_Mon_Profil_banque.php:118
+msgid ""
+"NosRezo procédera au virement sur le compte indiqué. Ces informations seront "
+"sauvegardées avec leurs modifications."
+msgstr ""
+"NosRezo procederá à transferência para a conta indicada. Estas informações "
+"serão guardadas com as suas alterações."
+
+#: Intranet_Mon_Profil_banque.php:118
+msgid "Ces informations servent aux virements de vos commissions"
+msgstr "Esta informação é usada para a transferência das suas comissões"
+
+#: Intranet_Mon_Profil_banque.php:119
+msgid "NosRezo procède aux virements sur le compte de ses affiliès uniquement."
+msgstr ""
+"NosRezo efectua transferências somente para as contas em nome do afiliado."
+
+#: Intranet_Mon_Profil_banque.php:119
+msgid "Ce compte doit correspondre à votre Nom et votre Prénom"
+msgstr "Esta conta deve corresponder ao seu nome e apelido."
+
+#: Intranet_Mon_Profil_banque.php:126
+msgid "Code banque"
+msgstr "Código do banco"
+
+#: Intranet_Mon_Profil_banque.php:131 Intranet_Mon_Profil_banque.php:154
+#: Intranet_Mon_Profil_banque.php:166 Intranet_Mon_Profil_banque.php:178
+msgid "Modification non valide"
+msgstr "Alteração não válida"
+
+#: Intranet_Mon_Profil_banque.php:137
+msgid "Nom banque"
+msgstr "Nome do banco"
+
+#: Intranet_Mon_Profil_banque.php:141 Intranet_Mon_Profil_banque.php:142
+#: Intranet_Mon_Profil_banque.php:153 Intranet_Mon_Profil_banque.php:164
+#: Intranet_Mon_Profil_banque.php:165 Intranet_Mon_Profil_banque.php:176
+#: Intranet_Mon_Profil_banque.php:177 Intranet_Mon_Profil_banque.php:188
+msgid "Obligatoire"
+msgstr "Obrigatório"
+
+#: Intranet_Mon_Profil_banque.php:148
+msgid "Code guichet"
+msgstr "Código da agência"
+
+#: Intranet_Mon_Profil_banque.php:160
+msgid "Numéro de compte"
+msgstr "Número de conta"
+
+#: Intranet_Mon_Profil_banque.php:172
+msgid "Clé RIB"
+msgstr "Chave RIB"
+
+#: Intranet_Mon_Profil_banque.php:184
+msgid "IBAN"
+msgstr "IBAN"
+
+#: Intranet_Mon_Profil_banque.php:201
+msgid "SAUVEGARDER"
+msgstr "GUARDAR"

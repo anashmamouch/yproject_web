@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-06 11:01+0000\n"
+"PO-Revision-Date: 2015-11-06 11:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Intranet_Mon_Profil_pass.php:34
+msgid "Mon compte NosRezo"
+msgstr "A minha conta NosRezo"
+
+#: Intranet_Mon_Profil_pass.php:34
+msgid "Identifiant"
+msgstr "Identificação"
+
+#: Intranet_Mon_Profil_pass.php:63
+msgid "La modification du mot de passe a été prise en compte"
+msgstr ""
+
+#: Intranet_Mon_Profil_pass.php:64
+msgid "Modification du mot de passe non prise en compte"
+msgstr ""
+
+#: Intranet_Mon_Profil_pass.php:67
+msgid "Votre nouveau mot de passe doit comporter"
+msgstr "A sua nova palavra-passe deve ter"
+
+#: Intranet_Mon_Profil_pass.php:68
+msgid "Entre 6 et 20 caractères"
+msgstr "Entre 6 e 20 caracteres"
+
+#: Intranet_Mon_Profil_pass.php:69
+msgid "Au moins une lettre et un chiffre"
+msgstr "Pelo menos uma letra e um algarismo"
+
+#: Intranet_Mon_Profil_pass.php:73
+msgid "Mot de passe actuel"
+msgstr "Palavra-passe actual"
+
+#: Intranet_Mon_Profil_pass.php:77 Intranet_Mon_Profil_pass.php:95
+msgid "Obligatoire"
+msgstr ""
+
+#: Intranet_Mon_Profil_pass.php:78 Intranet_Mon_Profil_pass.php:96
+msgid "min 6 char"
+msgstr ""
+
+#: Intranet_Mon_Profil_pass.php:79
+msgid "Non conforme"
+msgstr ""
+
+#: Intranet_Mon_Profil_pass.php:91
+msgid "Nouveau mot de passe"
+msgstr "Nova palavra-passe"
+
+#: Intranet_Mon_Profil_pass.php:97 Intranet_Mon_Profil_pass.php:109
+msgid "Non identique"
+msgstr ""
+
+#: Intranet_Mon_Profil_pass.php:98
+msgid "Non Valide"
+msgstr ""
+
+#: Intranet_Mon_Profil_pass.php:103
+msgid "Confirmer mot de passe"
+msgstr "Confirmar palavra-passe"
+
+#: Intranet_Mon_Profil_pass.php:108
+msgid "min 6 caractères"
+msgstr ""
+
+#: Intranet_Mon_Profil_pass.php:119
+msgid "MODIFIER"
+msgstr "ALTERAR"

@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-06 10:52+0000\n"
+"PO-Revision-Date: 2015-11-06 10:57+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Intranet_Mon_Profil.php:34
+msgid "Mon profil Affilié"
+msgstr "Meu perfil de Afiliado"
+
+#: Intranet_Mon_Profil.php:177
+msgid ""
+"Upload effectué avec succès : Pensez à rafraichir votre cache pour afficher "
+"la photo sur votre page !"
+msgstr ""
+"Carregamento efectuado com sucesso: lembre-se de actualizar a página para "
+"ver a foto!"
+
+#: Intranet_Mon_Profil.php:189
+msgid "Echec de l'upload !"
+msgstr "O carregamento falhou!"
+
+#: Intranet_Mon_Profil.php:246
+msgid "Mes données"
+msgstr "Meus dados"
+
+#: Intranet_Mon_Profil.php:249
+msgid "MES INFORMATIONS"
+msgstr "AS MINHAS INFORMAÇÕES"
+
+#: Intranet_Mon_Profil.php:255
+msgid "ENTREPRISE"
+msgstr "EMPRESA"
+
+#: Intranet_Mon_Profil.php:260
+msgid "MA PHOTO DE PROFIL"
+msgstr "A MINHA FOTO DE PERFIL"
+
+#: Intranet_Mon_Profil.php:263
+msgid "MON RIB"
+msgstr "O MEU NIB"
+
+#: Intranet_Mon_Profil.php:283
+msgid "Pensez à renseigner tous les champs, si vous souhaitez être payé. "
+msgstr "Lembre-se de preencher todos os campos, se você quer ser pago."
+
+#: Intranet_Mon_Profil.php:283
+msgid "Pour toutes questions :"
+msgstr "Para todas as questões :"
+
+#: Intranet_Mon_Profil.php:287 Intranet_Mon_Profil.php:499
+msgid "Nom"
+msgstr "Nome"
+
+#: Intranet_Mon_Profil.php:295 Intranet_Mon_Profil.php:507
+msgid "E-mail"
+msgstr "Email"
+
+#: Intranet_Mon_Profil.php:296
+msgid "Pour modifier votre email, envoyer un mail à"
+msgstr "Para alterar o seu email, envie um email para"
+
+#: Intranet_Mon_Profil.php:305
+msgid "Parrain NosRezo"
+msgstr "Padrinho NosRezo"
+
+#: Intranet_Mon_Profil.php:313
+msgid "Téléphone"
+msgstr "Telefone"
+
+#: Intranet_Mon_Profil.php:324
+msgid "Adresse"
+msgstr "Endereço"
+
+#: Intranet_Mon_Profil.php:334
+msgid "Code Postal"
+msgstr "Código Postal"
+
+#: Intranet_Mon_Profil.php:345
+msgid "Ville"
+msgstr "Localidade"
+
+#: Intranet_Mon_Profil.php:354
+msgid "Date de Naissance"
+msgstr "Data de nascimento"
+
+#: Intranet_Mon_Profil.php:362
+msgid "Lieu de Naissance"
+msgstr "Lugar de nascimento"
+
+#: Intranet_Mon_Profil.php:371
+msgid "Nationalité"
+msgstr "Nacionalidade"
+
+#: Intranet_Mon_Profil.php:379
+msgid "Num Sécurité Sociale"
+msgstr "Número de contribuinte"
+
+#: Intranet_Mon_Profil.php:391
+msgid "Vous vivez dans"
+msgstr ""
+
+#: Intranet_Mon_Profil.php:396 Intranet_Mon_Profil.php:410
+msgid "Merci de choisir dans la liste"
+msgstr ""
+
+#: Intranet_Mon_Profil.php:397
+msgid "Une Maison"
+msgstr ""
+
+#: Intranet_Mon_Profil.php:398
+msgid "Un appartement"
+msgstr ""
+
+#: Intranet_Mon_Profil.php:405
+msgid "Vous êtes"
+msgstr ""
+
+#: Intranet_Mon_Profil.php:411
+msgid "Propriétaire de votre logement"
+msgstr ""
+
+#: Intranet_Mon_Profil.php:412
+msgid "Locataire de votre logement"
+msgstr ""
+
+#: Intranet_Mon_Profil.php:427 Intranet_Mon_Profil.php:543
+msgid "SAUVEGARDER"
+msgstr "GUARDAR"
+
+#: Intranet_Mon_Profil.php:481
+msgid "OUI"
+msgstr "SIM"
+
+#: Intranet_Mon_Profil.php:481
+msgid "Je facture NosRezo avec une entreprise"
+msgstr "Eu facturo o NosRezo como uma empresa"
+
+#: Intranet_Mon_Profil.php:482
+msgid "NON"
+msgstr "NÃO"
+
+#: Intranet_Mon_Profil.php:482
+msgid "Je ne facture pas NosRezo avec une entreprise"
+msgstr "Eu não facturo o NosRezo como uma empresa"
+
+#: Intranet_Mon_Profil.php:491
+msgid "Catégorie"
+msgstr "Categoria"
+
+#: Intranet_Mon_Profil.php:518
+msgid "SIRET"
+msgstr "Certidão Permanente"
+
+#: Intranet_Mon_Profil.php:527
+msgid "Numéro TVA INTRACOMMUNAUTAIRE"
+msgstr "Número de IVA INTRACOMUNITÁRIO"
+
+#: Intranet_Mon_Profil.php:565
+msgid ""
+"Votre photo doit être de préférence carré et ne doit pas être supérieur à 1 "
+"M."
+msgstr ""
+"A sua foto deve ser quadrada de preferência e não deve ser superior a 1 MB."
+
+#: Intranet_Mon_Profil.php:575
+msgid "CHARGER VOTRE PHOTO "
+msgstr "CARREGAR A SUA FOTO"
+
+#: Intranet_Mon_Profil.php:584
+msgid "Le paiement NosRezo se fait par virement bancaire sur votre compte :"
+msgstr ""
+
+#: Intranet_Mon_Profil.php:587
+msgid "MISE À JOUR DU RIB DE PAIEMENT"
+msgstr ""

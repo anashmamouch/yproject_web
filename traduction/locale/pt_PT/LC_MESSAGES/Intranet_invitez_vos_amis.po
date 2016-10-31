@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-06 10:07+0000\n"
+"PO-Revision-Date: 2015-11-06 10:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Intranet_invitez_vos_amis.php:33
+msgid "Merci de saisir tous les champs ci-dessous"
+msgstr "Agradecemos que preencha todos os campos abaixo"
+
+#: Intranet_invitez_vos_amis.php:34
+msgid "Prise en compte de votre recommandation"
+msgstr "Consideração da sua recomendação"
+
+#: Intranet_invitez_vos_amis.php:39
+msgid "Invitation NosRezo"
+msgstr "Convite NosRezo"
+
+#: Intranet_invitez_vos_amis.php:39
+msgid "par mail"
+msgstr "por email"
+
+#: Intranet_invitez_vos_amis.php:73
+msgid "INVITEZ"
+msgstr "Convidar"
+
+#: Intranet_invitez_vos_amis.php:74
+msgid "MAILS"
+msgstr "EMAILS"
+
+#: Intranet_invitez_vos_amis.php:75
+msgid "CONSEILS"
+msgstr "CONSELHOS"
+
+#: Intranet_invitez_vos_amis.php:94
+msgid "Email de votre contact"
+msgstr "Email do contacto"
+
+#: Intranet_invitez_vos_amis.php:98
+msgid "ENVOYEZ L'INVITATION"
+msgstr "ENVIAR CONVITE"
+
+#: Intranet_invitez_vos_amis.php:108
+msgid "De la part de"
+msgstr "Da parte de"
+
+#: Intranet_invitez_vos_amis.php:122
+msgid "Vous serez en copie du mail"
+msgstr "Você receberá cópia do email."
+
+#: Intranet_invitez_vos_amis.php:123
+#, php-format
+msgid ""
+"Savez-vous que 11% des adresses mails saisies sont incorrectes ? Un "
+"conseil : Vérifiez à 2 fois avant d'envoyer vos invitations."
+msgstr ""
+"Sabia que 11% dos email escritos estão incorrectos? Um conselho: Verifique 2 "
+"vezes antes de enviar os convites"
+
+#: Intranet_invitez_vos_amis.php:130
+msgid ""
+"Pour information, ci-après votre lien d\\'inscription pré-rempli pour vos "
+"filleuls"
+msgstr ""
+"Para informação, em baixo encontra o link de inscrição pré preenchido para "
+"os seus afiliados"
+
+#: Intranet_invitez_vos_amis.php:160
+msgid "DATE ENVOI"
+msgstr "DATA DE ENVIO"
+
+#: Intranet_invitez_vos_amis.php:161
+msgid "MAIL"
+msgstr "MAIL"
+
+#: Intranet_invitez_vos_amis.php:188 Intranet_invitez_vos_amis.php:191
+#: Intranet_invitez_vos_amis.php:199
+msgid "CONSEIL"
+msgstr "CONSELHO"
+
+#: Intranet_invitez_vos_amis.php:188
+msgid ""
+"Avez vous participé à un webinar en ligne afin de bien comprendre le concept "
+"NosRezo ?"
+msgstr ""
+"Já participou a num webinar a fim de verificar se entendeu correctamente o "
+"conceito de Nosrezo?"
+
+#: Intranet_invitez_vos_amis.php:189
+msgid "Cliquez ici pour les liens webinar"
+msgstr "Carregue aqui para os links dos webinares"
+
+#: Intranet_invitez_vos_amis.php:191
+msgid "Savez-vous que vous êtes limité seulement à 5 invitations NosRezo ?"
+msgstr "Tem conhecimento que só é permitido 5 convites para Nosrezo?"
+
+#: Intranet_invitez_vos_amis.php:192
+msgid ""
+"Avant d'envoyer une invitation, expliquer le concept à votre contact en 10 "
+"min"
+msgstr ""
+"Antes de enviar o convite, explique em 10 minutos o conceito ao seu contacto"
+
+#: Intranet_invitez_vos_amis.php:193
+msgid ""
+"Avant d'envoyer une invitation, choisissez bien vos contacts qui souhaitent :"
+msgstr ""
+"Antes de enviar um convite, certifique-se que os seus contactos possam :"
+
+#: Intranet_invitez_vos_amis.php:194
+msgid ""
+"Pouvoir enfin faire confiance à un professionnel (travaux, financement, "
+"immobilier...)"
+msgstr "Ter confiança num profissional (obras, financiamentos, imobiliário…)"
+
+#: Intranet_invitez_vos_amis.php:195
+msgid "Pouvoir rendre service à leur entourage en recommandant les meilleurs"
+msgstr "Prestar serviço em redor recomendando os melhores"
+
+#: Intranet_invitez_vos_amis.php:196
+msgid "Percevoir des compléments de revenus (Moyenne 360€ par recommandation)"
+msgstr "Receber um complemento salarial (em média 360 euros por recomendação)"
+
+#: Intranet_invitez_vos_amis.php:197
+msgid "Inviter à leur tour 5 personnes répondant à ces critères"
+msgstr ""
+"Ser capaz por sua vez de convidar 5 novas pessoas, que correspondam a estes "
+"critérios"
+
+#: Intranet_invitez_vos_amis.php:199
+msgid "Méthode plus éfficace que l\\'invitation !"
+msgstr "Método mais eficaz que o convite!"
+
+#: Intranet_invitez_vos_amis.php:200
+msgid "Prenez le smartphone de votre ami"
+msgstr "Pegue no smartphone do seu amigo"
+
+#: Intranet_invitez_vos_amis.php:201
+msgid "Allez sur www.nosrezo.com"
+msgstr "Vá até www.nosrezo.com"
+
+#: Intranet_invitez_vos_amis.php:202
+msgid "Cliquez sur inscription"
+msgstr "Clique em inscrição"
+
+#: Intranet_invitez_vos_amis.php:203
+msgid ""
+"Préciser à votre ami que vous le rappelerez dans 7 jours pour le désinscrire "
+"si il n'a pas invité à son tour"
+msgstr ""
+"Diga ao seu amigo que em 7 dias irá lembrá-lo a desinscrever-se se não "
+"efectuar convites"
+
+#: Intranet_invitez_vos_amis.php:240
+msgid "Tous droits réservés"
+msgstr "Todos os direitos reservados"
+
+#: Intranet_invitez_vos_amis.php:372
+msgid ""
+"Votre mail a été envoyé à votre contact ! Pensez à regarder dans les spams."
+msgstr ""
+"O seu email foi enviado ao seu contacto. Verifique na pasta de spam se "
+"necessário."
+
+#: Intranet_invitez_vos_amis.php:377
+msgid "Vous n\\êtes pas connecté, merci de contacter le support à"
+msgstr ""
+"Você não se encontra ligado, é favor de contactar o suporte através de "
+"contact@nosrezo.com"
+
+#: Intranet_invitez_vos_amis.php:380
+msgid "Merci de saisir un mail valide"
+msgstr "Insiram um email válido por favor"
+
+#: Intranet_invitez_vos_amis.php:383
+msgid "Oups, ce format n\\'est pas valable pour les mails !"
+msgstr "Desculpe, esse não é um formato válido de endereço de email !"
+
+#: Intranet_invitez_vos_amis.php:386
+msgid "Votre contact est déjà chez NosRezo !"
+msgstr "O seu contacto já se encontra no NosRezo!"

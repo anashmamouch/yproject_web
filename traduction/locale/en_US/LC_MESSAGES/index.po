@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-09-13 13:17+0000\n"
+"PO-Revision-Date: 2016-09-13 13:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: index2.php\n"
+
+#: index2.php:22
+msgid "L'application qui vous rémunère en rendant service"
+msgstr "The app that pays you to serve"
+
+#: index2.php:47 index2.php:156
+msgid "Inscription"
+msgstr "Register"
+
+#: index2.php:68
+msgid "L'application qui <br/> vous rémunère<br/>pour rendre service"
+msgstr "The app that <br/> pays you<br/> to serve"
+
+#: index2.php:71
+msgid "C'est quoi NosRezo ?"
+msgstr "What is NosRezo?"
+
+#: index2.php:102
+msgid "Téléchargez l'application"
+msgstr "Download the app"
+
+#: index2.php:104
+msgid "Disponible dans l’App Store"
+msgstr "Available in the App Store"
+
+#: index2.php:107
+msgid "Disponible dans Google Play"
+msgstr "Available in Google Play "
+
+#: index2.php:143 index2.php:145 index2.php:150
+msgid "Identifiant ou adresse email"
+msgstr "ID or Email Address"
+
+#: index2.php:148
+msgid "Mot de passe"
+msgstr "Password"
+
+#: index2.php:152
+msgid "Connexion"
+msgstr "Log in"
+
+#: index2.php:154
+msgid "Identifiant ou mot de passe oublié ?"
+msgstr "Forgot username or password?"
+
+#: index2.php:156
+msgid "Pas encore inscrit ?"
+msgstr "Not registered yet ?"
+
+#: index2.php:165
+msgid "Mot de passe oublié ?"
+msgstr "Forgot your password ?"
+
+#: index2.php:166
+msgid "Entrez votre adresse email ci-dessous pour recevoir votre mot de passe."
+msgstr "Enter your email address below to receive your password."
+
+#: index2.php:170
+msgid "Email affilié ou email partenaire"
+msgstr "Email of  affiliate or email of partner"
+
+#: index2.php:174
+msgid "Retour"
+msgstr "Return"
+
+#: index2.php:175
+msgid "Recevoir"
+msgstr "To receive "
+
+#: index2.php:217
+msgid "Mentions légales"
+msgstr "Legal Notice"
+
+#: index2.php:222
+msgid "Contact"
+msgstr "Get in Touch"
+
+#: index2.php:246
+msgid "Tous droits réservés"
+msgstr "All rights reserved"

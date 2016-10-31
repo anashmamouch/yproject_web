@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-06 10:21+0000\n"
+"PO-Revision-Date: 2015-11-06 10:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:33
+msgid "Actions"
+msgstr "Acções"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:33
+msgid "de la recommandation"
+msgstr "da recomendação"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:93
+msgid "MERCI POUR CES INFORMATIONS : NOUS LES PRENONS EN COMPTE !"
+msgstr "OBRIGADO PELAS INFORMAÇÕES: FORAM TOMADAS EM CONTA"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:113
+msgid "Aucun partenaire disponible sur ce secteur pour le moment."
+msgstr "Neste momento não há nenhum parceiro disponível."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:115
+msgid "Le contact a préferé traiter avec son partenaire"
+msgstr "O contacto preferiu entrar em acordo com o seu parceiro"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:116
+msgid "Le contact est non joignable."
+msgstr "O contacto está inacessível."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:117
+msgid "Le contact a annulé son projet."
+msgstr "O contacto anulou o seu projecto."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:118
+msgid "Devis non accepté par le client."
+msgstr "Orçamento não aceite pelo cliente."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:119
+msgid ""
+"Manque de temps pour le partenaire car le dossier était presque finalisé."
+msgstr "Tempo a esgotar-se para o parceiro, o projecto está quase finalizado."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:120
+msgid "Le contact est déjà chez un partenaire NosRezo."
+msgstr "O contacto já está com um parceiro NosRezo."
+
+#: Intranet_Nouvelle_recommandation_suivi.php:122
+msgid "Le devis est trop élevé"
+msgstr "O orçamento é muito alto"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:123
+msgid ""
+"Le contact n\\'était pas prévenu par la personne qui a fait la recommandation"
+msgstr "O contacto não foi notificado pela pessoa que fez a recomendação"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:124
+msgid "Recommandation annulée"
+msgstr "Recomendação anulada"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:144
+msgid "Si vous avez des questions n\\'hésitez pas à le contacter au "
+msgstr "Se tiver dúvidas não hesite em o contactar pelo"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:144
+msgid "ou par mail à"
+msgstr "ou pelo email"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:154
+msgid "Service"
+msgstr "Serviço"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:162
+msgid "Nom du contact"
+msgstr "Nome de contacto"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:170
+msgid "Adresse"
+msgstr "Endereço"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:178
+msgid "Contacts"
+msgstr "Contactos"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:186
+msgid "Vos commentaires"
+msgstr "Comentários"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:201
+msgid "HISTORIQUE"
+msgstr "HISTÓRICO"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:202
+msgid "INFORMATION"
+msgstr "INFORMAÇÕES"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:203
+msgid "ACTION"
+msgstr "ACÇÃO"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:222
+msgid "DATE"
+msgstr "DATA"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:223
+msgid "DÉTAILS"
+msgstr "DETALHES"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:251
+msgid "Informations complémentaires"
+msgstr "Informações complementares"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:253
+msgid ""
+"N'hésitez pas à nous envoyer des détails sur le suivi de ce dossier, si vous "
+"en avez !"
+msgstr ""
+"Não hesite em nos enviar quaisquer detalhes que possua sobre este dossier!"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:258
+msgid "Mode d'envoi"
+msgstr "Modo de envio"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:263
+msgid "Envoyer uniquement à NosRezo"
+msgstr "Enviar unicamente ao NosRezo"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:264
+msgid "Envoyer à Nosrezo et au partenaire"
+msgstr "Enviar ao NosRezo e ao parceiro"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:275
+msgid "ENVOYER INFORMATIONS"
+msgstr "ENVIAR INFORMAÇÕES"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:299
+msgid "Mon contact a préferé traiter avec son partenaire"
+msgstr "O meu contacto preferiu entrar em acordo com o seu parceiro"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:302
+msgid "Mon contact a annulé son projet"
+msgstr "O meu contacto anulou o projecto"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:305
+msgid "Manque de réactivité du Partenaire"
+msgstr "Falta de capacidade de resposta do parceiro"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:308
+msgid "Le Devis est non accepté par mon contact"
+msgstr "O Orçamento não foi aceite pelo meu contacto"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:316
+msgid "Commentaire"
+msgstr "Comentário"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:318
+msgid "Précisez le commentaire que vous souhaitez adresser à NosRezo"
+msgstr "Indique o comentário que quer enviar ao NosRezo"
+
+#: Intranet_Nouvelle_recommandation_suivi.php:326
+msgid "FERMER LA RECOMMANDATION"
+msgstr "FECHAR A RECOMENDAÇÃO"

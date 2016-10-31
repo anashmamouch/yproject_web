@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-03 13:51+0000\n"
+"PO-Revision-Date: 2015-11-06 10:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Intranet_Simulation_Nette.php:33
+msgid "Informations"
+msgstr "Informações"
+
+#: Intranet_Simulation_Nette.php:33
+msgid "Simulation Nette"
+msgstr "Simulação líquida"
+
+#: Intranet_Simulation_Nette.php:47
+msgid "Vous percevrez une rémunération Nette de la part de NosRezo"
+msgstr "Você recebe um lucro líquido de NosRezo"
+
+#: Intranet_Simulation_Nette.php:48
+msgid "Exemples"
+msgstr "Exemplos"
+
+#: Intranet_Simulation_Nette.php:62
+msgid "Revenu BRUT Trimestriel"
+msgstr "Receita ILÍQUIDA trimestral"
+
+#: Intranet_Simulation_Nette.php:63
+msgid "Charges sociales et gestion"
+msgstr "Custos sociais e de gestão"
+
+#: Intranet_Simulation_Nette.php:64
+msgid "Revenu NET Affilié"
+msgstr "Receita LÍQUIDA do afiliado"
+
+#: Intranet_Simulation_Nette.php:143
+msgid ""
+"Cette rémunération devra simplement être ajoutée à votre déclaration de "
+"revenu"
+msgstr ""
+"Esta remuneração deverá ser simplesmente adicionado à sua declaração de "
+"impostos"
